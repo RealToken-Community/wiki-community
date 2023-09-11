@@ -1,5 +1,5 @@
 ---
-description: Bienvenue sur le Wiki de la communauté RealT.
+description: Bienvenue sur le Wiki de la communauté RealT
 ---
 
 # ☺ Hello !
