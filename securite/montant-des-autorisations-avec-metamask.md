@@ -1,6 +1,6 @@
 # Montant des autorisations avec MetaMask
 
-MetaMask a modifié la façon dont il traite les demandes d’approbation (préalable à tout transaction), il demande désormais aux utilisateurs de spécifier eux mêmes, la quantité de jeton dont ils souhaitent approuver l’utilisation.
+MetaMask a modifié la façon dont il traite les demandes d’approbation (préalable à tout transaction avec un smart contrat), il demande désormais aux utilisateurs de spécifier eux mêmes, la quantité de jeton dont ils souhaitent approuver l’utilisation.
 
 Là où la démarche, emprunte de transparence, peut perturber l’utilisateur ; c’est que le montant affiché par défaut par MetaMask est le montant proposé par l’application (avec laquelle vous êtes en train de faire la transaction).
 
