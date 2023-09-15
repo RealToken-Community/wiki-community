@@ -1,15 +1,15 @@
 # Montant des autorisations avec MetaMask
 
-MetaMask a modifié la façon dont il traite les demandes d’approbations (préalable a tout transaction), il demande désormais aux utilisateurs de spécifier eux mêmes, la quantité de jeton dont ils souhaitent approuver l’utilisation.
+MetaMask a modifié la façon dont il traite les demandes d’approbation (préalable à tout transaction), il demande désormais aux utilisateurs de spécifier eux mêmes, la quantité de jeton dont ils souhaitent approuver l’utilisation.
 
 Là où la démarche, emprunte de transparence, peut perturber l’utilisateur ; c’est que le montant affiché par défaut par MetaMask est le montant proposé par l’application (avec laquelle vous êtes en train de faire la transaction).
 
-Hors, pour simplifier le parcours utilisateur, certaines applications proposent que l’approbation soit pour une quantité "illimité" !…
+Hors, pour simplifier le parcours utilisateur, certaines applications proposent que l’approbation soit pour une quantité "illimitée" !…
 
 Prenons comme exemple un dépôt de WXDAI sur le RMM : l’approbation MetaMask qui apparaît maintenant est la suivante, avec un chiffre très élévé (en rouge) pour le plafond :\
-Nota : Comportement identique avec d'autres applications, comme 1inch par exemple.
+(Ce comportement est identique avec d'autres applications, comme 1inch par exemple)
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="361"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
 
 Vous avez alors trois options :&#x20;
 
@@ -19,9 +19,9 @@ Vous avez alors trois options :&#x20;
     Ce qui simplifiera votre prochain dépôt, puisque vous n’aurez plus besoin de faire cette étape d’approbation préalable…
 
     Vous pouvez vérifier votre approbation en allant sur [Revoke.cash](https://revoke.cash/), \
-    (et éventuellement la revoquer, ce qui vous coutera des frais de transaction, que vous auriez pu éviter avec la dernière option)
+    (et éventuellement la revoquer, ce qui vous coutera des frais de transaction, que vous auriez pu éviter avec l'option 3)
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Autorisation du wallet via Revoke.cash</p></figcaption></figure>
 2.  **Cliquer sur « max »**,
 
     Votre approbation sera alors limitée au montant dont vous disposez sur votre wallet.\
