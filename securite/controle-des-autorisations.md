@@ -1,10 +1,12 @@
 ---
-description: que vous avez donné à des smart contrats sur vos jetons.
+description: >-
+  comment contrôler les autorisations que vous avez accordées  à des smart
+  contrats sur vos jetons.
 ---
 
-# Contrôle des Autorisations
+# Autorisations de dépense sur vos jetons
 
-Lors de vos transactions, vous donnez des autorisations à des Smart Contrats pour accéder et déplacer vos jetons.&#x20;
+Lors de vos transactions, vous donnez des autorisations à des smart contrats pour accéder et déplacer vos jetons.&#x20;
 
 Pour avoir la liste de ces autorisations (Allowance) vous pouvez utiliser l'application : [https://revoke.cash/](https://revoke.cash/)
 
@@ -19,7 +21,7 @@ Il vous est possible d'annuler cette autorisation (bouton Revoke en bout de lign
 Ces modifications sont enregistrées sur la blockchain, donc supportent des frais de réseau (modiques pour Gnosis).
 
 {% hint style="info" %}
-L'usage d'un Cold wallet ne vous protège pas contre les exploits d'autorisations. Limiter ces autorisations, complète donc votre protection.
+L'usage d'un Cold wallet ne vous protège pas contre une autorisation donnée à un smart contrat corrompu. Limiter ces autorisations, complète donc votre protection.
 {% endhint %}
 
 Le choix des allocations à révoquer est un compromis entre sécurité et commodité. Car lorsque le smart contrat aura à nouveau besoin d'accéder à votre jeton il devra à nouveau obtenir l'autorisation de votre part (avec les frais de réseau associé).

@@ -1,8 +1,8 @@
 ---
-description: aux différents sites.
+description: Comment controler les autorisations que vous avez accordées
 ---
 
-# Contrôle des accès Metamask
+# Autorisation d'accès aux applications
 
 Pour effectuer vos transactions, vous devez vous connecter à différentes applications Web3.
 
