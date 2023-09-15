@@ -54,6 +54,7 @@
 * [🥚 Sécurité](securite/README.md)
   * [Passer vos RealTokens sur Ledger](securite/passer-vos-realtokens-sur-ledger.md)
   * [Autorisations de dépense sur vos jetons](securite/controle-des-autorisations.md)
+  * [Montant des autorisations avec MetaMask](securite/montant-des-autorisations-avec-metamask.md)
   * [Autorisation d'accès aux applications](securite/controle-des-acces-metamask.md)
   * [Alerte email](securite/alerte-email.md)
   * [Accès en 2FA à votre compte RealT](securite/acces-en-2fa-a-votre-compte-realt.md)

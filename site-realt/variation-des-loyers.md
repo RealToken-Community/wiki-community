@@ -42,4 +42,4 @@ Pour limiter les reventes des propriétés non louées, des "[frais de vacance](
 **Etat de vos locations :** \
 Sur le [Dashboard communautaire](https://dashboard.realt.community/), en indiquant votre wallet, vous pourrez voir le statut des locations de vos propriétés :
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>

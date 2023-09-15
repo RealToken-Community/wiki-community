@@ -24,6 +24,6 @@ Depuis le 30 Aout 2023, le RMM V3 est **en phase de test** (pour une durée éva
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
