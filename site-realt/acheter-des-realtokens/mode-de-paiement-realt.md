@@ -32,7 +32,9 @@ Vous disposez d'1 heure pour effectuer votre paiement avec Coinbase Commerce.
 
 ## Par Carte Bancaire
 
-<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption><p>Troisième option des modes de paiement</p></figcaption></figure>
+&#x20;
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
 
 Depuis Juillet 2022, des frais sont appliqués.
 
@@ -40,7 +42,7 @@ Depuis Juillet 2022, des frais sont appliqués.
 * Et propose des solutions pour acheter vos RealTokens sans Carte de Crédit : [https://realt.co/episode-5-la-banque-du-future-grace-a-la-defi/](https://realt.co/episode-5-la-banque-du-future-grace-a-la-defi/)
 
 {% hint style="success" %}
-Depuis le 15 Février 2023 et pour une durée de 3 mois, RealT ne facture pas de frais de CB
+Du 15 Février 2023 au 1er Octobre 2023, RealT a obtenu de son opérateur la gratuité des frais (prévue initialement pour 3 mois). Depuis RealT prend la moitié des frais à sa charge : 1,5% restant à la charge de l'acheteur.
 {% endhint %}
 
 Pensez aux frais de change (selon votre banque) avant d'acheter avec une C.B.
