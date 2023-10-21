@@ -31,8 +31,10 @@ Le nouveau prix du Token sera la nouvelle valeur de [rachat par RealT](vendre-se
 
 Le "Capital ROI" de l'investissement sur ce RealToken intègre le montant des SOON.
 
-Dans l'exemple ci-dessus : Le montant à terme (84,4+8,433 k$) rapporté au montant initial (84,336 k$) donne une plus value de 10,07 % pour 584 jours, soit 6,03% / an
+Dans l'exemple ci-dessus : Le montant à terme (84,4+8,433 k$) rapporté au montant initial (84,336 k$) donne une plus value de 10,07 % pour 584 jours, soit 6,03% / an.
 
-Une synthèse des dernière réévaluations figure en bas de la première page du [site RealT](https://realt.co/)
+Le document d'évaluation du bien est disponible dans la partie "[Property Records](dossier-de-propriete/)".
+
+Une synthèse des dernières réévaluations, figure en bas de la première page du [site RealT](https://realt.co/) :
 
 <figure><img src="../.gitbook/assets/image (150).png" alt=""><figcaption></figcaption></figure>
