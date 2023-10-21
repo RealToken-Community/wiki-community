@@ -34,7 +34,7 @@ Vous disposez d'1 heure pour effectuer votre paiement avec Coinbase Commerce.
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
 
 Depuis Juillet 2022, des frais sont appliqués.
 
