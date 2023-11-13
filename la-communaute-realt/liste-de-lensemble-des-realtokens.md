@@ -18,7 +18,7 @@ Pour afficher ce csv dans votre tableur favori, vous devrez (soit au moment du c
 RealT met à disposition de nombreuses informations sur chaque RealToken via un [API](https://api.realt.community/).
 
 A partir de cet API, un membre de la communauté met à disposition dans un google sheet l'ensemble des informations disponibles (soit plus de 150 par RealToken !) : [https://docs.google.com/spreadsheets/d/1x7hjE11GqvXdAQBWzpRXvq\_hYg2R6xxW5SZGOPQ87CA/edit#gid=1787342557](https://docs.google.com/spreadsheets/d/1x7hjE11GqvXdAQBWzpRXvq\_hYg2R6xxW5SZGOPQ87CA/edit#gid=1787342557)\
-(la date de mise à jour figure en colonne DW : LastUpdate)
+(la date de mise à jour figure en colonne ET : LastUpdate)
 
 
 
