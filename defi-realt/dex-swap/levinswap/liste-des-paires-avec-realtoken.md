@@ -15,11 +15,11 @@ En cliquant sur le nom de la paire, vous verrez apparaître ses principales cara
 
 <figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="563"><figcaption></figcaption></figure>
 
-* Le nombre de Realtoken (dans l’exemple ci-dessus : 35,36)
-* Le nombre de token d’échange disponible (1721 USDC, dans l’exemple),
-* La parité initiale, rapport des deux nombres précédents (ici : 48,67 USDC par Realtoken).\
-  Nota : Cette parité n’a aucune relation avec le prix du RealToken par ailleurs (que ce soit chez RealT ou sur YAM). Ce montant est propre au pool Lewinswap et varie en fonction de la liquidité du pool),
+* La quantité de Realtoken disponible (dans l’exemple ci-dessus : 35,36)
+* La quantité du second token de la paire,disponible ( ici 1721 USDC),
+* La parité initiale, qui est le rapport des deux quantités précédentes (ici : 48,67 USDC par Realtoken).\
+  Nota : Cette parité n’a aucune relation avec le prix du RealToken par ailleurs (que ce soit chez RealT ou sur YAM). Ce montant est propre au pool Lewinswap et varie en fonction de la liquidité du pool,
 * La liquidité total du pool en $, qui est la somme :
   * des 1721 USDC convertis en $,
-  * plus, les 35,36 Realtoken à 48,56 $ par Realtoken.
+  * et des 35,36 Realtoken à 48,56 $ par Realtoken.
 
