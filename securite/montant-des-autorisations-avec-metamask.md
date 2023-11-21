@@ -9,7 +9,7 @@ Hors, pour simplifier le parcours utilisateur, certaines applications proposent 
 Prenons comme exemple un dépôt de WXDAI sur le RMM : l’approbation MetaMask qui apparaît maintenant est la suivante, avec un chiffre très élévé (en rouge) pour le plafond :\
 (Ce comportement est identique avec d'autres applications, comme 1inch par exemple)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
 
 Vous avez alors trois options :&#x20;
 
@@ -21,17 +21,17 @@ Vous avez alors trois options :&#x20;
     Vous pouvez vérifier votre approbation en allant sur [Revoke.cash](https://revoke.cash/), \
     (et éventuellement la revoquer, ce qui vous coutera des frais de transaction, que vous auriez pu éviter avec l'option 3)
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Autorisation du wallet via Revoke.cash</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption><p>Autorisation du wallet via Revoke.cash</p></figcaption></figure>
 2.  **Cliquer sur « max »**,
 
     Votre approbation sera alors limitée au montant dont vous disposez sur votre wallet.\
     Dans l’exemple : l’approbation sera pour 96,38 WXDAI alors que la transaction de dépôt n’est que de 10 WXDAI.
 
-    <figure><img src="../.gitbook/assets/image (3).png" alt="" width="138"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (3) (1).png" alt="" width="138"><figcaption></figcaption></figure>
 3.  **Indiquer le montant de la transaction** \
     Cette solution est la plus sécurisée, puisque votre accord est limité au montant de la transaction, mais vous devrez refaire cette étape préalable d’approbation à chaque transaction.
 
-    <figure><img src="../.gitbook/assets/image (4).png" alt="" width="154"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="154"><figcaption></figcaption></figure>
 
 Référence sur le site [MetaMask](https://support.metamask.io/hc/en-us/articles/6055177143579-How-to-customize-token-approvals-with-a-spending-cap).
 
@@ -40,7 +40,7 @@ Référence sur le site [MetaMask](https://support.metamask.io/hc/en-us/articles
 Un nouveau mode d'approbation (EIP-2612) se déploie progressivement : il est déjà utilisé sur le YAM et le sera sur RMM v3. \
 L'approbation est remplacée par un signature qui ne nécessite pas de transaction (donc pas de frais !)
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="275"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="275"><figcaption></figcaption></figure>
 
 Cette solution est par ailleurs plus sécurisée, car :
 

@@ -16,7 +16,7 @@ Pour mémoire : Si vous souhaitez acquérir une propriété, que vous ne posséd
 
 L'achat et la vente de RealTokens peuvent être effectués sur les solutions suivantes :
 
-* [Levinswap](levinswap.md) (peu de liquidité : pour des fractions de RealToken),
+* [Levinswap](levinswap/) (peu de liquidité : pour des fractions de RealToken),
 * [Swapcat](swapcat.md) (généralement utilisé derrière des Front-End communautaires)
 * [YAM ](yam.md)(développé par RealT et mis en Open Source),
 * [1inch](swap-avec-1inch.md)
