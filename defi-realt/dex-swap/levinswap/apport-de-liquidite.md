@@ -26,9 +26,10 @@ Comme évoqué précédmemment, lorsque RealT va distribuer les loyers aux holde
 
 Il faut minorer ce surplus de loyer, par le fait que vous avez aussi apporté des USDC avec vos RealTokens et ces USDC auraient pu rapporter des loyers....
 
-Vous trouverez, dans le tableur ci-après, une synthèse financière comparant un investissement en apport de liquidité à un investissement avec le même montant mais uniquement en Realtokens.
+Vous trouverez, dans le tableur ci-après, une synthèse financière comparant un investissement en apport de liquidité à un investissement avec le même montant mais uniquement en Realtokens.\
+(avec le lien en dessous, c'est plus lisible)
 
-<figure><img src="../../../.gitbook/assets/image (248).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1L3ogld67t3-G9J9Lb9rMwVI4JqUIRLD3TDpQ55dUNeo/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1L3ogld67t3-G9J9Lb9rMwVI4JqUIRLD3TDpQ55dUNeo/edit?usp=sharing</a></p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (251).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1L3ogld67t3-G9J9Lb9rMwVI4JqUIRLD3TDpQ55dUNeo/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1L3ogld67t3-G9J9Lb9rMwVI4JqUIRLD3TDpQ55dUNeo/edit?usp=sharing</a></p></figcaption></figure>
 
-Le surplus de loyer dépend de nombreux facteurs. Vous pouvez télécharger le tableur et le personnaliser à votre cas.\
-Les loyers des RealTokens, déposés sur des pool Levinswap, apparaitront sur des lignes à part dans votre mail hebdomadaire de loyer.
+Le surplus de loyer dépend de nombreux facteurs. Vous pouvez télécharger le tableur et le personnaliser à votre cas. Notamment : plus il y aura d'apporteurs de liquidité, moins vous toucherez de loyer (votre quote-part dans la pool diminuant).\
+Les loyers des RealTokens, déposés sur des pool Levinswap, apparaitront sur des lignes à part dans votre mail hebdomadaire de loyer.\
