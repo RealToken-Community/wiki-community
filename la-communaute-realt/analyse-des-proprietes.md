@@ -8,16 +8,15 @@ A l'aide du site communautaire suivant :&#x20;
 *   avec [OpenStreetMap](http://realt1234.chickenkiller.com/), pour votre propre wallet (ou toutes les propriétés), les couleurs indiquent le niveau de location (rouge=0, vert=100%, orange=partiel) :
 
     <figure><img src="../.gitbook/assets/image (234).png" alt=""><figcaption></figcaption></figure>
-*   ou [google map](https://www.google.fr/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM\&usp=sharing) (à partir des localisations données par l'API) :
 
-    <figure><img src="../.gitbook/assets/image (13).png" alt="" width="563"><figcaption><p><a href="https://www.google.com/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM&#x26;ll=21.70919644887816%2C-82.68870000000001&#x26;z=4">https://www.google.com/maps/d/edit?mid=1SKl3ZGu53HF7ys7ON8f5snpu9fiT7GM&#x26;ll=21.70919644887816%2C-82.68870000000001&#x26;z=4</a></p></figcaption></figure>
+
 
 ## Historique d'une propriété
 
-A partir du site communautaire : [https://www.cryptalloc.com/realtsoon/](https://www.cryptalloc.com/realtsoon/)
+A partir du site communautaire : [https://www.cryptalloc.com/realtlab/](https://www.cryptalloc.com/realtlab/)
 
 * Allez dans l'onglet (à gauche) : History,
-* indiquer l'adresse (physique) de la propriété :thumbsup:
+* indiquer l'adresse (physique) de la propriété&#x20;
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 

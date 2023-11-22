@@ -6,7 +6,8 @@ description: avec informations venant de RealT ou du marché secondaire
 
 ## Tableur (version simplifiée)
 
-Avec une vingtaine de colonnes d'informations pour chaque RealToken. Il se télécharge automatiquement à partir de l'adresse suivante :                               [https://cryptalloc.com/realt\_list.csv](https://cryptalloc.com/realt\_list.csv)
+Avec une vingtaine de colonnes d'informations pour chaque RealToken. Il se télécharge automatiquement à partir de l'adresse suivante :                               [https://cryptalloc.com/realt\_list.csv](https://cryptalloc.com/realt\_list.csv)\
+ou nouvelle adresse : [https://www.cryptalloc.com/realtlab/](https://www.cryptalloc.com/realtlab/) onglet Properties
 
 {% hint style="info" %}
 Pour afficher ce csv dans votre tableur favori, vous devrez (soit au moment du chargement, soit après dans le formatage des données) tabuler les données avec les ":" comme séparateur : \

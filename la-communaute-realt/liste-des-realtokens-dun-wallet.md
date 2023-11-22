@@ -40,9 +40,10 @@ particulièrement adaptés aux spécificités des RealToken
 
 
 
-*   Site [CrypT'Alloc](https://www.cryptalloc.com/realtsoon/) avec la fonction Collection&#x20;
+*   Site [CrypT'Alloc](https://www.cryptalloc.com/realtlab/) avec l'onglet "My Collection" \
+    (en ayant mis l'adresse de son wallet dans settings au préalable)
 
-    <figure><img src="../.gitbook/assets/image (229).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
 ## Application mobile
 
