@@ -17,7 +17,7 @@ Inversement, si le RealToken avait baissé de 50 à 40$, l'arbitreur aurait vend
 
 ### Impermanent Loss (IL)
 
-l'IL est un facteur de risque important, des pools de liquidité en Defi. L'IL se produit, à l'occasion d'une variation des prix des tokens déposés sur une pool : il correspond à la différence entre le dépôt de fonds sur une pool et simplement garder ses fonds (qui se valorisent, suite à la variation de prix).
+l'IL est un facteur de risque important, pour les apporteurs de liquidité en Defi. L'IL se produit, à l'occasion de variations significatives des prix des tokens déposés sur une pool. Il correspond à la différence entre le dépôt de fonds sur une pool et simplement garder ses fonds (qui se valorisent, suite à la variation de prix).
 
 Reprenons l'exemple du tableur ci-dessus.
 
