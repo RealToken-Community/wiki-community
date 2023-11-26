@@ -13,7 +13,7 @@ Analysons cela, au travers d'exemples :&#x20;
 
 Dans l'exemple, après une réévaluation, le RealToken est passé de 50 à 60$. Alors que la parité du pool est restée à 50$.\
 Un arbitreur à acheté 2,1 RealTokens à 54,79$ l'unité, pour les revendre à 60 $ (voir plus ...). Faisant une plus value et remonter la parité de la poll à 60$.\
-Inversement, si le RealToken avait baissé de 50 à 40$, l'arbitreur aurait vendu 2,83 RealTokens à 44,73 $ l'unité (réduisant la perte sur le Realtoken).
+Inversement, si le RealToken avait baissé de 50 à 40$, l'arbitreur aurait vendu 2,83 RealTokens à 44,73 $ l'unité (réduisant sa perte sur le Realtoken).
 
 ### Impermanent Loss (IL)
 
@@ -21,9 +21,9 @@ l'IL est un facteur de risque important, des pools de liquidité en Defi. L'IL s
 
 Reprenons l'exemple du tableur ci-dessus.
 
-Le RealToken a augmenté de 20% (50 à 60$), le holder de la pool à fait 38,18 $ de gain (400 - 438,18). Si maintenant on compare ce gain, à celui qu'aurait fait le holder sans faire d'apport de liquidité : 440 $ (=4 \* 60 $ + 200 $ , l'_Impermanent Loss_ est 1,82 $ (440 -  438,18) soit 0,42%. \
+Le RealToken a augmenté de 20% (50 à 60$), le holder de la pool à fait 38,18 $ de gain (400 - 438,18). Si maintenant on compare ce gain, à celui qu'aurait fait le holder sans faire d'apport de liquidité : 440 $ (=4 \* 60 $ + 200 $), l'_Impermanent Loss_ est 1,82 $ (440 -  438,18) soit 0,42%. \
 Dans le cas inverse, si le Relatoken avait perdu 20% (50 à 40$), l'_Impermanent Loss_ serait de 2,23 $ soit 0,62%.&#x20;
 
-Les variations des paires RealToken / USDC étant limité, le risque d'IL l'est par la même.
+Les variations des paires RealToken / USDC étant limités, le risque d'IL l'est par la même.
 
-Le qualificatif _Impermanent_ est lié au fait que cette "perte" n'est effective que lors de la sortie de la pool. En restant dans la pool, de nouvelles variations pourraient venir corriger cette perte potentielle.
+Le qualificatif _Impermanent_ est lié au fait que cette "perte" n'est effective que lors de la sortie de la pool. En restant dans la pool, de nouvelles variations peuvent venir corriger cette perte potentielle.
