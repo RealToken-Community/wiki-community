@@ -1,8 +1,13 @@
 # Brige, fonctions de base
 
-Transférer vos RealTokens d'une chaine à une autre, avec ce Bridge, est assez simple. Mode opératoire : &#x20;
+Transférer vos RealTokens d'une chaine à une autre, avec ce Bridge, est assez simple. \
+Mode opératoire : &#x20;
 
-1.  Se connecter avec son wallet en étant sur la chaine source (Ethereum, par ex),
+{% hint style="info" %}
+Si l'adresse cible n'est pas identique à l'adresse source, vous devez demander au préalable son whitelisting.
+{% endhint %}
+
+1.  Se connecter avec son wallet, en étant sur la chaine source (Ethereum, par ex),
 
     <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="211"><figcaption></figcaption></figure>
 2.  Sélectionner la propriété de votre wallet que vous souhaitez transférer :\
@@ -25,10 +30,10 @@ Transférer vos RealTokens d'une chaine à une autre, avec ce Bridge, est assez 
     <figure><img src="../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 8. La suite dépend de la chaine cible :&#x20;
 
-*   Dans le sens Ethereum vers GnosisChain : une transaction transferera automatiquement le RealToken sur votre wallet (dans History, le statut passe à "Complété")
+*   Dans le sens Ethereum vers GnosisChain : une transaction transferera automatiquement le RealToken sur votre wallet (dans History, le statut passera à "Complété")
 
     <figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
-*   Dans le sens GnosisChain vers Ethereum : à cause des frais de réseau, la livraison sur Ethereum ne sera pas automatique et necessitera une opération de claim (dans History, le statut passe à  "Réclamer")
+*   Dans le sens GnosisChain vers Ethereum : à cause des frais de réseau, la livraison sur Ethereum ne sera pas automatique et necessitera une opération de claim (dans History, le statut passera à  "Réclamer")
 
     <figure><img src="../../.gitbook/assets/image (29).png" alt="" width="563"><figcaption></figcaption></figure>
 

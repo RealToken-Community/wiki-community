@@ -2,8 +2,8 @@
 
 Le bridge est une opération qui se déroule en 2 temps :&#x20;
 
-1. Une première transaction (sur la chaine source) d'envoi de vos RealTokens vers le Bridge,&#x20;
-2. Après validation par le Bridge : Une seconde transaction (sur la chaine cible) de reception de vos RealTokens vers votre wallet.
+1. Une première transaction d'envoi(sur la chaine source), de vos RealTokens vers le Bridge,&#x20;
+2. Après validation par le Bridge : Une seconde transaction de reception (sur la chaine cible), de vos RealTokens vers votre wallet.
 
 Si la première transaction échoue, c'est pas trop grave car vos tokens n'ont pas été transmis au Bridge.\
 Par contre, si vous rencontrez des problèmes lors de la seconde transaction, vous etes dans la situation plus délicate car vos RealTokens sont coincés dans le Bridge !....
