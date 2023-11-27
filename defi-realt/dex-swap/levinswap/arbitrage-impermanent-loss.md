@@ -9,7 +9,7 @@ Sur Levinswap, si la parité d'un RealTokens est très inférieure à sa valeur 
 
 Analysons cela, au travers d'exemples :&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (253).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (253).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/19Ih_NMWgKtCl9ueTH6iBlsxEUjeY7XpcbmWs1URmkQA/edit?usp=sharing">https://docs.google.com/spreadsheets/d/19Ih_NMWgKtCl9ueTH6iBlsxEUjeY7XpcbmWs1URmkQA/edit?usp=sharing</a></p></figcaption></figure>
 
 Dans l'exemple, après une réévaluation, le RealToken est passé de 50 à 60$. Alors que la parité du pool est restée à 50$.\
 Un arbitreur à acheté 2,1 RealTokens à 54,79$ l'unité, pour les revendre à 60 $ (voir plus ...). Faisant une plus value et remonter la parité de la poll à 60$.\
