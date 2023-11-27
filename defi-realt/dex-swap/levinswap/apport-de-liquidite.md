@@ -11,7 +11,7 @@ Nota : La différence avec les 0,3% (évoqué dans la page précédente), sert a
 
 ### Traitement des loyers des Realtokens dans une pool
 
-RealT distribue le loyer de l'ensemble des RealTokens d'une paire, aux apporteurs de liquidité, à l'exclusion de RealT lui même. Ce dernier point constitue pour RealT, une façon de rémunérer les apporteurs de liquidité, en complément des frais (très faibles) sur les swap.
+RealT distribue le loyer de l'ensemble des RealTokens d'une paire, aux apporteurs de liquidité, à l'exclusion de RealT lui même. Ce dernier point constitue pour RealT, une façon de rémunérer les apporteurs de liquidité, en complément du partage des frais de swap (très faibles) et en l'absence de farming.
 
 Analysons, à partir d’un exemple, l’impact financier pour un apporteur de liquidité.\
 Il faut au préalable, trouver la répartition de la paire entre holders :&#x20;
