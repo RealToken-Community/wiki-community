@@ -26,4 +26,4 @@ Dans le cas inverse, si le Relatoken avait perdu 20% (50 à 40$), l'_Impermanent
 
 Les variations des paires RealToken / USDC étant limités, le risque d'IL l'est par la même.
 
-Le qualificatif _Impermanent_ est lié au fait que cette "perte" n'est effective que lors de la sortie de la pool. En restant dans la pool, de nouvelles variations peuvent venir corriger cette perte potentielle.
+Le qualificatif _Impermanent,_ est lié au fait que cette "perte" n'est effective que lors du retrait de la liquidité apportée. En restant dans la pool, de nouvelles variations peuvent venir corriger cette perte potentielle.
