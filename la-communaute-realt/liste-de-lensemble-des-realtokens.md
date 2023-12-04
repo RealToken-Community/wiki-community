@@ -4,7 +4,7 @@ description: avec informations venant de RealT ou du marché secondaire
 
 # Liste de l'ensemble des RealTokens
 
-## Tableur (version simplifiée)
+## &#x20;
 
 Avec une vingtaine de colonnes d'informations pour chaque RealToken. Il se télécharge automatiquement à partir de l'adresse suivante :                               [https://cryptalloc.com/realt\_list.csv](https://cryptalloc.com/realt\_list.csv)\
 ou nouvelle adresse : [https://www.cryptalloc.com/realtlab/](https://www.cryptalloc.com/realtlab/) onglet Properties
@@ -18,9 +18,11 @@ Pour afficher ce csv dans votre tableur favori, vous devrez (soit au moment du c
 
 RealT met à disposition de nombreuses informations sur chaque RealToken, via une [API](https://api.realt.community/).
 
-Le google sheet ci-après reprend (automatiquement, toutes les 24h) l'ensemble des informations disponibles sur cette API (soit plus de 150 par RealToken !) : \
-[https://docs.google.com/spreadsheets/d/1tnVl8rnU3yC6evLxuqavdLk7ehbZD7P\_Gh8vJnFJZwU/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1tnVl8rnU3yC6evLxuqavdLk7ehbZD7P\_Gh8vJnFJZwU/edit?usp=sharing)\
-(la date de la dernière mise à jour de l'API figure en colonne ET : LastUpdate)
+A parti de cette API, un membre de la communauté met à disposition dans un google sheet l'ensemble des informations disponibles (soit plus de 150 par RealToken !) : \
+\
+[https://docs.google.com/spreadsheets/d/1x7hjE11GqvXdAQBWzpRXvq\_hYg2R6xxW5SZGOPQ87CA/edit#gid=1787342557](https://docs.google.com/spreadsheets/d/1x7hjE11GqvXdAQBWzpRXvq\_hYg2R6xxW5SZGOPQ87CA/edit#gid=1787342557)\
+\
+(la date de la dernière mise à jour de l'API figure en colonne "ET" : LastUpdate)
 
 
 
