@@ -48,10 +48,10 @@ Si l'adresse cible n'est pas identique à l'adresse source, vous devez demander 
 
 ## Exemples en vidéo :&#x20;
 
-* Bridge de RealTokens dans le **sens Ethereum vers Gnosis**
+* Bridge de RealTokens dans le **sens Ethereum vers Gnosis :**&#x20;
 
 {% embed url="https://youtu.be/v90YyqqXWGg" %}
 
-* Bridge de RealTokens dans le **sens Gnosis vers Ethereum**&#x20;
+* Bridge de RealTokens dans le **sens Gnosis vers Ethereum** :&#x20;
 
-{% embed url="https://youtu.be/G-eYKWNyIjg" %}
+{% embed url="https://youtu.be/HN91aCaL-LQ" %}
