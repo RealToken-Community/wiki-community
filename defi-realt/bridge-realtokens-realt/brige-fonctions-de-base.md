@@ -24,21 +24,21 @@ Si l'adresse cible n'est pas identique à l'adresse source, vous devez demander 
 6.  Un message confirme l'envoi sur la chaine source (avec les coordonnées de la transaction correspondante) :
 
     <figure><img src="../../.gitbook/assets/image (26).png" alt="" width="216"><figcaption></figcaption></figure>
-7.  Actualiser votre navigateur, puis aller dans "History",\
+7.  Actualiser votre navigateur, puis aller dans "Historique",\
     Vous constatez que vous êtes "En attente de confirmations" (mécanisme interne du Bridge, qui peut prendre un moment..) :
 
     <figure><img src="../../.gitbook/assets/image (9).png" alt="" width="563"><figcaption></figcaption></figure>
 8. La suite dépend de la chaine cible :&#x20;
 
-*   Dans le sens Ethereum vers GnosisChain : une transaction transferera automatiquement le RealToken sur votre wallet (dans History, le statut passera à "Complété")
+*   Dans le **sens Ethereum vers GnosisChain** : une transaction transferera automatiquement le RealToken sur votre wallet (dans History, le statut passera à "Complété")
 
     <figure><img src="../../.gitbook/assets/image (10).png" alt="" width="563"><figcaption></figcaption></figure>
-*   Dans le sens GnosisChain vers Ethereum : à cause des frais de réseau, la livraison sur Ethereum ne sera pas automatique et necessitera une opération de claim (dans History, le statut passera à  "Réclamer")
+*   Dans le **sens GnosisChain vers Ethereum** : à cause des frais de réseau, la livraison sur Ethereum ne sera pas automatique et necessitera une opération de claim (dans Historique, le statut sera à  "Réclamer")
 
     <figure><img src="../../.gitbook/assets/image (29).png" alt="" width="563"><figcaption></figcaption></figure>
 
     * Pour transférer le Realtoken vers votre wallet sur Ethereum (Claim),&#x20;
-      * vous devez au préalable vous mettre sur Ethereum (sinon il y aura une demande de changement de chaine, suivi d'un message d'erreur...),
+      * vous devez au préalable vous mettre sur Ethereum,
       * vous devez valider la transaction avec les frais correspondants (à votre charge),
       *   la transaction apparaitra dans l'historique avec le statut  "Réclamé"
 
@@ -48,6 +48,10 @@ Si l'adresse cible n'est pas identique à l'adresse source, vous devez demander 
 
 ## Exemples en vidéo :&#x20;
 
-Bridge de RealTokens d'Ethereum vers Gnosis :
+* Bridge de RealTokens dans le **sens Ethereum vers Gnosis**
 
-{% embed url="https://youtu.be/JwbE-D_8tOI" %}
+{% embed url="https://youtu.be/v90YyqqXWGg" %}
+
+* Bridge de RealTokens dans le **sens Gnosis vers Ethereum**&#x20;
+
+{% embed url="https://youtu.be/G-eYKWNyIjg" %}
