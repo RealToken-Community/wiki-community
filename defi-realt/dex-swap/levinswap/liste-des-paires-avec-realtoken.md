@@ -5,7 +5,7 @@ La liste des paires est disponible à l’adresse suivante : \
 
 Taper le nom du RealToken dans la zone de recherche et la paire correspondante vous est proposée.
 
-<figure><img src="../../../.gitbook/assets/image (1).png" alt="" width="539"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="539"><figcaption></figcaption></figure>
 
 Suivant les icones qui s’affichent, devant le nom de la paire, vous voyez immédiatement le second token de la paire&#x20;
 

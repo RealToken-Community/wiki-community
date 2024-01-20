@@ -44,4 +44,8 @@ Ce montant pourrait être bien moindre, si le collatéral avait été réparti s
 
 ## Liquidations effectuées
 
-{% embed url="https://docs.google.com/spreadsheets/d/1Kgtxbv3HB3_ofBVIXu4952mApm2qcgkEXhvwN40Gy2g/edit?usp=sharing" %}
+Liste des liquidations sur le RMM : \
+\
+[https://docs.google.com/spreadsheets/d/1ksmZyjVRWi4ART3yIWczOtFE-jucIxcRCULDRYkq1Bs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ksmZyjVRWi4ART3yIWczOtFE-jucIxcRCULDRYkq1Bs/edit?usp=sharing)
+
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
