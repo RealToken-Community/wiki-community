@@ -1,6 +1,6 @@
 # Aide à l'analyse du contrat
 
-Le contrat (PPM), que vous avez signé et qui se trouve dans [DropboxSign](https://app.hellosign.com/account/logIn), est un document PDF de près de 80 pages, en anglais, qui peut nécessiter un peu d'aide pour mieux le comprendre...
+Le contrat (PPM), que vous avez signé et qui se trouve dans [DropboxSign](https://app.hellosign.com/account/logIn) ou Tediji, est un document PDF de près de 80 pages, en anglais, qui peut nécessiter un peu d'aide pour mieux le comprendre...
 
 Plusieurs outils d'analyse de PDF, à l'aide d'Intelligence Artificielle, sont maintenant disponibles. A titre d'exemple, vous trouverez ci-après comment utiliser l'application (gratuite) [PDF.ai](https://pdf.ai/) .
 
