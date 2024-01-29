@@ -20,4 +20,4 @@ Article du [blog RealT sur ce sujet](https://realt.co/episode-7-en-route-vers-la
 Techniquement, en walletless : vos RealTokens sont stockés sur un wallet multi-signatures, créé et géré exclusivement par RealT.\
 Si vous décidez d’utiliser votre propre wallet, vos tokens seront alors transférés à votre adresse, afin de les confier sous votre garde.
 
-(\*) Ce développement a été décalé afin de tirer parti de la nouvelle fonction [d'abstraction de compte](https://cryptoast.fr/utiliser-blockchain-sans-wallet-eip-4337-ethereum-rend-possible-abstraction-compte/).
+Le WalletLess, développé spécifiquement par RealT, va être abandonnée au profit d'une nouvelle fonction strandart d'Ethereum : [l'abstraction de compte](https://cryptoast.fr/utiliser-blockchain-sans-wallet-eip-4337-ethereum-rend-possible-abstraction-compte/).
