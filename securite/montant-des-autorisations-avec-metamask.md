@@ -9,7 +9,7 @@ Hors, pour simplifier le parcours utilisateur, certaines applications proposent 
 Prenons comme exemple un dépôt de WXDAI sur le RMM : l’approbation MetaMask qui apparaît maintenant est la suivante, avec un chiffre très élévé (en rouge) pour le plafond :\
 (Ce comportement est identique avec d'autres applications, comme 1inch par exemple)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
 
 Vous avez alors trois options :&#x20;
 
@@ -35,10 +35,13 @@ Vous avez alors trois options :&#x20;
 
 Référence sur le site [MetaMask](https://support.metamask.io/hc/en-us/articles/6055177143579-How-to-customize-token-approvals-with-a-spending-cap).
 
-## Approbation par signature
+## Approbation par signature (Permit)
 
-Un nouveau mode d'approbation (EIP-2612) se déploie progressivement : il est déjà utilisé sur le YAM et le sera sur RMM v3. \
-L'approbation est remplacée par un signature qui ne nécessite pas de transaction (donc pas de frais !)
+Un nouveau mode d'approbation (EIP-2612 ou Permit) se déploie progressivement : il est déjà utilisé sur le YAM et le sera sur RMM v3.&#x20;
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="291"><figcaption></figcaption></figure>
+
+L'approbation est remplacée par une signature qui ne nécessite pas de transaction (donc pas de frais !)
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="275"><figcaption></figcaption></figure>
 

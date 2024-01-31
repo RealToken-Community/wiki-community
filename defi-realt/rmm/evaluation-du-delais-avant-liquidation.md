@@ -48,4 +48,4 @@ Liste des liquidations sur le RMM : \
 \
 [https://docs.google.com/spreadsheets/d/1ksmZyjVRWi4ART3yIWczOtFE-jucIxcRCULDRYkq1Bs/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1ksmZyjVRWi4ART3yIWczOtFE-jucIxcRCULDRYkq1Bs/edit?usp=sharing)
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
