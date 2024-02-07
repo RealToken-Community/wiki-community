@@ -80,7 +80,7 @@
   * [Analyse par propriétés](la-communaute-realt/analyse-des-proprietes.md)
   * [Analyse par wallet](la-communaute-realt/analyse-des-investisseurs.md)
   * [Analyse par transaction](la-communaute-realt/analyse-des-transactions-passees.md)
-  * [Statistique avec Dune](la-communaute-realt/statistique-sur-realt.md)
+  * [Statistiques](la-communaute-realt/statistique-sur-realt.md)
 * [🍈 Liens utiles](annuaire.md)
 
 ## .

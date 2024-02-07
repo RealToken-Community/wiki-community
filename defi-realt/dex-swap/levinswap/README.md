@@ -1,11 +1,17 @@
 # Levinswap
 
+
+
+{% hint style="danger" %}
+RealT a annoncé le 5 Février 2024, retirer progressivement ses liquidités de Levinswap (une nouvelle application, étant en cours de développement).
+{% endhint %}
+
 LevinSwap est un échangeur décentralisé (DEX). Il permet l’échange de tokens à partir de réserves (nommées ou pool ou paire), et pourvues de token au préalable par des apporteurs de liquidité.
 
 Sur YAM (ou Swapcat) : vous publiez une offre et devez attendre un acheteur...\
 Avec Levinswap, l’échange se fait instantanément, mais avec un prix qui peut varier suivant la liquidité de la pool (quantité de token disponible).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 LewinSwap, est une copie (fork) de l’application Uniswap Version 2 sur la Gnosis Chain.\
 RealT utilise Levinswap depuis mars 2021. Malheureusement, le principal développeur de Levinswap a quitté le projet en 2022. \
