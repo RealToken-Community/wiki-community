@@ -10,7 +10,7 @@ Depuis, RealT a engagé l'évolution du RMM vers cette version d'Aave. Quelques 
 * Février : [Proposition](https://governance.aave.com/t/arfc-proposal-for-deploying-whitelabel-aave-v3-market-for-realt-tokens-on-gnosischain/11897) d'usage d'Aave v3 en marque blanche pour le RMM,
 * Mars : [Vote](https://snapshot.org/#/aave.eth/proposal/0xff69be7580614ebc1a455591c1bd651d8f0af12070d277d7d8846beb3c7c964b),
 * [Community call du 9 Mars](https://www.youtube.com/watch?v=Csfsqg6tFuU\&ab\_channel=RealT) lors duquel Marc Zeller est intervenu,
-* Le RMM n'étant que sur Gnosis, la mise en place d'un [Bridge](../bridge-realtokens-realt/) pour les anciens RealTokens sur Ethereum est un préalable au passage en V3 (l'ensemble des RealTokens devant être disponible dans cette version),
+* Le RMM n'étant que sur Gnosis, la mise en place d'un [Bridge](../../bridge-realtokens-realt/) pour les anciens RealTokens sur Ethereum est un préalable au passage en V3 (l'ensemble des RealTokens devant être disponible dans cette version),
 * point lors du [CC du 10 Aout](https://youtu.be/gaBDoGh2w4k?t=3903).
 
 ## En test
@@ -24,6 +24,6 @@ Depuis le 30 Aout 2023, le RMM V3 est **en phase de test** (pour une durée éva
 
 <div data-full-width="true">
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption></figcaption></figure>
 
 </div>
