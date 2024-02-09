@@ -1,9 +1,7 @@
 # Levinswap
 
-
-
 {% hint style="danger" %}
-RealT a annoncé le 5 Février 2024, retirer progressivement ses liquidités de Levinswap (une nouvelle application, étant en cours de développement).
+Début Février 2024, RealT, retirer 80 % de ses liquidités sur Levinswap (une nouvelle application, étant en cours de développement).
 {% endhint %}
 
 LevinSwap est un échangeur décentralisé (DEX). Il permet l’échange de tokens à partir de réserves (nommées ou pool ou paire), et pourvues de token au préalable par des apporteurs de liquidité.
