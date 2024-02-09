@@ -20,7 +20,7 @@ Principales limites de la version 2 : \
 * [InvestissementsFaciles](https://www.youtube.com/watch?v=jzHpillL5gI\&ab\_channel=InvestissementsFaciles)
 * Rapide démo de la nouvelle interface, lors du[ Community Call](https://youtu.be/Ej51XSb36B0?t=3603) (mars 2023)
 
-## Pour en savoir plus Aave
+## Pour en savoir plus sur Aave
 
 * [Article de présentation](https://coinacademy.fr/aave-aave-fondamental/),
 * [Wiki](https://docs.aave.com/hub/)[ Aave](https://docs.aave.com/hub/),

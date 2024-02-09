@@ -6,7 +6,7 @@ description: Service de prêt et d'emprunt sur la blockchain Gnosis
 
 ## Introduction
 
-L’application [RMM](https://rmm.realtoken.network/markets) (RealT Market Maker), a été mise en place en Avril 2022 par RealT (à partir du [Protocole AAVE v2](../dex-swap/levinswap/pour-en-savoir-plus....md)) afin de fournir un service de dépôt et prêts de Stablecoins, en échange de RealTokens mis en garantie, sur la blockchain Gnosis.
+L’application [RMM](https://rmm.realtoken.network/markets) (RealT Market Maker), a été mise en place en Avril 2022 par RealT (à partir du [Protocole AAVE v2](rmm-v2-avril-2022.md)) afin de fournir un service de dépôt et prêts de Stablecoins, en échange de RealTokens mis en garantie, sur la blockchain Gnosis.
 
 En Avril 2023, le mode de présentation de l'application a été modifée, en cohérence avec l'application AAVE et afin de préparer la transition vers la version 3.
 
