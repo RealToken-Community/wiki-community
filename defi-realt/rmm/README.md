@@ -19,7 +19,7 @@ Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 Tuto, réalisé par un membre de la communauté : \
 
 
-{% file src="../../.gitbook/assets/Tuto RMM v3 8 Fev (2).pdf" %}
+{% file src="../../.gitbook/assets/Tuto RMM v3 9 Fev.pdf" %}
 
 <figure><img src="../../.gitbook/assets/image (256).png" alt="" width="431"><figcaption></figcaption></figure>
 
@@ -27,4 +27,12 @@ Tuto, réalisé par un membre de la communauté : \
 
 En complément du guide utilisateur, un document plus technique sur comment fonctionne la solution.
 
-{% file src="../../.gitbook/assets/RMM CCM v1.pdf" %}
+{% file src="../../.gitbook/assets/RMM CCM 11 Fev.pdf" %}
+
+## Mesures de transition v2 > v3
+
+Afin de faciliter la transition :&#x20;
+
+* La liste des Realtokens "collatéralisables" sera, dans un premier temps, identiques en v2 et v3 (pour ne pas augmenter la demande de liquidité). De nouveaux Realtokens collatéralisables seront ajoutés progressivement en v3 par la suite.
+* L'usage du RMM v2 va etre limité : il ne sera plus possible de déposer, ni d'emprunter. Les retraits et remboursements restant actifs (afin de pouvoir quitter cette version) :  il n'y a néanmoins pas d'urgence,
+* Les loyers, payés en armmWXDAI, le seront sur le RMM v3.
