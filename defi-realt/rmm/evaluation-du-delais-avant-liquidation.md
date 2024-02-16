@@ -18,7 +18,7 @@ Liste des liquidations sur le RMM v2 : \
 
 [https://docs.google.com/spreadsheets/d/1kmUA69lKhJ5E5oRG3bGxZzLc4kqxsg632g-auSDaA7k/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1kmUA69lKhJ5E5oRG3bGxZzLc4kqxsg632g-auSDaA7k/edit?usp=sharing)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Evaluation du moment de liquidation
 

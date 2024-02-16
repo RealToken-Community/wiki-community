@@ -6,11 +6,11 @@ description: Valeurs modifiables sur le site
 
 ## Onglet Portfolio
 
-<figure><img src="../.gitbook/assets/image (202).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (202).png" alt="" width="540"><figcaption></figcaption></figure>
 
 ### Section Wallets
 
-<figure><img src="../.gitbook/assets/image (170).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (170).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Vous pouvez modifier :
 
@@ -22,18 +22,18 @@ Vous pouvez modifier :
 
 ### Section Rent
 
-<figure><img src="../.gitbook/assets/image (137).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (137).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Si votre wallet est sur Gnosis, vous pouvez modifier la monnaie dans laquelle seront payés vos loyers : USDC, xDAI  ou [armmWXDAI](../defi-realt/rmm/larmmwxdai.md) (preuve de dépôts de xDAI sur le [RMM](../defi-realt/rmm/))
+Si votre wallet est sur Gnosis, vous pouvez modifier la monnaie dans laquelle seront payés vos loyers : USDC, xDAI  ou [aToken](../defi-realt/rmm/larmmwxdai.md) (armmXDAI, armmUSDC), preuve de dépôts de xDAI sur le [RMM](../defi-realt/rmm/).
 
-<figure><img src="../.gitbook/assets/image (166).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="443"><figcaption></figcaption></figure>
 
 ## Onglet Account Details
 
-<figure><img src="../.gitbook/assets/image (46).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (46).png" alt="" width="217"><figcaption></figcaption></figure>
 
 ## Pour votre mot de passe et l'email de loyer
 
-<figure><img src="../.gitbook/assets/image (134).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (134).png" alt="" width="530"><figcaption></figcaption></figure>
 
 Une fois l'option de réception d'un email de paiement des loyers cochée, vous recevrez chaque semaine (lundi en fin de journée) un rapport détaillé sur le paiement de la semaine précédente ([_détail_](rapport-hebdo-des-loyers/)[_s_](rapport-hebdo-des-loyers/))
