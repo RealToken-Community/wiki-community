@@ -34,6 +34,11 @@ En complément du guide utilisateur, un document plus technique sur comment fonc
 Afin de faciliter la transition :&#x20;
 
 * La liste des Realtokens "collatéralisables" sera, dans un premier temps, identiques en v2 et v3 (pour ne pas augmenter la demande de liquidité). De nouveaux Realtokens collatéralisables seront ajoutés progressivement en v3 par la suite.
-* L'usage du RMM v2 va etre limité : il ne sera plus possible de déposer, ni d'emprunter. Les retraits et remboursements restant actifs (afin de pouvoir quitter cette version) :  il n'y a néanmoins pas d'urgence,
+* L'usage du RMM v2 a été limité : il n'est plus possible de déposer, ni d'emprunter. Les retraits et remboursements demeurent eux actifs (afin de pouvoir quitter cette version),
 * Les loyers, payés en armmWXDAI, le seront sur le RMM v3,
-* Les loyers déjà payables en armmXDAI, seront aussi payables en armmUSDC.
+* Les loyers déjà payables en armmXDAI, seront aussi payables en armmUSDC,
+* Augmentation de la LTV des RealTokens sur le RMM v2 et envoi d'un mail&#x20;
+
+
+
+{% file src="../../.gitbook/assets/Mail RealT 16 Février 2024.png" %}
