@@ -9,7 +9,7 @@ Hors, pour simplifier le parcours utilisateur, certaines applications proposent 
 Prenons comme exemple un dépôt de WXDAI sur le RMM : l’approbation MetaMask qui apparaît maintenant est la suivante, avec un chiffre très élévé (en rouge) pour le plafond :\
 (Ce comportement est identique avec d'autres applications, comme 1inch par exemple)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
 
 Vous avez alors trois options :&#x20;
 
