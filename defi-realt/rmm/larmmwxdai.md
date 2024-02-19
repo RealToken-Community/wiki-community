@@ -1,6 +1,6 @@
 # Les aToken, une super monnaie
 
-Au départ, l’aToken est une simple preuve de dépôt de Stablecoin sur le [RMM](./).
+Au départ, l’aToken est une simple preuve de dépôt de Stablecoins sur le [RMM](./).
 
 <mark style="color:blue;">**L’intéret de cet aToken est qu’il fructifie !**</mark> : le nombre que vous en possédez dans votre wallet augmente régulièrement avec le temps ...sans rien faire !   (grace aux intérêts du RMM)
 
@@ -15,9 +15,9 @@ C’est généralement un peu plus qu’ailleurs (sauf offre promotionnelle temp
 
 * Les <mark style="color:blue;">**garder**</mark> et les voir augmenter :tada:..
 * <mark style="color:blue;">**Emprunter**</mark> (sur le RMM), en les utilisant comme collatéral (opération peu rentable, car le taux d’emprunt est supérieur au taux de dépôt),
-* les <mark style="color:blue;">**transférer**</mark> sur un autre wallet ou <mark style="color:blue;">**payer**</mark> sur [YAM](../dex-swap/yam.md) (avec les aToken WXDAI, alias armmWXDAI)\
-  Attention : Si vos armmWXDAI sont en collatéral d’un emprunt, le transfert/paiement peut être bloqué si votre [Health Factor](./) devenait inférieur à 1.
-* me faire payer mes [**loyers**](../../site-realt/parametrage-realt.md) de RealTokens (en armmWXDAI ou armmUSDC),
+* les <mark style="color:blue;">**transférer**</mark> sur un autre wallet ou <mark style="color:blue;">**payer**</mark> sur [YAM](../dex-swap/yam.md),\
+  Attention : Si vos aToken sont en collatéral d’un emprunt, le transfert/paiement peut être bloqué si votre [Health Factor](./) devenait inférieur à 1.
+* se faire payer ses [**loyers**](../../site-realt/parametrage-realt.md) de RealTokens (en armmWXDAI ou armmUSDC),
 * les <mark style="color:blue;">**convertir**</mark> en Stablecoin : sur le site RMM, en les retirant du dépôt,
 * ...
 
