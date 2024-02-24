@@ -1,6 +1,6 @@
 # Table of contents
 
-* [☺ Hello !](README.md)
+* [☺️ Hello !](README.md)
 * [🍪 Site RealT](site-realt/README.md)
   * [Questions autour de RealT](site-realt/questions-autour-de-realt.md)
   * [Paramétrage compte RealT](site-realt/parametrage-realt.md)

@@ -40,3 +40,5 @@ Afin de faciliter la transition :&#x20;
 * Augmentation de la LTV des RealTokens sur le RMM v2 et envoi d'un mail&#x20;
 
 {% file src="../../.gitbook/assets/Mail RealT 16 Février 2024.png" %}
+
+* Le Facteur de Réserve, des WXDAI sur RMM v2, a été progressivement augmenté de 10% à 25 puis 50%, afin de limiter le taux des dépôts de WXDAI sur RMM v2.
