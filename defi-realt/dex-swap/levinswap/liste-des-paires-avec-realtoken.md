@@ -5,7 +5,7 @@ La liste des paires est disponible à l’adresse suivante : \
 
 Taper le nom du RealToken dans la zone de recherche et la paire correspondante vous est proposée.
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="539"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="539"><figcaption></figcaption></figure>
 
 Suivant les icones qui s’affichent, devant le nom de la paire, vous voyez immédiatement le second token de la paire&#x20;
 
@@ -22,4 +22,10 @@ En cliquant sur le nom de la paire, vous verrez apparaître ses principales cara
 * La liquidité total du pool en $, qui est la somme :
   * des 1721 USDC convertis en $,
   * et des 35,36 Realtoken à 48,56 $ par Realtoken.
+
+## Liste sur le site Pit's BI
+
+Sur le site [Pit's BI](https://realt.pitsbi.io/stats), fait par un membre de la communauté, vous trouverez au chapitre 4 de l'onglet Stat la liste des pools LevinSwap avec leurs caractéristiques
+
+<figure><img src="../../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 

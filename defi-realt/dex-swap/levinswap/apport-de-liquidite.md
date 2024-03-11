@@ -33,3 +33,15 @@ Vous trouverez, dans le tableur ci-après, une synthèse financière comparant u
 
 Le surplus de loyer dépend de nombreux facteurs. Vous pouvez télécharger le tableur et le personnaliser à votre cas. Notamment : plus il y aura d'apporteurs de liquidité, moins vous toucherez de loyer (votre quote-part dans la pool diminuant).\
 Les loyers des RealTokens, déposés sur des pool Levinswap, apparaitront sur des lignes à part dans votre mail hebdomadaire de loyer.\
+
+
+## Outils de simulation sur le site Pit's BI
+
+Sur le site [Pit's BI](https://realt.pitsbi.io/stats), réalisé par un membre de la communauté, vous trouverez les valeurs des pools ainsi qu'un outils de simulation d'un apport :
+
+<figure><img src="../../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+dans l'exemple ci-dessus, il y a (au moment où cet article est écrit) : 1,98 RealTokens déposés par RealT, 1,09 Realtokens déposés par des Holders. \
+Alors que le Yield du RealToken est de 9,59%, le mécanisme de récompense décrit dans le chapitre précédent conduit à un "Pool Yield" de 13,43% (qui correspond taux d'intéret sur le montant total du dépôt d'un holder : RealTokens + USDC).\
+L'outil de simulation à droite, permet de mesurer l'impact d'un nouveau dépôt : Dans l'exemple, si vous ajoutez 0,7 Realtoken (ainsi que son équivalent en USDC) sur la pool, le nouveau Yield de la pool décroitera de 13,43% à 10,07% (toujours supérieur au Yield du Realtoken, tant que l'apport des holders n'est pas supérieur au dépôt fait par RealT).
+
