@@ -88,4 +88,4 @@ Concernant le smart-contrat du Realtoken :&#x20;
 
 ## Analyse d'un Token
 
-Par exemple, pour le token SOON : pour voir [l'historique de vos versements](../../site-realt/reg-soon/historique-de-vos-soon.md).
+Par exemple, pour le token SOON : pour voir [l'historique de vos versements](broken-reference).

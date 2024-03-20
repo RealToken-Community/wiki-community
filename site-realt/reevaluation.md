@@ -25,7 +25,7 @@ Concernant le montant de l'investissement, qui détermine le prix du token, il �
 Après réévaluation, les montants des provisions à l'origine n'apparaissent plus dans l'onglet "Financials" de la propriété mais vous pouvez les retrouver sur un [outil communautaire](../la-communaute-realt/analyse-des-proprietes.md).
 {% endhint %}
 
-Le montant des frais RealT est redistribué aux propriétaires (au moment de la première réévaluation) sous forme de tokens [SOON](reg-soon/) (qui seront convertis en tokens de gouvernance REG par la suite).
+Le montant des frais RealT est redistribué aux propriétaires (au moment de la première réévaluation) sous forme de tokens [SOON](reg-soon.md) (qui seront convertis en tokens de gouvernance REG par la suite).
 
 Le nouveau prix du Token sera la nouvelle valeur de [rachat par RealT](vendre-ses-realtokens.md) (hors frais), la nouvelle valeur sur le [RMM](../defi-realt/rmm/) et influera le [marché secondaire](../defi-realt/dex-swap/yam.md) du token (qui se mesure souvent par rapport au prix référence de RealT).
 
