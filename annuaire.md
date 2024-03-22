@@ -10,7 +10,8 @@ description: Synthèse des principaux liens...
 * Community Call sur [Youtube](https://www.youtube.com/@RealTplatform/streams), sur [Twitch](https://www.twitch.tv/realtofficial),
 * [Wiki](https://wiki.realt.co/),
 * Telegram de [bienvenue](https://t.me/Realtoken\_welcome) et [d'annonces,](https://t.me/Communication\_RealT\_FR)
-* [Twitter](https://twitter.com/RealTPlatform), [Linkedin](https://www.linkedin.com/company/realtplatform/), [Discord](https://discord.com/invite/5TkxpQc), [Objets publicitaires](https://merch.realt.co/).
+* [Twitter](https://twitter.com/RealTPlatform), [Linkedin](https://www.linkedin.com/company/realtplatform/), [Discord](https://discord.com/invite/5TkxpQc), [Objets publicitaires](https://merch.realt.co/),
+* [Request Finance](https://app.request.finance/login), [HelloSign](https://app.hellosign.com/account/logIn)
 {% endtab %}
 
 {% tab title="Defi" %}
@@ -44,7 +45,7 @@ description: Synthèse des principaux liens...
 {% tab title="Communauté" %}
 * [Dashboard](https://dashboard.realt.community/), [API](https://api.realt.community/), [History](https://www.cryptalloc.com/realtsoon/),
 * Site Web [E](https://ehpst.duckdns.org/realt\_rent\_tracker/)[hpst](https://ehpst.duckdns.org/realt\_rent\_tracker/)
-* Site Web [Pit'Swap](https://marclanders.duckdns.org/),
+* Site Web [Pit'Swap](https://realt.pitswap.site/), [Pit's BI](https://realt.pitsbi.io/stats)
 * Site Web [Jeremy](https://yam.jycssu.fr/#/),
 * [Dune](https://dune.com/k06a/RealToken),
 {% endtab %}
