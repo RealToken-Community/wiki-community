@@ -21,7 +21,7 @@ A parti de cette API, un membre de la communauté met à disposition dans un goo
 \
 [https://docs.google.com/spreadsheets/d/1B\_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY](https://docs.google.com/spreadsheets/d/1B\_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY/edit?usp=sharing)\
 \
-(la date de la dernière mise à jour de l'API figure en colonne "EV" : LastUpdate, onglet RealToken)\
+(la date de la dernière mise à jour de l'API figure en colonne "EW" : LastUpdate, onglet RealToken)\
 
 
 
