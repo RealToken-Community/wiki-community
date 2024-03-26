@@ -31,6 +31,7 @@
   * [Impots](site-realt/impots.md)
   * [Succession](site-realt/succession.md)
   * [Erreur, Bug](site-realt/erreur-bug.md)
+  * [Ouverture du Capital](site-realt/ouverture-du-capital.md)
 * [🍬 Defi RealT](defi-realt/README.md)
   * [Achat Crypto](defi-realt/achat-crypto.md)
   * [RMM (RealT)](defi-realt/rmm/README.md)
