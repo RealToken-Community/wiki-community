@@ -10,7 +10,7 @@ A cette occasion, RealT a publié plusieurs articles :
 *   [RealT, le prétendant idéal pour être le futur GAFAM de la tokenisation](https://medium.com/realtfrench/realt-le-pr%C3%A9tendant-id%C3%A9al-pour-%C3%AAtre-le-futur-gafam-de-la-tokenisation-82fa30489caa),\
     ...avec une évocation du présent site : :thumbsup:&#x20;
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 * [Le choix del a Suisse pour une sécurité renforcée : L'envirronement d'investissement idéal](https://medium.com/realtfrench/le-choix-de-la-suisse-pour-une-s%C3%A9curit%C3%A9-renforc%C3%A9e-lenvironnement-d-investissement-id%C3%A9al-d93fabd5c44d).
 
 Un Community Call spécifique a été organisé en 3 langues :

@@ -12,7 +12,7 @@ En Avril 2023, le mode de présentation de l'application a été modifé, en coh
 
 Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
 
 ## Guide utilisateur
 
@@ -46,3 +46,4 @@ Afin de faciliter la transition :&#x20;
 * Le Facteur de Réserve, des WXDAI sur RMM v2, a été progressivement augmenté de 10% à 25, puis 50%, puis 75% !..afin de limiter le taux des dépôts de WXDAI sur RMM v2 (et favoriser la migration),
 * 20 jours après le lancement (28 Février) : Une première série de 16 nouvelles propriétés, a été ajoutée au RMM v3. La LTV des propriétés sur RMM v3 a été porté de 50 à 60%.
 * 6 Mars : 35 de plus ..
+* 6 Avril : 158 propriétés sont collatéralisables (vs 54 à l'origine)..

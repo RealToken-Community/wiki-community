@@ -8,17 +8,17 @@ Trois modes de paiement sont disponibles, pour vos achats sur le site RealT :
 
 ## Avec Request Finance
 
-Le paiement se fait en USDC ou xDAI, sur le réseau Gnosis.
+Request Finance ne permettait initialement, que le paiement en USDC ou xDAI, sur le réseau Gnosis. Depuis le 4 Avril 2024, de nombreuse Crypto et chaines sont supportées
 
-<figure><img src="../../.gitbook/assets/image (69).png" alt=""><figcaption><p>Première option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 Vous disposez de 7 à 8 heures pour effectuer votre paiement avec [Request Finance](paiement-avec-request-finance.md).
 
 ## Avec Coinbase Commerce
 
-<figure><img src="../../.gitbook/assets/image (72) (1).png" alt=""><figcaption><p>Seconde option des modes de paiement</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="551"><figcaption></figcaption></figure>
 
-Ce mode de paiement **ne nécessite pas de compte Coinbase**, Coinbase Commerce est un prestataire de paiement, comme Request Finance.
+Initialement, ce mode de paiement **ne nécessitait pas de compte Coinbase**, (Coinbase Commerce étant un prestataire de paiement, comme Request Finance). Un compte sera prochainement nécessaire.
 
 De nombreuses monnaies et réseaux de paiement sont possibles :
 
@@ -34,7 +34,7 @@ Vous disposez d'1 heure pour effectuer votre paiement avec Coinbase Commerce.
 
 &#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
 
 Depuis Juillet 2022, des frais sont appliqués.
 
