@@ -51,6 +51,7 @@
     * [Swapcat](defi-realt/dex-swap/swapcat.md)
     * [Swap avec 1inch](defi-realt/dex-swap/swap-avec-1inch.md)
     * [Swap de cryptos](defi-realt/dex-swap/swap-de-cryptos.md)
+  * [La DAO et son REG](defi-realt/la-dao-et-son-reg.md)
   * [Bridge Crypto](defi-realt/bridge.md)
   * [Bridge Realtokens (RealT)](defi-realt/bridge-realtokens-realt/README.md)
     * [Brige, fonctions de base](defi-realt/bridge-realtokens-realt/brige-fonctions-de-base.md)
