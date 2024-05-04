@@ -44,6 +44,8 @@ Afin de faciliter la transition :&#x20;
 {% file src="../../.gitbook/assets/Mail RealT 16 Février 2024.png" %}
 
 * Le Facteur de Réserve, des WXDAI sur RMM v2, a été progressivement augmenté de 10% à 25, puis 50%, puis 75% !..afin de limiter le taux des dépôts de WXDAI sur RMM v2 (et favoriser la migration),
-* 20 jours après le lancement (28 Février) : Une première série de 16 nouvelles propriétés, a été ajoutée au RMM v3. La LTV des propriétés sur RMM v3 a été porté de 50 à 60%.
-* 6 Mars : 35 de plus ..
-* 6 Avril : 158 propriétés sont collatéralisables (vs 54 à l'origine)..
+* 28 Février : Une première série de 16 nouvelles propriétés, a été ajoutée au RMM v3. La LTV des propriétés sur RMM v3 a été porté de 50 à 60%.
+* 6 Avril : 158 Propriétés sont collatéralisables (vs 54 à l'origine)..
+* 4 Mai : 290 Propriétés sont maintenant collatéralisables !\
+  Le facteur de réserve de la v2 a été porté à 100% (donc plus aucun intérêt, n'est versé sur les dépôts de XDAI).\
+  98 K ont été ajoutés par RealT sur la v2, afin de permettre à ceux qui ne pouvaient retirer leurs dépôts de XDAI par manque de liquidité, de pouvoir le faire.
