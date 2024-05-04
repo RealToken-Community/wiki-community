@@ -35,4 +35,4 @@ La démarche se fait sur le site de [RealT](https://realt.co/) (et est disponibl
 
 Compter 1 à 2 jours, pour que votre demande soit executée.
 
-Le site communautaire suivant, vous permet de lister l'ensemble des RealTokens que vous avez whitelistés (en indiquant l'adresse de votre wallet) : [https://ehpst.duckdns.org/realt\_rent\_tracker/whitelist\_status](https://ehpst.duckdns.org/realt\_rent\_tracker/whitelist\_status)
+Le site communautaire suivant, vous permet de lister l'ensemble des RealTokens que vous avez whitelistés (en indiquant l'adresse de votre wallet) : [https://ehpst.duckdns.org/realt\_rent\_tracker/my\_whitelist\_status](https://ehpst.duckdns.org/realt\_rent\_tracker/my\_whitelist\_status)
