@@ -89,4 +89,4 @@
 ## .
 
 * [Telegram RealT "Welcome"](https://t.me/Realtoken\_welcome)
-* [Discord](https://discord.gg/SY4jrcmNVR)
+* [Discord](https://discord.gg/aPSWyGxMUk)

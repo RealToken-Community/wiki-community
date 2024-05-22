@@ -10,7 +10,7 @@ description: Synthèse des principaux liens...
 * Community Call sur [Youtube](https://www.youtube.com/@RealTplatform/streams), sur [Twitch](https://www.twitch.tv/realtofficial),
 * [Wiki](https://wiki.realt.co/),
 * Telegram de [bienvenue](https://t.me/Realtoken\_welcome) et [d'annonces,](https://t.me/Communication\_RealT\_FR)
-* [Twitter](https://twitter.com/RealTPlatform), [Linkedin](https://www.linkedin.com/company/realtplatform/), [Discord](https://discord.com/invite/5TkxpQc), [Objets publicitaires](https://merch.realt.co/),
+* [Twitter](https://twitter.com/RealTPlatform), [Linkedin](https://www.linkedin.com/company/realtplatform/), [Discord](https://discord.gg/aPSWyGxMUk), [Objets publicitaires](https://merch.realt.co/),
 * [Request Finance](https://app.request.finance/login), [HelloSign](https://app.hellosign.com/account/logIn)
 {% endtab %}
 
