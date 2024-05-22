@@ -15,8 +15,6 @@
 Ils servent à établir le prix du REG, au travers de Pools de liquidité. \
 Si vous débutez en la matière, ce document est pour vous ..
 
-
-
 {% file src="../.gitbook/assets/Genesis, que faire de vos REG v2 .pdf" %}
 
 ## Campagne Zealy de lancement
@@ -24,3 +22,9 @@ Si vous débutez en la matière, ce document est pour vous ..
 Pour en savoir plus :
 
 {% file src="../.gitbook/assets/Zealy.pdf" %}
+
+## Ouverture d'un Discord dédié à la DAO
+
+Comment y accéder:&#x20;
+
+{% file src="../.gitbook/assets/Discord DAO.pdf" %}
