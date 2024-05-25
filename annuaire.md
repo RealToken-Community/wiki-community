@@ -43,7 +43,7 @@ description: Synthèse des principaux liens...
 {% endtab %}
 
 {% tab title="Communauté" %}
-* [Dashboard](https://dashboard.realt.community/), [API](https://api.realt.community/), [GitHub](https://github.com/RealToken-Community)
+* [Dashboard](https://dashboard.realt.community/), [API](https://api.realt.community/), [GitHub](https://github.com/RealToken-Community), [Site web](https://www.realt.community/)
 * Site Web [crypT'Alloc](https://www.cryptalloc.com/realtlab/),
 * Site Web [E](https://ehpst.duckdns.org/realt\_rent\_tracker/)[hpst](https://ehpst.duckdns.org/realt\_rent\_tracker/)
 * Site Web [Pit'Swap](https://realt.pitswap.site/), [Pit's BI](https://realt.pitsbi.io/stats)
