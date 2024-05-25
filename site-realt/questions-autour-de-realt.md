@@ -40,7 +40,7 @@ Quelques adresses, plus spécifiques :&#x20;
 * Pour les développements faits par la Communauté :&#x20;
   * [Telegram](https://t.me/joinchat/G1CFbxzCdGI4NJd7cpO19A),
   * [Discord](https://discord.com/invite/npzp8xhMqu),
-  * [Github](https://github.com/RealT-Community),
+  * [Github](https://github.com/RealToken-Community),
   * [Site](https://realt.community/).
 
 ## Si vous n'avez pas trouvé de réponses
