@@ -49,4 +49,4 @@ Afin de faciliter la transition :&#x20;
 * 4 Mai : 290 Propriétés sont maintenant collatéralisables !\
   Le facteur de réserve de la v2 a été porté à 100% (donc plus aucun intérêt, n'est versé sur les dépôts de XDAI).\
   98 K ont été ajoutés par RealT sur la v2, afin de permettre à ceux qui ne pouvaient retirer leurs dépôts de XDAI par manque de liquidité, de pouvoir le faire.
-* Le 6 Juin : 142 nouvelles propriétés ont été ajoutés au RMM v3. Ce qui fait au total 432 sur plus de 520 propriétés, disponibles comme collatéral.&#x20;
+* Le 6 Juin : 142 nouvelles propriétés ont été ajoutées au RMM v3. Ce qui fait au total 432 sur plus de 520 propriétés, disponibles comme collatéral.&#x20;
