@@ -12,7 +12,7 @@ En Avril 2023, le mode de présentation de l'application a été modifé, en coh
 
 Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
 
 ## Guide utilisateur
 
@@ -49,3 +49,4 @@ Afin de faciliter la transition :&#x20;
 * 4 Mai : 290 Propriétés sont maintenant collatéralisables !\
   Le facteur de réserve de la v2 a été porté à 100% (donc plus aucun intérêt, n'est versé sur les dépôts de XDAI).\
   98 K ont été ajoutés par RealT sur la v2, afin de permettre à ceux qui ne pouvaient retirer leurs dépôts de XDAI par manque de liquidité, de pouvoir le faire.
+* Le 6 Juin : 142 nouvelles propriétés ont été ajoutés au RMM v3. Ce qui fait au total 432 sur plus de 520 propriétés, disponibles comme collatéral.&#x20;

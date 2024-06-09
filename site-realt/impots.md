@@ -1,4 +1,4 @@
-# Impots
+# Impots et Taxes
 
 Il faut savoir que RealT n'a pas vocation à donner des conseils fiscaux (ils n'ont pas le droit !). Rien ne remplacera le conseil d'un expert fiscaliste,&#x20;
 
@@ -6,6 +6,10 @@ Il faut savoir que RealT n'a pas vocation à donner des conseils fiscaux (ils n'
 
 En avril 2024, RealT a publié la communication suivante :\
 [https://faq.realt.co/en/articles/8811265-taxes-on-your-realt-investments](https://faq.realt.co/en/articles/8811265-taxes-on-your-realt-investments)
+
+Comme mentionné au point 2 de l'article, fin mai 2024 une nouvelle version de l'état annuel 2023 a été mis à disposition avec la répartition : Dividende et Retour sur Capital
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Groupes de discussion entre investisseurs&#x20;
 

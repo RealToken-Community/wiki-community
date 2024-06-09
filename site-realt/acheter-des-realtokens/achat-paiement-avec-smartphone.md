@@ -14,10 +14,9 @@ MetaMask est disponible sur votre ordinateur, mais aussi sur mobile : [Android](
 
 A l'inverse de la version sur ordinateur (où Metamask est une extension de votre navigateur), sur mobile c'est l'application Metamask qui intègre un navigateur ! Ce n'est pas un navigateur aussi complet que ce que vous connaissez, mais ce sera suffisant et bien plus simple (cf solution suivante [avec un wallet mobile autre que MetaMask](achat-paiement-avec-smartphone.md#avec-un-wallet-mobile-autre-que-metamask)).
 
-Parmi les 3 [modes de paiement](mode-de-paiement-realt.md), prenons la première option par [Request Finance](paiement-avec-request-finance.md).\
-(Pour un paiement via [Coinbase Commerce](paiement-avec-coinbase-commerce.md), c'est très simple puisque la page Coinbase vous donne le montant et le wallet vers lequel vous devez faire votre paiement)
-
-Pour un paiement Request Finance, avec votre smartphone et MetaMask (mobile), les étapes sont les suivantes :
+Parmi les deux [modes de paiement](mode-de-paiement-realt.md), prenons la première option par "Crypto Invoice"\
+\
+Avec Request Finance et MetaMask (mobile), les étapes sont les suivantes :
 
 1. Sur votre messagerie mobile, dans le mail de Request Finance : cliquer pour accéder à votre facture,
 2. Le navigateur de votre mobile va alors s'ouvrir sur le site de Request Finance (en précisant que l'application n'est pas "optimisée" sur mobile !),

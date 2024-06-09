@@ -18,7 +18,11 @@ En complément de son [site web](https://realt.co/),  RealT met à disposition d
 
 ## Pour des questions complémentaires
 
-Vous pouvez rejoindre les Groupes de discussion sur Telegram : [Anglais](https://t.me/RealT\_Platform), [Français](https://t.me/RealT\_France), [Espagnol](https://t.me/RealT\_Spanish), [Portugais](https://t.me/realtlusofonos).
+Vous pouvez rejoindre les Groupes de discussion&#x20;
+
+### sur Telegram&#x20;
+
+&#x20;[Anglais](https://t.me/RealT\_Platform), [Français](https://t.me/RealT\_France), [Espagnol](https://t.me/RealT\_Spanish), [Portugais](https://t.me/realtlusofonos).
 
 Avant de poser votre question, faites déjà une recherche (loupe en haut à droite), car une question similaire a peut-être déjà été traitée sur le groupe. Sans oublier les messages importants, qui sont épinglés.
 
@@ -29,6 +33,10 @@ Depuis l'évolution en mode groupe du Telegram, il faut, pour voir les messages 
 
 <img src="../.gitbook/assets/image (144).png" alt="" data-size="original">
 {% endhint %}
+
+### sur Discord
+
+[https://discord.com/invite/aPSWyGxMUk](https://discord.com/invite/aPSWyGxMUk)
 
 ## Pour les développeurs
 

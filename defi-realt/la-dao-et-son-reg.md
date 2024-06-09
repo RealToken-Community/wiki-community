@@ -12,7 +12,7 @@
 
 ## Tuto pour savoir que faire de vos premiers REG
 
-Ils servent à établir le prix du REG, au travers de Pools de liquidité. \
+Distribué en mai 2024, ils servent à établir le prix du REG, au travers de Pools de liquidité. \
 Si vous débutez en la matière, ce document est pour vous ..
 
 {% file src="../.gitbook/assets/Genesis, que faire de vos REG v2 .pdf" %}
@@ -27,4 +27,4 @@ Pour en savoir plus :
 
 Comment y accéder:&#x20;
 
-{% file src="../.gitbook/assets/Discord DAO.pdf" %}
+{% file src="../.gitbook/assets/Discord DAO v3.pdf" %}
