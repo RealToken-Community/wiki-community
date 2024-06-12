@@ -20,7 +20,7 @@ Le montant total des SOON (figurant dans l'[onglet Valuation](reevaluation.md) d
 
 Vous pouvez vérifier en [ajoutant le token](../portefeuille/metamask/ajout-dun-token.md) SOON sur votre wallet (celui qui détient le RealToken au moment de la réévaluation), Son adresse est la suivante : 0xaA2C0cf54cB418eB24E7e09053B82C875C68bb88.
 
-Schéma, fait par un membre de la communauté, pour comprendre (de façon simplifiée) la relation réévaluation vs distribution de soon :&#x20;
+Schéma, fait par un membre de la communauté, pour comprendre (de façon simplifiée) la relation réévaluation vs distribution de SOON :&#x20;
 
 <figure><img src="../.gitbook/assets/image (116).png" alt="" width="456"><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ RealT met à disposition les fichiers CSV avec l'ensemble des SOON distribués :
 
 ## Historique des SOON reçus
 
-Vous pouvez retrouver l'ensemble des Soons qui vous ont été versés sur un wallet, en allant sur le smart contract Soon dans l'explorateur et en inscrivant l'adresse de votre vallet dans le champ de recherche des holders : \
+Vous pouvez retrouver l'ensemble des Soons qui vous ont été versés sur un wallet, en allant sur le smart contract SOON dans l'explorateur et en inscrivant l'adresse de votre vallet dans le champ de recherche des holders : \
 \
 [https://gnosisscan.io/token/0xaa2c0cf54cb418eb24e7e09053b82c875c68bb88#balances](https://gnosisscan.io/token/0xaa2c0cf54cb418eb24e7e09053b82c875c68bb88#balances)
 

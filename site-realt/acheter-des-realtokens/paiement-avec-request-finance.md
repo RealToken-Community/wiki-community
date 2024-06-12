@@ -8,4 +8,4 @@ Si vous n'avez rien dans vos mails (SPAM inclus), vous pouvez aller directement 
 
 <figure><img src="../../.gitbook/assets/image (155).png" alt=""><figcaption></figcaption></figure>
 
-Connectez vous avec votre adresse mail RealT, et vous retrouverez vos factures payées et en attente.
+Connectez-vous avec votre adresse mail RealT, et vous retrouverez vos factures payées et en attente.

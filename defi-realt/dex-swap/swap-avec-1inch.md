@@ -24,5 +24,5 @@ Avec cette référence, le wallet destinataire de l'échange, va pouvoir accéde
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-Nota : Ne pas modifier le plafond d'autorisation proposé (en "unlimited"), sinon ca bug ! \
+Nota : Ne pas modifier le plafond d'autorisation proposé (en "unlimited"), sinon ça bug ! \
 ([revoker](../../securite/controle-des-autorisations.md) l'accès par la suite)

@@ -21,7 +21,7 @@ Pour l'exemple, nous allons prendre un des[ gros wallet RealT](../../la-communau
 4. Solde du portefeuille,
 5. liste des tokens dans le portefeuille,
 6. Identifiant unique pour chacune des transactions,
-7. action qui a été réalisée (méthode du smart-contrat utilisé),
+7. action qui a été réalisée (méthode du smart-contract utilisé),
 8. adresse de l'origine de la transaction (ici l'adresse du portefeuille),
 9. adresse de destination de la transaction,
 10. montant de la transaction,
@@ -37,7 +37,7 @@ En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour 
 1. Transaction Hash,
 2. Statut de la transaction,
 3. Adresse du portefeuille émetteur de la transaction,
-4. Adresse du smart-contrat qui a traité la transaction (YAM),
+4. Adresse du smart-contract qui a traité la transaction (YAM),
 5. Détail des transferts, ici deux :&#x20;
    * retrait de 51,5 USDC du portefeuille,
    * ajout d'un RealToken vers le portefeuille.
@@ -51,7 +51,7 @@ En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour 
 
 1. Accessible en ouvrant la flèche en bas de la page,
 2. Fonction (Méthode) invoquée, lors de la transaction, sur le smart-contrat (YAM : BuywithPermit)
-3. Données d'entrée vers le smart-contrat, en format décodé
+3. Données d'entrée vers le smart-contract, en format décodé
 4. ID de l'offre YAM,
 5. Montant en USDC du RealToken (à multiplier par 10^6, pour l'obtenir en décimal)
 6. Quantité de RealToken acheté (à multiplier par 10^18 pour l'obtenir en décimal)
@@ -77,7 +77,7 @@ Prenons comme exemple le smart-contrat de la propriété, évoquée dans le chap
    Il faudra alors vous connecter avec un wallet, pour approuver les modifications.
 6. Adresse des RealTokens correspondants à cette propriété
 
-Concernant le smart-contrat du Realtoken :&#x20;
+Concernant le smart-contract du Realtoken :&#x20;
 
 <figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 

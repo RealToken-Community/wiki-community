@@ -13,7 +13,7 @@ Cet ajout n'est pas obligatoire pour recevoir tels ou tels tokens, c'est juste p
 
 ## Ajout de l'USDC sur le réseau Gnosis
 
-Il faut au préalable avoir [installé le réseau Gnosis](ajout-dun-reseau.md) sur MetaMask et l'avoir selectionné (en haut à droite). Deux méthodes sont là aussi possible :&#x20;
+Il faut au préalable avoir [installé le réseau Gnosis](ajout-dun-reseau.md) sur MetaMask et l'avoir sélectionné (en haut à droite). Deux méthodes sont là aussi possible :&#x20;
 
 *   La méthode automatique : avec le site [Coinmarketcap en recherchant l'USDC](https://coinmarketcap.com/fr/currencies/usd-coin/), en cliquant "more" , puis sur le renard du réseau souhaité (xDai/Gnosis) et l'ajout se fait..
 
@@ -29,7 +29,7 @@ Il faut au préalable avoir [installé le réseau Gnosis](ajout-dun-reseau.md) s
 
 Pour ajouter le token correspondant à une propriété RealT, il faut  :&#x20;
 
-*   Chercher l'adresse du smart contrat, sur la fiche de la propriété sur le site RealT :&#x20;
+*   Chercher l'adresse du smart-contract, sur la fiche de la propriété sur le site RealT :&#x20;
 
     <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
 *   Copier l'adresse du contrat, l'ajouter sur MetaMask, et réduire la taille du nom à 11 caractères

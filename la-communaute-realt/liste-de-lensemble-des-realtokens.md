@@ -17,7 +17,7 @@ Pour afficher ce csv dans votre tableur favori, vous devrez (soit au moment du c
 
 RealT met à disposition de nombreuses informations sur chaque RealToken, via une [API](https://api.realt.community/).
 
-A parti de cette API, un membre de la communauté met à disposition dans un google sheet l'ensemble des informations disponibles (soit plus de 150 par RealToken !) ainsi qu'un nouvel onglet pour les informations de réévaluation : \
+A partir de cette API, un membre de la communauté met à disposition dans un google sheet l'ensemble des informations disponibles (soit plus de 150 par RealToken !) ainsi qu'un nouvel onglet pour les informations de réévaluation : \
 \
 [https://docs.google.com/spreadsheets/d/1B\_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY](https://docs.google.com/spreadsheets/d/1B\_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY/edit?usp=sharing)\
 \

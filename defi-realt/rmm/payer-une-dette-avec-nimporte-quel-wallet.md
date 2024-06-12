@@ -7,13 +7,13 @@ Sur RMM v2, la procédure était décrite sur le [FAQ RealT](https://faq.realt.c
 
 Avec RMM v3, la procédure est différente car :&#x20;
 
-* le smart contrat RMM v3 est différent,
+* le smart contract RMM v3 est différent,
 * il y a plusieurs Stablecoins d'emprunt (WXDAI et USDC),
 * il faut au préalable, avoir autorisé le smart contract RMM à accéder aux Stablecoins que vous allez rembourser.
 
 ## Autorisation d'accès préalable
 
-Pour que le smart contrat du RMM v3 soit autorisé à agir sur vos Stablecoins, il suffit que le wallet (qui va faire le remboursement) ait fait au préalable un dépôt d'un tout petit montant mais avec un plafond un peu supérieur au remboursement que vous souhaitez faire.\
+Pour que le smart contract du RMM v3 soit autorisé à agir sur vos Stablecoins, il suffit que le wallet (qui va faire le remboursement) ait fait au préalable un dépôt d'un tout petit montant mais avec un plafond un peu supérieur au remboursement que vous souhaitez faire.\
 Dans l'exemple ci-après, au préalable d'un remboursement en USDC : nous avons fait un dépôt d'1 USDC avec un plafond illimité (en laissant le montant en rouge par défaut) :
 
 <figure><img src="../../.gitbook/assets/image (259).png" alt="" width="375"><figcaption></figcaption></figure>

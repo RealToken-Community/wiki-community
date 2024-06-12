@@ -22,7 +22,7 @@ particulièrement adaptés aux spécificités des RealToken
 
     <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
-    Nota : Le dashboard ne tient pas compte de la date de début de paiment des loyers.\
+    Nota : Le dashboard ne tient pas compte de la date de début de paiement des loyers.\
 
 * Feuille Google Sheet : [https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K\_CR-dcuTQQaWub2x7BC5rAYwY/](https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K\_CR-dcuTQQaWub2x7BC5rAYwY/)\
   Vous pouvez l'adapter à votre propre portefeuille, pour cela il suffit :\
