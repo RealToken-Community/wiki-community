@@ -7,7 +7,7 @@ Taper le nom du RealToken dans la zone de recherche et la paire correspondante v
 
 <figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="539"><figcaption></figcaption></figure>
 
-Suivant les icones qui s’affichent, devant le nom de la paire, vous voyez immédiatement le second token de la paire&#x20;
+Suivant les icônes qui s’affichent, devant le nom de la paire, vous voyez immédiatement le second token de la paire&#x20;
 
 <figure><img src="../../../.gitbook/assets/image (3).png" alt="" width="223"><figcaption></figcaption></figure>
 

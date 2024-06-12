@@ -5,7 +5,7 @@ RealT supporte ce réseau, mais recommande l'usage de Gnosis (pour limiter les f
 
 ## Pour ajouter le réseau Gnosis :&#x20;
 
-* Accédez au site Web de [ChainList](https://chainlist.org/), connectez votre wallet MetaMask, rechercher Gnosis et l'ajouter :&#x20;
+* Accédez au site Web de [ChainList](https://chainlist.org/), connectez votre wallet MetaMask, recherchez Gnosis et l'ajouter :&#x20;
 
 <figure><img src="../../.gitbook/assets/image (159).png" alt=""><figcaption></figcaption></figure>
 

@@ -6,7 +6,7 @@ description: contributions de la communauté des investisseurs RealT
 
 L'équipe RealT étant limitée (une quarantaine de personnes mi 2023), plusieurs initiatives sont venues compléter les développements "maison" et sont régulièrement utilisées par les investisseurs RealT.
 
-RealT entretien une relation très étroite avec cette Communauté, une [DAO](../defi-realt/la-dao-et-son-reg.md) étant en cours de mise en place pour l'organiser et l'animer.
+RealT entretient une relation très étroite avec cette Communauté, une [DAO](../defi-realt/la-dao-et-son-reg.md) étant en cours de mise en place pour l'organiser et l'animer.
 
 Vous trouverez dans les chapitres suivants, les principales fonctions pour lesquelles la Communauté a contribué.
 

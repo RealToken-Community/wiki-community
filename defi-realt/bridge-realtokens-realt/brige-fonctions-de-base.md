@@ -14,7 +14,7 @@ Si l'adresse cible n'est pas identique à l'adresse source, vous devez demander 
     (vous pouvez en sélectionner plusieurs, en cochant la case en tête de liste)
 
     <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="168"><figcaption></figcaption></figure>
-3.  Indiquer la quantité des RealTokens selectionnés, à transférer :
+3.  Indiquer la quantité des RealTokens sélectionnés, à transférer : 
 
     <figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 4. Si vous souhaitez bridger vers un autre wallet (qui doit etre whitelisté) : indiquer son adresse ("reception personnalisée"),

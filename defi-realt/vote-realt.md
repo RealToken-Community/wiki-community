@@ -6,7 +6,7 @@ description: des holders d'une propriété
 
 Afin d'obtenir la position des actionnaires, concernant une décision impactant une propriété, RealT a développé une [application de vote](https://vote.realtoken.network/) on-chain (sur Gnosis).
 
-Le premier utilisation en production, s'est faite fin 2022 pour la [détokenisation d'Alcoy](../site-realt/detokenisation-dune-propriete.md).
+La première utilisation en production a eu lieu fin 2022 pour la [détokenisation d'Alcoy](../site-realt/detokenisation-dune-propriete.md).
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 

@@ -4,7 +4,7 @@ description: pour transférer vos Realtokens d'une blockchain à une autre.
 
 # Bridge Realtokens (RealT)
 
-Les Realtokens sont actuellement disponibles sur les deux blockchaines Ethereum et GnosisChain.
+Les Realtokens sont actuellement disponibles sur les deux blockchains Ethereum et GnosisChain.
 
 Dans le cas particulier des (37) premières propriétés, vendues en 2019/2020, disponibles uniquement sur Ethereum et dont le nom est suffixé OLD-... : RealT a proposé la migration vers de nouveaux smart contrat (disponibles sur les deux chaines) :&#x20;
 

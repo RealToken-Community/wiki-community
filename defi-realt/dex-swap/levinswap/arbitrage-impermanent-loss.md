@@ -2,7 +2,7 @@
 
 ### Arbitrage
 
-La paire fonctionne de manière autonome : son protocole calcul la parité, sans aucune relation avec les prix de marché.\
+La paire fonctionne de manière autonome : son protocole calcule la parité, sans aucune relation avec les prix de marché.\
 Il peut alors se produire, un décalage : entre la parité de la paire et le prix de marché, induisant une opportunité d'arbitage.
 
 Sur Levinswap, si la parité d'un RealTokens est très inférieure à sa valeur de marché (sur site RealT ou sur YAM), l'arbitrage consiste à acheter ce RealToken dans la pool et à le revendre à un montant plus élevé. L'arbitrageur fait ainsi, un bénéfice et fait remonter la parité de la pool.

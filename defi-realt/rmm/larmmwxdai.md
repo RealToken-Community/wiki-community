@@ -2,7 +2,7 @@
 
 Au départ, l’aToken est une simple preuve de dépôt de Stablecoins sur le [RMM](./).
 
-<mark style="color:blue;">**L’intéret de cet aToken est qu’il fructifie !**</mark> : le nombre que vous en possédez dans votre wallet augmente régulièrement avec le temps ...sans rien faire !   (grace aux intérêts du RMM)
+<mark style="color:blue;">**L’intérêt de cet aToken est qu’il fructifie !**</mark> : le nombre que vous en possédez dans votre wallet augmente régulièrement avec le temps ...sans rien faire !   (grace aux intérêts du RMM)
 
 Depuis le péloiement de la v3 du RMM, deux aToken sont disponibles : un pour le WXDAI et un pour l'USDC.
 
@@ -11,7 +11,7 @@ Depuis le péloiement de la v3 du RMM, deux aToken sont disponibles : un pour le
 <mark style="color:blue;">**Combien ça rapporte ?**</mark> : c’est variable dans le temps.. il suffit d’aller sur le [RMM](https://rmm.realtoken.network/) (onglet Marchés) et vous pouvez voir l’historique (jusqu’à 1 an) du taux de dépôt.\
 C’est généralement un peu plus qu’ailleurs (sauf offre promotionnelle temporaire), car le RMM est encore peu connu et son taux d'utilisation assez élevé, ce qui fait augmenter le taux des dépôts.
 
-<mark style="color:blue;">**Que puis je faire de mes aToken ?**</mark> :
+<mark style="color:blue;">**Que puis-je faire de mes aToken ?**</mark> :
 
 * Les <mark style="color:blue;">**garder**</mark> et les voir augmenter :tada:..
 * <mark style="color:blue;">**Emprunter**</mark> (sur le RMM), en les utilisant comme collatéral (opération peu rentable, car le taux d’emprunt est supérieur au taux de dépôt),
