@@ -57,6 +57,8 @@
     * [Bridge intégré au Claim](defi-realt/bridge-realtokens-realt/bridge-integre-au-claim.md)
     * [Bridge, en cas de Pb..](defi-realt/bridge-realtokens-realt/bridge-en-cas-de-pb...md)
   * [Bridge REG (RealT)](defi-realt/bridge-reg-realt.md)
+  * [Transfert groupé de Tokens](defi-realt/transfert-groupe-de-tokens.md)
+  * [Page](defi-realt/page.md)
   * [Vote (RealT)](defi-realt/vote-realt.md)
   * [Portfolio](defi-realt/portfolio-defi.md)
   * [Explorateurs](defi-realt/explorateurs/README.md)
