@@ -16,7 +16,15 @@ Ici la technologie utilisée est [CCIP de Chainlink](https://docs.chain.link/cci
 4. Sélectionner le token de frais (celui du réseau d'origine ou du LINK, token de Chainlink)\
    Nota : les frais sont ceux de Chainlink et du réseau (ici 26 Cts, indépendant de la quantité à bridger)
 5. Eventuellement, une adresse de réception différente de celle d'émission
-6. Si vous n'êtes pas sur le bon réseau, il vous sera proposer d'en changer avant de lancer le transfert\
-
+6. Si vous n'êtes pas sur le bon réseau, il vous sera proposer d'en changer avant de lancer le transfert
 
 Après signature avec le wallet, un message apparait en haut à gauche vous indiquant que le bridge est en cours d'exécution et comment voir son avancement.
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="292"><figcaption></figcaption></figure>
+
+En cliquant sur "Voir le status ici", vous êtes transféré sur Chainlink et pouvez voir l'avancement du statut (jusqu'à "Success") :
+
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Nota : l'adresse du REG est identique sur les trois blockchain : \
+&#x20;                                                         0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce
