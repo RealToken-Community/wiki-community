@@ -1,6 +1,8 @@
 # Bridge REG (RealT)
 
-RealT met en place un autre Bridge dédié aux REG.
+RealT à mis en place un autre [Bridge, dédié aux REG](https://bridge.realtoken.network/).\
+\
+&#x20;                 [Article sur Medium](https://medium.com/@RealTokenDAO/realtoken-dao-integrates-chainlink-ccip-to-unlock-cross-chain-reg-transfers-aa7afc0a69e6) correspondant (EN)
 
 Ici la technologie utilisée est [CCIP de Chainlink](https://docs.chain.link/ccip) (vs Omnibridge pour le [Bridge de Realtoken](bridge-realtokens-realt/)).
 
