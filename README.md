@@ -14,7 +14,7 @@ Les articles sont classés, dans le bandeau sur la gauche, mais le plus simple e
 
 En dernier ressort, vous pouvez solliciter le support [RealT](https://realt.co/) (bulle orange en bas à droite).\
 \
-Schéma de synthèse de l'écosystème :
+[Schéma de synthèse de l'écosystème](https://drive.google.com/file/d/1O-3yg7KeCL2FC6aRFgkMBJES-30vuAKX/view?usp=sharing) :
 
 <figure><img src=".gitbook/assets/image (274).png" alt=""><figcaption></figcaption></figure>
 
