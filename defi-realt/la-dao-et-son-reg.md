@@ -17,12 +17,6 @@ Si vous débutez en la matière, ce document est pour vous ..
 
 {% file src="../.gitbook/assets/Genesis, que faire de vos REG v2 .pdf" %}
 
-## Campagne Zealy de lancement
-
-Pour en savoir plus :
-
-{% file src="../.gitbook/assets/Zealy v2.pdf" %}
-
 ## Ouverture d'un salon Discord dédié à la DAO
 
 Comment y accéder:&#x20;
