@@ -9,18 +9,18 @@ Si l'adresse cible n'est pas identique à l'adresse source, vous devez demander 
 
 1.  Se connecter avec son wallet, en étant sur la chaine source (Ethereum, par ex),
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="211"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="211"><figcaption></figcaption></figure>
 2.  Sélectionner la propriété de votre wallet que vous souhaitez transférer :\
     (vous pouvez en sélectionner plusieurs, en cochant la case en tête de liste)
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="168"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt="" width="168"><figcaption></figcaption></figure>
 3.  Indiquer la quantité des RealTokens sélectionnés, à transférer :
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
 4. Si vous souhaitez bridger vers un autre wallet (qui doit etre whitelisté) : indiquer son adresse ("reception personnalisée"),
 5.  Transférer, en validant la transaction avec les frais correspondants (à votre charge).
 
-    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="327"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt="" width="327"><figcaption></figcaption></figure>
 6.  Un message confirme l'envoi sur la chaine source (avec les coordonnées de la transaction correspondante) :
 
     <figure><img src="../../.gitbook/assets/image (26).png" alt="" width="216"><figcaption></figcaption></figure>
