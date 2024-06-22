@@ -12,7 +12,7 @@ En Avril 2023, le mode de présentation de l'application a été modifé, en coh
 
 Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
 
 ## Guide utilisateur
 
