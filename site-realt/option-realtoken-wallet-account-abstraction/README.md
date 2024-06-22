@@ -17,7 +17,7 @@ Cette transition sera aussi progressive, en terme de fonctionnalité :
 
 * Les clients Walletless n’avaient pas accès aux autres applications [YAM](https://yam.realtoken.network/) et [RMM](https://rmm.realtoken.network/markets/), qui nécessitent un wallet personnel. Progressivement cela sera possible avec ce nouveau wallet,
 * Dans un premier temps au travers du site Web [Realt.co](https://realt.co/), puis progressivement directement sur les applications elle même (au fur et à mesure qu’elles supporteront ce standard),
-* dans une troisième étape, une application spécifique sera développée afin d’utiliser son wallet AA sur toutes les autres applications qui n’auraient pas mis en place ce standard (via la solution Wallet Connect 2, déjà utilisée sur mobile).
+* dans une troisième étape, une application spécifique sera développée afin d’utiliser son wallet AA sur toutes les autres applications qui n’auraient pas mis en place ce standard (via la solution WalletConnect 2, déjà utilisée sur mobile).
 
 Les prochains chapitres détaillent :
 

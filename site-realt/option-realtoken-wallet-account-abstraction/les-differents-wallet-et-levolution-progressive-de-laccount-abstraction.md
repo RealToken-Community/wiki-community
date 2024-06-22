@@ -15,7 +15,7 @@ La fonction Walletless, ne permet pas d'accéder aux DApp, ce que le nouveau wal
   * Accès aux DApp YAM et RMM (uniquement pour le dépôt).
 * Etape 2 : Les DApp de l'écosystème (YAM,..) seront progressivement mis à niveau pour accepter les wallet AA. Il sera alors possible pour le RealToken Wallet de ne plus passer par le site [Realt.co](https://realt.co/) et d'accéder à des fonctions supplémentaires (tel que l'emprunt RMM par ex.)
 * Etape 3 : Une application spécifique pour le _Realtoken Wallet_  sera développée pour :&#x20;
-  * accéder aux DApp qui ne supporteraient pas le standard AA, et cela au travers de la solution Wallet Connect 2 (comme cela se fait actuellement sur mobile),
+  * accéder aux DApp qui ne supporteraient pas le standard AA, et cela au travers de la solution WalletConnect 2 (comme cela se fait actuellement sur mobile),
   * accéder aux fonctions programmables, qui seront mis en place dans la partie Smart Contract de l'Abstract Account.
 
 Nota : De nouvelles versions du standard Account Abstraction sont en cours d'étude et nécessiteront très certainement des migrations durant toute cette évolution.
