@@ -4,7 +4,7 @@
 * [🍪 Site Web de RealT](site-realt/README.md)
   * [Questions autour de RealT](site-realt/questions-autour-de-realt.md)
   * [Paramétrage compte RealT](site-realt/parametrage-realt.md)
-  * [Option compte Walletless](site-realt/walletless.md)
+  * [Option : compte Walletless (plus disponible)](site-realt/walletless.md)
   * [Option "RealToken Wallet" (Account Abstraction)](site-realt/option-realtoken-wallet-account-abstraction/README.md)
     * [Création du "RealToken Wallet" pour les nouveaux utilisateurs](site-realt/option-realtoken-wallet-account-abstraction/creation-du-realtoken-wallet-pour-les-nouveaux-utilisateurs.md)
     * [Les différents wallet et l'évolution progressive de l'Account Abstraction](site-realt/option-realtoken-wallet-account-abstraction/les-differents-wallet-et-levolution-progressive-de-laccount-abstraction.md)
