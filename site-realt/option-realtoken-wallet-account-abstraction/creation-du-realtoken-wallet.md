@@ -1,4 +1,4 @@
-# Création du "RealToken Wallet" pour les nouveaux utilisateurs
+# Création du "RealToken Wallet"
 
 Lors de la création d’un compte sur le site web [Reat.co](https://realt.co/), vous devez préciser le Wallet (compte sur la blockchain) qui recevra vos RealToken et vos loyers. \
 Depuis septembre 2022, vous aviez le choix entre : _Walletless_ (pour un wallet créé et géré par RealT en votre nom) ou _Private wallet_ (pour les personnes, disposant ou souhaitant un wallet personnel).
@@ -33,3 +33,5 @@ Si vous continuez en initialisant le 2FA, le second social login devra être dif
 Une fois le 2FA traité, vous devrez initialiser le nouveau _RealToken Wallet_, qui sera doté à cette occasion de 0,1 XDAI pour payer les premiers frais de transactions.
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="539"><figcaption></figcaption></figure>
+
+La démarche de création du Realtoken Wallet n'est à exécuter qu'une seule fois. Lors des connexions suivantes sur le site Realt.co, la connexion au Realtoken wallet correspondant sera automatique (les informations de social login et 2FA ayant été mémorisé).

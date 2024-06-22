@@ -18,4 +18,19 @@ La fonction Walletless, ne permet pas d'accéder aux DApp, ce que le nouveau wal
   * accéder aux DApp qui ne supporteraient pas le standard AA, et cela au travers de la solution WalletConnect 2 (comme cela se fait actuellement sur mobile),
   * accéder aux fonctions programmables, qui seront mis en place dans la partie Smart Contract de l'Abstract Account.
 
+A terme, vous aurez donc deux moyens de vous servir de votre _Realtoken Wallet_ :&#x20;
+
+* soit au travers du site Realt.co ( pour les comptes qui sont dans ce mode), qui exécutera automatiquement la connexion au _Realtoken Wallet_ (avec le social login et éventuellement le 2FA, qu'il aura mémorisé),
+* soit sur les DApp, supportant le standard _Account Abstraction_, en utilisant le social login associé au Realtoken Wallet lors de sa création. C'est à ce stade que le 2FA prendra toute son importance, pour compléter la sécurité d'accès d'un simple social login.
+
+La clé privé du Realtoken Wallet est complètement masqué, seul le social login (voire son 2FA) est a connaitre. Si jamais vous le perdez, vous pourrez :&#x20;
+
+* Soit demander à Realt de restaurer le lien entre votre Realtoken Wallet et votre nouveau social login,
+* Soit changer vous même le social login associé à votre Realtoken Wallet, ce qui nécessitera l'approbation de plusieurs wallets, que vous aurez du préalablement substituer au wallets prévus à cet effet lors de la création et détenus par RealT.
+
+Ainsi, grâce aux possibilités de l'Abstract Account, malgré une perte des moyens de connexion à votre Realtoken wallet, vous ne perdez pas son contenu.
+
+
+
 Nota : De nouvelles versions du standard Account Abstraction sont en cours d'étude et nécessiteront très certainement des migrations durant toute cette évolution.
+

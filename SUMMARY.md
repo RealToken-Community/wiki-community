@@ -6,7 +6,7 @@
   * [Paramétrage compte RealT](site-realt/parametrage-realt.md)
   * [Option : compte Walletless (plus disponible)](site-realt/walletless.md)
   * [Option "RealToken Wallet" (Account Abstraction)](site-realt/option-realtoken-wallet-account-abstraction/README.md)
-    * [Création du "RealToken Wallet" pour les nouveaux utilisateurs](site-realt/option-realtoken-wallet-account-abstraction/creation-du-realtoken-wallet-pour-les-nouveaux-utilisateurs.md)
+    * [Création du "RealToken Wallet"](site-realt/option-realtoken-wallet-account-abstraction/creation-du-realtoken-wallet.md)
     * [Les différents wallet et l'évolution progressive de l'Account Abstraction](site-realt/option-realtoken-wallet-account-abstraction/les-differents-wallet-et-levolution-progressive-de-laccount-abstraction.md)
     * [Comparatif entre les types de wallet](site-realt/option-realtoken-wallet-account-abstraction/comparatif-entre-les-types-de-wallet.md)
   * [Accès en 2FA à votre compte](site-realt/acces-en-2fa-a-votre-compte.md)

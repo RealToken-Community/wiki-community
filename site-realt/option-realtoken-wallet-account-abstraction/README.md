@@ -9,8 +9,8 @@ Depuis, les standards blockchain ont progressés et offrent maintenant ce niveau
 
 Pour étendre les possibilités offertes à ses clients, RealT a engagé une transition progressive vers ce standard :
 
-* depuis le 19 Juin 2024, les nouveaux utilisateurs peuvent opter pour cette solution (nommé "RealToken Wallet")
-* par la suite, les clients « Walletless » pourront migrer vers ce nouveau wallet,
+* depuis le 19 Juin 2024, les nouveaux utilisateurs peuvent opter pour cette solution (nommé "RealToken Wallet"),
+* par la suite, les clients « Walletless » pourront : créer un Realtoken Wallet (comme un nouvel utilisateur), puis transférer simplement leurs tokens du Walletless vers le Realtoken wallet,
 * et plus tard, cette solution sera aussi disponible pour les détenteurs de wallet classique.
 
 Cette transition sera aussi progressive, en terme de fonctionnalité :
@@ -23,4 +23,4 @@ Les prochains chapitres détaillent :
 
 * Comment créer ce nouveau "RealToken Wallet",
 * Un schéma synthétisant la transition fonctionnelle,
-* Un tableau comparatif des différents type de compte (« Private wallet », « Walleless », « Abstract Account »
+* Un tableau comparatif des différents wallet associés au compte Realt.co (« Private wallet », « Walleless », « Abstract Account »
