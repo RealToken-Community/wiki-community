@@ -26,7 +26,7 @@ A terme, vous aurez donc deux moyens de vous servir de votre _Realtoken Wallet_ 
 La clé privé du Realtoken Wallet est complètement masqué, seul le social login (voire son 2FA) est a connaitre. Si jamais vous le perdez, vous pourrez :&#x20;
 
 * Soit demander à Realt de restaurer le lien entre votre Realtoken Wallet et votre nouveau social login,
-* Soit changer vous même le social login associé à votre Realtoken Wallet, ce qui nécessitera l'approbation de plusieurs wallets, que vous aurez du préalablement substituer au wallets prévus à cet effet lors de la création et détenus par RealT.
+* Soit changer vous même le social login associé à votre Realtoken Wallet, ce qui nécessitera l'approbation de plusieurs wallets, que vous aurez du préalablement substituer aux wallets prévus à cet effet lors de la création et détenus par RealT.
 
 Ainsi, grâce aux possibilités de l'Abstract Account, malgré une perte des moyens de connexion à votre Realtoken wallet, vous ne perdez pas son contenu.
 
