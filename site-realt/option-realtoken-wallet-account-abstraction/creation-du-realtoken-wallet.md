@@ -10,14 +10,14 @@ Depuis le 19 Juin 2024, l’option _WalletLess_ est remplacée « _RealToken Wal
 * Soit la création d’un _RealToken Wallet_ (Abstract Account), auquel vous pourrez accéder avec vos identifiants existants : email ou réseaux sociaux,
 *   Soit l’usage d’un Wallet existant, en cliquant sur « _No Thanks..._ » en bas de l’écran.
 
-    <figure><img src="../../.gitbook/assets/image.png" alt="" width="549"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="549"><figcaption></figcaption></figure>
 
 En continuant, avec « _Get a Realtoken Wallet_ », un message complémentaire vous informe
 
 * qu’une authentification avec double facteur (2FA) est possible et optionnelle,
 *   que le changement de _RealToken Wallet_ vers _Private Wallet_ n’est actuellement pas disponible et que vous devez donc être sur de votre choix.
 
-    <figure><img src="../../.gitbook/assets/image (1).png" alt="" width="482"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
 
 Seul le « Social login » est disponible dans un premier temps (pas l’email).\
 Vous devez choisir l'un de vos comptes existants, qui sera utilisé pour accéder à votre _RealToken Wallet_. Ce peut être celui de : Google, Facebook, Discord ou Twitch.

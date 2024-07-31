@@ -12,24 +12,22 @@ En Avril 2023, le mode de présentation de l'application a été modifé, en coh
 
 Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
 
 ## Guide utilisateur
 
 Tuto, réalisé par un membre de la communauté : \
 
 
+{% file src="../../.gitbook/assets/Tuto RMM v4 31 Juillet.pdf" %}
 
-
-{% file src="../../.gitbook/assets/Tuto RMM v3 1 Mars.pdf" %}
-
-<figure><img src="../../.gitbook/assets/image (256).png" alt="" width="431"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Comment ça marche
 
-En complément du guide utilisateur, un document plus technique sur comment fonctionne la solution.
+En complément du guide utilisateur, un document (un peu) plus technique sur comment fonctionne la solution et comment agir directement sur les smart contrats.
 
-{% file src="../../.gitbook/assets/RMM CCM 11 Fev.pdf" %}
+{% file src="../../.gitbook/assets/RMM CCM v3 - 31 Juillet.pdf" %}
 
 ## Mesures de transition v2 > v3
 
@@ -50,3 +48,4 @@ Afin de faciliter la transition :&#x20;
   Le facteur de réserve de la v2 a été porté à 100% (donc plus aucun intérêt, n'est versé sur les dépôts de XDAI).\
   98 K ont été ajoutés par RealT sur la v2, afin de permettre à ceux qui ne pouvaient retirer leurs dépôts de XDAI par manque de liquidité, de pouvoir le faire.
 * Le 6 Juin : 142 nouvelles propriétés ont été ajoutées au RMM v3. Ce qui fait au total 432 sur plus de 520 propriétés, disponibles comme collatéral.&#x20;
+* 23 Juillet : 35 propriétés ont été ajoutées au RMM.

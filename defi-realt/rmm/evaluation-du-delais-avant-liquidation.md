@@ -12,7 +12,7 @@ La liste des Wallets proches de la liquidation, est accessible dans un des ongle
 
 ## Liquidations effectuées
 
-Liste des liquidations sur le RMM v2 : \
+Liste des liquidations sur le RMM  : \
 \
 [https://docs.google.com/spreadsheets/d/1K7UY-IYJ-Cs8-YF9oGgCUyBq84Cj7XEYc7mljOPXWK4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1K7UY-IYJ-Cs8-YF9oGgCUyBq84Cj7XEYc7mljOPXWK4/edit?usp=sharing)
 

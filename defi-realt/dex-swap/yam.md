@@ -20,8 +20,6 @@ Avec YAM , vous pouvez créer trois types d'offre : &#x20;
 * achat de  RealToken,
 * ou échange de RealToken ou autre actif.
 
-
-
 ## Guide Utilisateur
 
 Réalisé par un membre de la communauté :&#x20;
@@ -30,11 +28,9 @@ Réalisé par un membre de la communauté :&#x20;
 
 ## Comment ca marche
 
-En complément du Guide Utilisateur, un Tuto un peu plus technique pour comprendre comment ca marche et comment agir directement sur le smart contract correspondant.
+En complément du Guide Utilisateur, un Tuto un peu plus technique pour comprendre comment ca marche et comment agir directement sur le smart contrat correspondant.
 
-
-
-{% file src="../../.gitbook/assets/YAM Comment ça Marche.pdf" %}
+{% file src="../../.gitbook/assets/YAM CCM v3 31 Juillet.pdf" %}
 
 ## Code Open Source de YAM
 
