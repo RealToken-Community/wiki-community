@@ -12,7 +12,7 @@ Sur Ethereum, à cause des frais, un processus de Claim (réclamation) est en pl
 
 ## Claim pour la livraison des loyers sur Ethereum
 
-Sut Ethereum, les loyers sont versés en USDC. Les propriétaires doivent activer un Smart Contract pour retirer les USDC vers leur adresse. Les Loyers s'accumulent dans le "coffre-fort" jusqu'à ce que vous les retiriez.
+Sur Ethereum, les loyers sont versés en USDC. Les propriétaires doivent activer un Smart Contract pour retirer les USDC vers leur adresse. Les Loyers s'accumulent dans le "coffre-fort" jusqu'à ce que vous les retiriez.
 
 <figure><img src="../../.gitbook/assets/image (221).png" alt=""><figcaption></figcaption></figure>
 
