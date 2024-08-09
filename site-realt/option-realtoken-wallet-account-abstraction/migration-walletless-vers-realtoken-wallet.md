@@ -11,7 +11,7 @@ La migration est très simple : 2 minute pour initialiser le wallet et 2 à 3 jo
 
 Vous devez choisir l'un de vos comptes existants, qui sera utilisé pour accéder à votre _RealToken Wallet_. Ce peut être celui de : Google, Facebook, Discord ou Twitch.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="344"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="344"><figcaption></figcaption></figure>
 
 Vous avez la possibilité, d’ajouter une sécurité complémentaire au moyen d’un second facteur d’authentification (2FA). \
 Cette option peut ne pas être retenue dans un premier temps, en faisant "_Skip now_ » en bas de l’écran. \
@@ -21,7 +21,7 @@ Si vous continuez en initialisant le 2FA, le second social login devra être dif
 
 Une fois le 2FA traité, vous devrez initialiser le nouveau _RealToken Wallet_, qui sera doté à cette occasion de 0,1 XDAI pour payer les premiers frais de transactions.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 La démarche de création du _RealToken Wallet_ n'est à exécuter qu'une seule fois. \
 Lors des connexions suivantes sur le site Realt.co, la connexion au _RealToken wallet_ correspondant sera automatique (les informations d'authentification ayant été mémorisées par le site).
@@ -30,3 +30,6 @@ A l'issue de sa création, l'adresse du _Realtoken Wallet_ apparaitra sur le sit
 
 <figure><img src="../../.gitbook/assets/image (284).png" alt="" width="357"><figcaption></figcaption></figure>
 
+Pour les achats de RealToken (sur le marché primaire sur le site realt.co), apparaitra la possibilité de les payer avec les USDC présents sur votre RealToken Wallet :
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>

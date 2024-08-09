@@ -9,7 +9,7 @@ En avril 2024, RealT a publié la communication suivante :\
 
 Comme mentionné au point 2 de l'article, fin mai 2024 une nouvelle version de l'état annuel 2023 a été mis à disposition avec la répartition : Dividende et Retour sur Capital
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Groupes de discussion entre investisseurs&#x20;
 
