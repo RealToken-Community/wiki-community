@@ -1,3 +1,7 @@
+---
+description: Ce qu'il contient et comment s'en servir..
+---
+
 # Le RealToken Wallet première version
 
 Dans sa première version, le _RealToken Wallet n'_est accessible qu'au travers du site Realt.co. Vous accédez à son contenu à partir de la page Portfolio du site:&#x20;
@@ -13,19 +17,31 @@ Dans sa première version, le _RealToken Wallet n'_est accessible qu'au travers 
     <figure><img src="../../.gitbook/assets/image (290).png" alt="" width="563"><figcaption></figcaption></figure>
 * Partie "Asset" : Les Realtokens et REG contenus par votre _RealToken Wallet_
 
-### Achat de RealTokens sur le site Realt.co
+## Achat de RealTokens sur le site Realt.co
 
 Lors de l'achat de RealTokens, vous avez le choix de payer : en CB ou en crypto avec votre _RealToken Wallet_ (pour autant que vous ayez le montant nécessaire !). \
 Prochainement, il sera possible de charger votre wallet (On-ramp) à partir de votre compte bancaire.
 
 <figure><img src="../../.gitbook/assets/image (293).png" alt="" width="563"><figcaption></figcaption></figure>
 
-A l'issue de cette commande, vous recevrez dans votre messagerie (celle identifié sur le site Realt.co) un mail pour payer.\
-Et dans l'onglet "Order" du site realt.co, votre commande est dans le [statut](../acheter-des-realtokens/statut-de-vos-commandes.md) "Pending Invoice".
+A l'issue de cette commande, vous recevrez dans votre messagerie (celle identifiée sur le site Realt.co) un mail pour payer.\
+Dans l'onglet "Order" du site realt.co, votre commande est dans le [statut](../acheter-des-realtokens/statut-de-vos-commandes.md) "_Pending Invoice_".
 
 <figure><img src="../../.gitbook/assets/image (294).png" alt="" width="352"><figcaption></figcaption></figure>
 
-En cliquant sur rectangle bleu (après avoir ouvert l'accès à votre compte sur le site Realt.co), vous pourrez enchainer le process de paiement.\
+En cliquant sur rectangle bleu (après avoir ouvert l'accès à votre compte sur le site Realt.co), vous pourrez enchainer le process de paiement.
 
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
-&#x20;
+Si vous êtes connecté au site Realt.co avec un appareil (ou navigateur) différent de celui qui a fait l'initialisation du RealToken Wallet (et la mémorisation de l'accès) , il vous sera à nouveau demandé de vous connecter à nouveau : &#x20;
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
+Si non, vous accédez directement à l'écran de paiement :&#x20;
+
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+
+A l'issue du paiement, vous recevez un mail vous confirmant/remerciant de votre commande.\
+Dans l'onglet "Order" du site, le statut de votre commande est passé à "_Contracts Sent_".
+
+Vous n'avez plus qu'a [signer le contrat](../acheter-des-realtokens/signature-du-contrat-realt.md) et votre achat sera terminé.
