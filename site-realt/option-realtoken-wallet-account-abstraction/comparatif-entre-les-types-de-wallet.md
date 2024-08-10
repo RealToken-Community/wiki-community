@@ -1,6 +1,8 @@
 # Comparatif entre les types de wallet
 
-<figure><img src="../../.gitbook/assets/image (287).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1n3m8FFkNKh8T7dEsCIEUl3rKH7DEl995Us89rkQxsvA/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1n3m8FFkNKh8T7dEsCIEUl3rKH7DEl995Us89rkQxsvA/edit?usp=sharing</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (291).png" alt=""><figcaption><p><a href="https://docs.google.com/spreadsheets/d/1n3m8FFkNKh8T7dEsCIEUl3rKH7DEl995Us89rkQxsvA/edit?usp=sharing">https://docs.google.com/spreadsheets/d/1n3m8FFkNKh8T7dEsCIEUl3rKH7DEl995Us89rkQxsvA/edit?usp=sharing</a></p></figcaption></figure>
 
-Nota : Depuis le 19/6/24 le _RealToken Wallet_ est proposé en remplacement du _Walletless_, lors de l'inscription sur le site Realt.co.\
-Les utilisateur "_Walletless_" pourront par la suite évoluer vers _Realtoken Wallet_.
+Nota : Le _RealToken Wallet_ est disponible :&#x20;
+
+* depuis le 19/6/2024,  lors de la création d'un compte sur le site Realt.co,
+* et depuis fin Juillet 2024, pour les utilisateur en mode _Walletless_ qui souhaitent migrer.

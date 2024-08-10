@@ -10,14 +10,14 @@ Depuis le 19 Juin 2024, l’option _WalletLess_ est remplacée « _RealToken Wal
 * Soit la création d’un _RealToken Wallet_ (Abstract Account), auquel vous pourrez accéder avec vos identifiants existants : gmail ou réseaux sociaux,
 *   Soit l’usage d’un Wallet existant, en cliquant sur « _No Thanks..._ » en bas de l’écran.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="549"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="549"><figcaption></figcaption></figure>
 
 En continuant, avec « _Get a Realtoken Wallet_ », un message complémentaire vous informe
 
 * qu’une authentification avec double facteur (2FA) est possible et optionnelle,
 *   que le changement de _RealToken Wallet_ vers _Private Wallet_ n’est actuellement pas disponible et que vous devez donc être sur de votre choix.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
 
 Vous devez choisir l'un de vos comptes existants, qui sera utilisé pour accéder à votre _RealToken Wallet_. Ce peut être celui de : Google, Facebook, Discord ou Twitch.
 
@@ -25,7 +25,7 @@ Vous devez choisir l'un de vos comptes existants, qui sera utilisé pour accéde
 
 Vous avez la possibilité, d’ajouter une sécurité complémentaire au moyen d’un second facteur d’authentification (2FA). \
 Cette option peut ne pas être retenue dans un premier temps, en faisant "_Skip now_ » en bas de l’écran. \
-Si vous continuez en initialisant le 2FA, le second social login devra être différent du premier.
+Si vous continuez en initialisant le 2FA, un second social login sera demandé qui doit être différent du premier.
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 

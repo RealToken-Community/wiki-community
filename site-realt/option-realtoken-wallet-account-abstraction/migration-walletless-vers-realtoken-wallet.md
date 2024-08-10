@@ -4,8 +4,7 @@ Les clients de RealT ayant choisi l'option d'un compte _Walletless_, voient main
 
 <figure><img src="../../.gitbook/assets/image (281).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Avec le _RealToken Wallet_, vous disposerez de fonctionnalités supplémentaires.\
-La migration est très simple : 2 minute pour initialiser le wallet et 2 à 3 jours pour que les RealTokens et Stablecoins, présents sur le Walletless, soient migrés sur le _Realtoken wallet_.
+Avec le _RealToken Wallet_, vous disposerez de fonctionnalités supplémentaires. La migration est très simple : 2 minutes l'initialiser et quelques jours pour transférer son contenu.
 
 <figure><img src="../../.gitbook/assets/image (283).png" alt="" width="549"><figcaption></figcaption></figure>
 
@@ -15,7 +14,7 @@ Vous devez choisir l'un de vos comptes existants, qui sera utilisé pour accéde
 
 Vous avez la possibilité, d’ajouter une sécurité complémentaire au moyen d’un second facteur d’authentification (2FA). \
 Cette option peut ne pas être retenue dans un premier temps, en faisant "_Skip now_ » en bas de l’écran. \
-Si vous continuez en initialisant le 2FA, le second social login devra être différent du premier.
+Si vous continuez en initialisant le 2FA, un second social login sera demandé qui doit être différent du premier.
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,10 +25,6 @@ Une fois le 2FA traité, vous devrez initialiser le nouveau _RealToken Wallet_, 
 La démarche de création du _RealToken Wallet_ n'est à exécuter qu'une seule fois. \
 Lors des connexions suivantes sur le site Realt.co, la connexion au _RealToken wallet_ correspondant sera automatique (les informations d'authentification ayant été mémorisées par le site).
 
-A l'issue de sa création, l'adresse du _Realtoken Wallet_ apparaitra sur le site Realt.co. Les RealTokens achetés (en vente primaire) ainsi que les loyers seront transmis sur cette adresse.
+Après l'initialisation du _RealToken Wallet_, le contenu du Walletless (Realtokens et loyer en USDC) y sera transféré (opération manuelle qui peut prendre quelques jours..)&#x20;
 
-<figure><img src="../../.gitbook/assets/image (284).png" alt="" width="357"><figcaption></figcaption></figure>
-
-Pour les achats de RealToken (sur le marché primaire sur le site realt.co), apparaitra la possibilité de les payer avec les USDC présents sur votre RealToken Wallet :
-
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="299"><figcaption></figcaption></figure>
