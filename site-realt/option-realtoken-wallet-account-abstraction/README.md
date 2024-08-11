@@ -19,6 +19,11 @@ Cette transition sera aussi progressive, en terme de fonctionnalité :
 * Dans un premier temps, au travers du site Web [Realt.co](https://realt.co/), puis progressivement directement sur les applications elles mêmes (au fur et à mesure qu’elles supporteront ce standard),
 * dans une troisième étape, une application spécifique sera développée afin d’utiliser le _Realtoken Wallet_ sur toutes les autres applications qui n’auraient pas mis en place ce standard (via la solution WalletConnect 2, déjà utilisée sur mobile).
 
+{% hint style="danger" %}
+Le Realtoken Wallet n'est actuellement disponible que sur la blockchain Gnosis. \
+Ne faite donc aucun envoie de fond à cette adresse sur d'autres chaines, **sous peine qu'ils soient inaccessibles voir perdus.**
+{% endhint %}
+
 Les prochains chapitres détaillent :
 
 * Comment créer ce nouveau "_RealToken Wallet_" lors de l'ouverture d'un compte RealT,
