@@ -21,7 +21,7 @@ Cette transition sera aussi progressive, en terme de fonctionnalité :
 
 {% hint style="danger" %}
 Le Realtoken Wallet n'est actuellement disponible que sur la blockchain Gnosis. \
-Ne faite donc aucun envoie de fond à cette adresse sur d'autres chaines, **sous peine qu'ils soient inaccessibles voir perdus.**
+Ne faite donc aucun envoi de fond à cette adresse sur d'autres chaines, **sous peine qu'ils soient inaccessibles voir perdus.**
 {% endhint %}
 
 Les prochains chapitres détaillent :
