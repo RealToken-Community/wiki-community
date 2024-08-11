@@ -19,13 +19,13 @@ En continuant, avec « _Get a Realtoken Wallet_ », un message complémentaire v
 
     <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
 
-Vous devez choisir l'un de vos comptes existants, qui sera utilisé pour accéder à votre _RealToken Wallet_. Ce peut être celui de : Google, Facebook, Discord ou Twitch.
+Ensuite, vous devrez choisir l'un de vos comptes existants, qui sera utilisé pour accéder à votre _RealToken Wallet_. Ce peut être celui de : Google, Facebook, Discord ou Twitch.
 
 <figure><img src="../../.gitbook/assets/image (4).png" alt="" width="318"><figcaption></figcaption></figure>
 
-Vous avez la possibilité, d’ajouter une sécurité complémentaire au moyen d’un second facteur d’authentification (2FA). \
+Vous avez la possibilité, d’ajouter une sécurité d'accès complémentaire au moyen d’un second facteur d’authentification (2FA). \
 Cette option peut ne pas être retenue dans un premier temps, en faisant "_Skip now_ » en bas de l’écran. \
-Si vous continuez en initialisant le 2FA, un second social login sera demandé qui doit être différent du premier.
+Si vous continuez en initialisant le 2FA, un second social login sera demandé (qui doit être différent du premier).
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -36,6 +36,6 @@ Une fois le 2FA traité, vous devrez initialiser le nouveau _RealToken Wallet_, 
 La démarche de création du _RealToken Wallet_ n'est à exécuter qu'une seule fois. \
 Lors des connexions suivantes sur le site Realt.co, la connexion au _RealToken wallet_ correspondant sera automatique (les informations d'authentification ayant été mémorisées par le site).
 
-Après la création du _Realtoken Wallet,_ il ne vous reste plus qu'a acheter votre premier token (ce qui est détaillé dans le chapitre qui suit).
+Après la création du _Realtoken Wallet,_ il ne vous reste plus qu'a acheter vos premiers RealTokens (ce qui est détaillé dans ce [chapitre](usage-du-realtoken-wallet.md)).
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
