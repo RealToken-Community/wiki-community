@@ -9,7 +9,7 @@ Dans sa première version, le _RealToken Wallet n'_est accessible qu'au travers 
 Vous accédez à son contenu à partir de la page Portfolio du site :&#x20;
 
 *   Section "Wallets" : \
-    Vous y trouverez  : Un rappel du gmail ou social login (choisi lors de l'initialisation) ainsi que l'adresse de votre _RealToken Wallet (0x...)_ qui recevra les RealTokens (que vous achèterez sur le site Realt.co) ainsi que les loyers (des RealTokens possédés ...à partir de la semaine qui suit la _rent date_),
+    Vous y trouverez  : Un rappel du gmail ou social login (choisi lors de l'initialisation) ainsi que l'adresse de votre _RealToken Wallet (0x...)_ qui recevra les RealTokens (que vous achèterez sur le site Realt.co) ainsi que les loyers (des RealTokens possédés ...à partir de la semaine qui suit la _Start date_),
 
     <figure><img src="../../.gitbook/assets/image (289).png" alt="" width="563"><figcaption></figcaption></figure>
 *   Section "Rent" : \
