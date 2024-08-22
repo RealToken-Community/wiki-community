@@ -1,7 +1,10 @@
 # Brige, fonctions de base
 
-Transférer vos RealTokens d'une chaine à une autre, avec ce Bridge, est assez simple.\
-Mode opératoire :
+Transférer vos RealTokens d'une chaine à une autre, avec ce Bridge, est assez simple.
+
+Document publié par RealT, lors de la mise en production : [https://rebrandly.realt.co/bia](https://rebrandly.realt.co/bia)
+
+Mode opératoire (élaboré lors des tests) :&#x20;
 
 {% hint style="info" %}
 Si l'adresse cible n'est pas identique à l'adresse source, vous devez demander au préalable son whitelisting.
@@ -9,11 +12,11 @@ Si l'adresse cible n'est pas identique à l'adresse source, vous devez demander 
 
 1.  Se connecter avec son wallet, en étant sur la chaine source (Ethereum, par ex),
 
-    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="211"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="211"><figcaption></figcaption></figure>
 2.  Sélectionner la propriété de votre wallet que vous souhaitez transférer :\
-    (vous pouvez en sélectionner plusieurs, en cochant la case en tête de liste)
+    (vous pouvez en sélectionner plusieurs, dans la limite de 6, en cochant les cases en tête de liste)
 
-    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="168"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="168"><figcaption></figcaption></figure>
 3.  Indiquer la quantité des RealTokens sélectionnés, à transférer :
 
     <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1).png" alt="" width="290"><figcaption></figcaption></figure>
