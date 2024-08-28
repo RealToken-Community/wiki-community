@@ -39,15 +39,15 @@ A l'issue de cette commande, vous recevrez dans votre messagerie (celle identifi
 
 En cliquant sur rectangle bleu (après avoir ouvert l'accès à votre compte sur le site Realt.co), vous pourrez enchainer le process de paiement.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Si vous êtes connecté au site Realt.co avec un appareil (ou navigateur) différent de celui qui a fait l'initialisation du _RealToken Wallet_ (et sa mémorisation) , il vous sera demandé de vous connecter à nouveau : &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si non, vous accédez directement à l'écran de paiement :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A l'issue du paiement, vous recevez un mail vous confirmant/remerciant de votre commande.\
 &#x20;         Dans l'onglet "Order" du site, le statut de votre commande est passé à "_Contracts Sent_".

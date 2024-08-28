@@ -22,11 +22,11 @@ Ici la technologie utilisée est [CCIP de Chainlink](https://docs.chain.link/cci
 
 Après signature avec le wallet, un message apparait en haut à gauche vous indiquant que le bridge est en cours d'exécution et comment voir son avancement.
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" width="292"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt="" width="292"><figcaption></figcaption></figure>
 
 En cliquant sur "Voir le status ici", vous êtes transféré sur Chainlink et pouvez voir l'avancement du statut (jusqu'à "Success") :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nota : l'adresse du REG est identique sur les trois blockchain : \
 &#x20;                                                         0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce
