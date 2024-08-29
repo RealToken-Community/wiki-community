@@ -39,7 +39,7 @@ Pour l’obtenir, vous devez remplir le formulaire suivant :[https://docs.google
 
 * Email et Username : servent à vous joindre, si nécessaire par mail ou Telegram,
 * Ethereum Address : servira pour accéder à l’Application en mode Web3 (fonction prochainement disponible),
-* Application name :&#x20;
+* Application name : juste pour information (et détecter d'éventuels doublons)
 * Referer / Source IP : Information optionnelle pour sécuriser l’usage de l’API-Key. Si cette dernière etait visible dans votre application.
 
 ## Seuils et DAO
