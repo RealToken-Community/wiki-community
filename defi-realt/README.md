@@ -1,8 +1,8 @@
 ---
-description: l'écosystème de la Finance Décentralisé autour de RealT
+description: l'écosystème de la Finance Décentralisée autour de RealT
 ---
 
-# 🍬 Defi RealT
+# 🍬 Defi RealToken
 
 Les applications détaillées dans ce chapitre, complètent le site web de RealT (objet du chapitre précédent) et sont généralement en mode WEB3. \
 Dans ce mode, on s'identifie à l'application avec son propre wallet (elles ne sont donc pas accessibles, aux comptes RealT [Walletless](../site-realt/walletless.md)).

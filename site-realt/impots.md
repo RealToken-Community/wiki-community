@@ -4,10 +4,10 @@ Il faut savoir que RealT n'a pas vocation à donner des conseils fiscaux (ils n'
 
 ## Taxes sur les investissements RealT
 
-En avril 2024, RealT a publié la communication suivante :\
-[https://faq.realt.co/en/articles/8811265-taxes-on-your-realt-investments](https://faq.realt.co/en/articles/8811265-taxes-on-your-realt-investments)
+En avril 2024 (et complété depuis), RealT a publié la communication suivante :\
+[https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/](https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/)
 
-Comme mentionné au point 2 de l'article, fin mai 2024 une nouvelle version de l'état annuel 2023 a été mis à disposition avec la répartition : Dividende et Retour sur Capital
+Comme mentionné dasn l'article, fin mai 2024 une nouvelle version de l'état annuel 2023 a été mis à disposition avec la répartition : Dividende et Retour sur Capital
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 

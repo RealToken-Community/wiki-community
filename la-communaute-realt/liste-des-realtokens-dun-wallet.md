@@ -18,8 +18,6 @@ particulièrement adaptés aux spécificités des RealToken
 
 *   Site Web : (version depuis Juillet 2023) [https://dashboard.realt.community/](https://dashboard.realt.community/)
 
-
-
     <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
     Nota : Le dashboard ne tient pas compte de la date de début de paiement des loyers.\
@@ -32,15 +30,12 @@ particulièrement adaptés aux spécificités des RealToken
   \- le nombre que vous possédez de cette propriété (colonne D),\
   \- le prix d'achat de cette propriété (colonne F).\
   \- vous effacer ou copier des lignes, pour ajuster au nombre de propriété possédé.\
-  Ce tableur se mettra à jour automatiquement avec les données de RealT (et d'Alpha Omega pour la colonne N) et restera privé (puisque sur votre google drive).\
+  Ce tableur se mettra à jour automatiquement et restera privé (puisque sur votre google drive).\
 
 *   Site [Ehpst](https://ehpst.duckdns.org/realt\_rent\_tracker/whitelist\_status) : avec possibilité de lister les propriétés sur lesquelles vous êtes Whitelisté.
 
     <figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
-
-
-
-*   Site [CrypT'Alloc](https://www.cryptalloc.com/realtlab/) avec l'onglet "My Collection" \
+*   Site [CrypT'Alloc](https://www.cryptalloc.com/realtlab/) avec l'onglet "My Collection"\
     (en ayant mis l'adresse de son wallet dans settings au préalable)
 
     <figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
