@@ -10,7 +10,7 @@ En complément de son [site web](https://realt.co/),  RealT met à disposition d
 
 * leurs articles sur [Medium](https://medium.com/@realtplatform),
 * leur [Blog](https://realt.co/blog/),
-* la [base de connaissance](https://intercom.help/realt/en/) du support RealT,
+* la [base de connaissance](https://faq.realt.co/en/) du support RealT,
 * les [Community Call](https://www.youtube.com/@RealTplatform/streams) hebdomadaires (alternés Anglais, Français),\
   Un membre de la communauté fait des synthèses de ces calls sur [Telegram](https://t.me/RtCCR).
 * de nombreuses interventions des Fondateurs pour présenter le projet, la Société, .. [exemple de podcast](https://smartlinks.audiomeans.fr/l/chercheurs-de-valeur-9e55f2b3/limmobilier-tokenise-bientot-la-norme-entretien-avec-jean-marc-jacobson-ef0c8a09)
