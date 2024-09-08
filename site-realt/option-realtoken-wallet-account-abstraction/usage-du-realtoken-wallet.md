@@ -43,7 +43,7 @@ En cliquant sur rectangle bleu (après avoir ouvert l'accès à votre compte sur
 
 Si vous êtes connecté au site Realt.co avec un appareil (ou navigateur) différent de celui qui a fait l'initialisation du _RealToken Wallet_ (et sa mémorisation) , il vous sera demandé de vous connecter à nouveau : &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si non, vous accédez directement à l'écran de paiement :&#x20;
 
