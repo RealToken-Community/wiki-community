@@ -6,9 +6,9 @@ description: Synthèse des principaux liens...
 
 {% tabs %}
 {% tab title="RealT" %}
-* [Site Web](https://realt.co/), [RMM,](https://rmm.realtoken.network/markets) [YAM](https://yam.realtoken.network/), [Vote](https://vote.realtoken.network/), Bridge
+* [Site Web](https://realt.co/), [RMM,](https://rmm.realtoken.network/markets) [YAM](https://yam.realtoken.network/), [Vote](https://vote.realtoken.network/), [Bridge](https://bridge.realtoken.network/), [Realtoken Wallet](https://wallet.realtoken.network/),
 * Community Call sur [Youtube](https://www.youtube.com/@RealTplatform/streams), sur [Twitch](https://www.twitch.tv/realtofficial),
-* [Wiki](https://wiki.realt.co/),
+* [FAQ (En)](https://faq.realt.co/en/),
 * Telegram de [bienvenue](https://t.me/Realtoken\_welcome) et [d'annonces,](https://t.me/Communication\_RealT\_FR)
 * [Twitter](https://twitter.com/RealTPlatform), [Linkedin](https://www.linkedin.com/company/realtplatform/), [Discord](https://discord.gg/aPSWyGxMUk), [Objets publicitaires](https://merch.realt.co/),
 * [Request Finance](https://app.request.finance/login), [HelloSign](https://app.hellosign.com/account/logIn)
@@ -47,8 +47,10 @@ description: Synthèse des principaux liens...
 * Site Web [crypT'Alloc](https://www.cryptalloc.com/realtlab/),
 * Site Web [E](https://ehpst.duckdns.org/realt\_rent\_tracker/)[hpst](https://ehpst.duckdns.org/realt\_rent\_tracker/)
 * Site Web [Pit'Swap](https://realt.pitswap.site/), [Pit's BI](https://realt.pitsbi.io/stats)
+* Bot Telegram : [Realt OTC](https://t.me/RealTokenOTC)
 * Site Web [Jeremy](https://yam.jycssu.fr/#/),
-* Site de [Seb](https://realt1234.chickenkiller.com/),
+* Site Web [Seb](https://realt1234.chickenkiller.com/),
+* Site d'Alexis : [RealT Yam Offers](https://t.me/realtyamoffers), [YamByOfferID](https://yambyofferid.netlify.app/)
 * [Dune](https://dune.com/k06a/RealToken),
 {% endtab %}
 {% endtabs %}
