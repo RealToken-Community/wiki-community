@@ -9,7 +9,7 @@ Hors, pour simplifier le parcours utilisateur, certaines applications proposent 
 Prenons comme exemple un dépôt de WXDAI sur le RMM : l’approbation MetaMask qui apparaît maintenant est la suivante, avec un chiffre très élévé (en rouge) pour le plafond :\
 (Ce comportement est identique avec d'autres applications, comme 1inch par exemple)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="361"><figcaption><p>Exemple de plafond "illimité" par défaut</p></figcaption></figure>
 
 Vous avez alors trois options :&#x20;
 
@@ -21,7 +21,7 @@ Vous avez alors trois options :&#x20;
     Vous pouvez vérifier votre approbation en allant sur [Revoke.cash](https://revoke.cash/), \
     (et éventuellement la revoquer, ce qui vous coutera des frais de transaction, que vous auriez pu éviter avec l'option 3)
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Autorisation du wallet via Revoke.cash</p></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Autorisation du wallet via Revoke.cash</p></figcaption></figure>
 2.  **Cliquer sur « Max »**,
 
     Votre approbation sera alors limitée au montant dont vous disposez sur votre wallet.\
@@ -39,7 +39,7 @@ Référence sur le site [MetaMask](https://support.metamask.io/hc/en-us/articles
 
 Un nouveau mode d'approbation (EIP-2612 ou Permit) se déploie progressivement : il est déjà utilisé sur le YAM et le sera sur RMM v3.&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="291"><figcaption></figcaption></figure>
 
 L'approbation est remplacée par une signature qui ne nécessite pas de transaction (donc pas de frais !)
 
