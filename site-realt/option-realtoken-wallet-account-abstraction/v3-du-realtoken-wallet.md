@@ -1,5 +1,13 @@
 # V3 du "RealToken Wallet"
 
+Lancement officiel décalé, merci de patienter quelques jours.
+
+<figure><img src="../../.gitbook/assets/image (301).png" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
 Realt utilise des bibliothèques de tiers, pour mettre en place la solution d'Abstract Account. Ces bibliothèques sont sujettes à évolutions, ce qui conduit RealT à mettre à jour le _RealToken Wallet._\
 Début Septembre 2024, la version 3 a été mis à disposition, ainsi qu'une [application pour transférer](application-de-transfert-a-partir-du-realtoken-wallet.md) les tokens de l'ancien _RealToken Wallet_ vers le nouveau.
 
