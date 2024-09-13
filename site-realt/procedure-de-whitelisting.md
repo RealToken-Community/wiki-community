@@ -4,7 +4,7 @@ description: Préalable à l'achat, sur le marché secondaire, d'un RealToken
 
 # Procédure de Whitelisting
 
-Lors d'un achat de RealTokens sur le [marché secondaire](acheter-des-realtokens/), vous ne signez aucun contrat : tout se fait sur la blockchain. Il faut donc au préalable que vous (votre wallet) signiez le contrat RealT pour le RealToken que vous souhaitez acquérir, d'où cette procédure de "whitelisting". La transaction sur la blockchain ne faisant par la suite qu'enregistrer quel wallet détient quel RealToken.
+Lors d'un achat de RealTokens sur le [marché secondaire](acheter-des-realtokens/), vous ne signez aucun contrat : tout se fait sur la blockchain. Il faut donc au préalable que vous (votre wallet) signiez le contrat RealT pour le RealToken que vous souhaitez acquérir, d'où cette procédure de "whitelisting". La transaction sur la blockchain ne faisant par la suite, pour enregistrer quel wallet détient quel RealToken.
 
 La démarche se fait sur le site de [RealT](https://realt.co/) (et est disponible seulement après un premier achat).
 
