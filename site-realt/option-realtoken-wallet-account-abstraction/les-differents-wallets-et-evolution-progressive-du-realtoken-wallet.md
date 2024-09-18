@@ -1,6 +1,6 @@
-# Les différents wallets et l'évolution progressive du RealToken Wallet
+# Les différents wallets et évolution progressive du "RealToken Wallet"
 
-<figure><img src="../../.gitbook/assets/image (275).png" alt=""><figcaption><p><a href="https://drive.google.com/file/d/1y0P_e2qKy7Rnll8P3psmwT0DBPAd3CcR/view?usp=sharing">https://drive.google.com/file/d/1y0P_e2qKy7Rnll8P3psmwT0DBPAd3CcR/view?usp=sharing</a></p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (303).png" alt=""><figcaption><p><a href="https://drive.google.com/file/d/1y0P_e2qKy7Rnll8P3psmwT0DBPAd3CcR/view?usp=sharing">https://drive.google.com/file/d/1y0P_e2qKy7Rnll8P3psmwT0DBPAd3CcR/view?usp=sharing</a></p></figcaption></figure>
 
 A partir de la gauche du schéma ci-dessus : Le site web [Realt.co](https://realt.co/) est une application Web2 qui s’accède de façon classique avec un identifiant et un mot de passe (auquel, en option, vous pouvez ajouter une sécurité d'accès supplémentaire avec un second code : fonction 2FA).\
 Pour autant, les RealTokens que vous achetez et les loyers que vous percevez ne sont pas détenus par RealT (ou sur l’application Realt.co), mais sont stockés sur un wallet (même dans le cas de l’option « _WalletLess_ » !).
@@ -10,13 +10,10 @@ C’est par exemple le cas des deux DApp : YAM (pour acheter et vendre des Realt
 
 La fonction Walletless, ne permet pas d'accéder aux DApp, ce que le nouveau _Realtoken wallet_ (basé sur le standart d'Account Abstraction) permettra progressivement :&#x20;
 
-* Etape 1 : Tout se fait à partir du site [Realt.co](https://realt.co/).&#x20;
-  * La création du _Realtoken Wallet_ (AA), sans vous soucier de sa clé privée, qui sera répartie sur plusieurs adresses et sécurisée par RealT (ou par la suite, par l'utilisateur lui même si il le souhaite),
-  * et par la suite,  accès aux DApp YAM et RMM (uniquement pour le dépôt).
-* Etape 2 : Les DApp de l'écosystème (YAM,..) seront progressivement mis à niveau pour accepter le standard AA. Il sera alors possible pour le _RealToken Wallet_ de ne plus passer par le site [Realt.co](https://realt.co/) et d'accéder à des fonctions supplémentaires (tel que l'emprunt RMM par ex.)
-* Etape 3 : Une application spécifique pour le _Realtoken Wallet_  sera développée pour :&#x20;
-  * accéder aux DApp qui ne supporteraient pas le standard AA, et cela au travers de la solution WalletConnect 2 (comme cela se fait actuellement sur mobile),
-  * accéder aux fonctions programmables, qui seront mis en place dans la partie Smart Contract de l'Abstract Account.
+* Etape 1 : Tout se fait à partir du site [Realt.co](https://realt.co/). \
+  La création du _Realtoken Wallet_ (AA), avec une authentification par Gmail ou un Social Login (compte existants : Facebook, Discord ou  Twitchh) sans vous soucier de sa clé privée, sera répartie sur plusieurs adresses et sécurisée par RealT (ou par la suite, par l'utilisateur lui même si il le souhaite),
+* Etape 2 : Une application spécifique pour le _Realtoken Wallet_  sera développée pour accéder aux DApp qui ne supporteraient pas le standard AA, et cela au travers de la solution WalletConnect 2 (comme cela se fait actuellement sur mobile),
+* Etape 3 : Les DApp de l'écosystème (YAM,..) seront progressivement mis à niveau pour accepter le standard AA. Il sera alors possible pour le _RealToken Wallet_ de ne plus passer par le site [Realt.co](https://realt.co/) et d'accéder à des fonctions supplémentaires (tel que l'emprunt RMM par ex.)
 
 A terme, vous aurez donc deux moyens de vous servir de votre _Realtoken Wallet_ :&#x20;
 
@@ -29,8 +26,4 @@ La clé privée associé au _Realtoken Wallet_ est complètement masquée, seul 
 * Soit changer vous même le social login associé à votre _Realtoken Wallet_, ce qui nécessitera l'approbation de plusieurs wallets (guardian), que vous aurez du préalablement substitués aux wallets définis par défaut à la création et détenus par RealT.
 
 Ainsi, grâce aux possibilités de l'Abstract Account, malgré une perte des moyens de connexion à votre _Realtoken wallet_, vous ne perdez pas son contenu.
-
-
-
-Nota : De nouvelles versions du standard Account Abstraction sont en cours d'étude et nécessiteront très certainement des migrations durant toute cette évolution.
 
