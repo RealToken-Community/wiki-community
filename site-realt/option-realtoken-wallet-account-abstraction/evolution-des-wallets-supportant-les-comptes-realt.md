@@ -4,9 +4,9 @@
 
 Quelques explications, concernant ce schéma qui peut paraitre compliqué ..;-)
 
-Tout d'abord, la partie haute concerne les applications de type Web2, celles que vous connaissez de façon classique et auxquelles on se connecte avec un identifiant et un mot de passe. Celle qui figure ici est celle du site  [Realt.co](https://realt.co/)
+Tout d'abord, la partie haute concerne les applications de type Web2, celles que vous connaissez de façon classique et auxquelles on se connecte avec un identifiant et un mot de passe. Celle qui figure ici est celle du site  [Realt.co](https://realt.co/).
 
-Sur la partie basse du schéma, ce sont les application de type Web3 (ou DApp), celles qui sont apparues avec l'avènement des Blockchains et auxquelles on se connecte avec un wallet.
+Sur la partie basse du schéma, ce sont les applications de type Web3 (ou DApp), celles qui sont apparues avec l'avènement des Blockchains et auxquelles on se connecte avec un wallet.
 
 Un compte RealT (sur le site Relat.co), dispose obligatoirement d'un wallet pour stocker vos RealTokens et vos loyers (même quand vous étiez avec un compte _Walletless_ !)
 
@@ -17,7 +17,7 @@ Regardons maintenant ce schéma de la gauche vers la droite :&#x20;
   La contre partie de cette simplification, c'est que le holder ne peut se connecter aux DApp (puisqu'il ne possède ni l'adresse du Safe wallet, ni les clés d'accès).
 * En juin 2024 est apparu le _RealToken Wallet (_basé sur le standard d'A_ccount Abstraction, AA)._\
   Dans cette première étape_,_ les fonctions sont assez semblables au _Walletless_ : Création et gestion par RealT, accès uniquement par le site Realt.co, non accès aux DApp (en écriture)..\
-  A la différence du _Walletless,_ l'utilisateur dispose de l'adresse de son _RealToken wallet_ et du moyen d'y accéder (accès via un S_ocial Login_, cad l'utilisation d'un compte existant sur les réseaux sociaux : gmail, facebook, discord ou twitch). Cela permet quelques premières nouveautés par rapport au _Walletless :_ Réception de token (uniquement sur Gnosis), whitelist du wallet sur des propriété, accès en lecture aux DApp,..\
+  A la différence du _Walletless,_ l'utilisateur dispose de l'adresse de son _RealToken wallet_ et du moyen d'y accéder (accès via un S_ocial Login_, cad l'utilisation d'un compte existant sur les réseaux sociaux : gmail, facebook, discord ou twitch). Cela permet quelques premières nouveautés par rapport au _Walletless :_ Réception de token (uniquement sur Gnosis), whitelist du wallet sur des propriétés, accès en lecture aux DApp,..\
   A la différence du _Private Wallet,_ si vous perdez votre moyen d'accès au _RealToken wallet,_ vous ne perdez pas les fonds qui y résident. ReaT (voir vous à l'avenir) serez capable de réinitialiser votre Social Login.
 * En Septembre 2024 est apparu la DApp "_RealToken Wallet_". Il s'agit de la première DApp à laquelle vous pouvez vous connecter avec votre _Realtoken wallet_ (et votre Social Login). Développée par RealT, elle permet dans sa premières version de faire des transferts de tokens et la connexion à d'autre DApp (qui ne supporte pas le standard AA) au moyen du service WalletConnect 2 (service déjà utilisé lorsqu'on se connecte avec un mobile).\
   Ainsi vous pouvez, avec ce DApp wallet, vous connecter en mode écriture aux DApp YAM, RMM et faire des transactions !...
@@ -28,5 +28,5 @@ Le _RealToken Wallet_ présente l'avantage par rapport au _Private Wallet_ (wall
 
 [Un tableau synthétise et compare](comparatif-entre-les-types-de-wallet.md), les fonctions disponibles pour chacun des wallets. \
 \
-Le standard d'Account Abstraction est la base de nombreuses évolutions, ce qui explique la nécessité de mises à jour régulières de la solution utilisée par RealT : [V3 du _Realtoken Wallet_ ](v3-du-realtoken-wallet.md)
+Le standard d'Account Abstraction est la base de nombreuses évolutions, ce qui explique la nécessité de mises à jour régulières de la solution utilisée par RealT : [V3 du _RealToken Wallet_ ](v3-du-realtoken-wallet.md)
 

@@ -13,7 +13,7 @@ Début Septembre 2024, la version 3 a été mis à disposition, ainsi qu'une [ap
 
 ## Evolution  de l'ancien _RealToken Wallet_ (V1, v2) vers la V3
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>messages lors de la migration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>messages lors de la migration</p></figcaption></figure>
 
 A l'issue de la migration, vous avez une nouvelle adresse de _RealToken Wallet_ (la façon de s'y connecter restant inchangée)&#x20;
 

@@ -45,7 +45,7 @@ En cliquant sur rectangle bleu du mail (et après avoir ouvert l'accès à votre
 
 Pour autoriser la transaction, il vous sera demandé de vous connecter à votre _RealToken Wallet_ (avec à nouveau une proposition de sécurisation via 2FA, si ce n'a pas déjà été fait) ;  &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Une fois connecté à votre _RealToken Wallet_, vous pourrez ordonner le paiement :&#x20;
 
@@ -73,4 +73,4 @@ Les DApp (applications qui s'accèdent avec un wallet) peuvent généralement ê
 Puisque vous disposez de l'adresse de votre _RealToken Wallet,_ vous pouvez donc accéder aux DApp en mode lecture. Pour YAM et RMM l'intérêt est limité, puisque vous ne pouvez faire de transactions, par contre vous pourriez voir vos RealTokens sur le [Dashboard Communautaire](https://dashboard.realt.community/) : \
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="323"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="323"><figcaption></figcaption></figure>
