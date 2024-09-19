@@ -10,10 +10,12 @@ Dans sa première version, le _RealToken Wallet n'_est accessible qu'au travers 
 \
 Vous accédez à son contenu, à partir de la page Portfolio du site :&#x20;
 
-*   Section "Wallets" : \
-    Vous y trouverez  : Un rappel du gmail ou social login (choisi lors de l'initialisation) ainsi que l'adresse de votre _RealToken Wallet (0x...)_ qui recevra les RealTokens (que vous achèterez sur le site Realt.co) ainsi que les loyers (des RealTokens possédés ...à partir de la semaine qui suit la _Start date_),
+* Section "Wallets", avec :
+  * votre identifiant : gmail ou social login (choisi lors de l'initialisation),
+  *   ainsi que l'adresse de votre _RealToken Wallet 0x..._ \
+      _(_information à laquelle vous n'accédiez pas avec un compte _Walletless)_
 
-    <figure><img src="../../.gitbook/assets/image (289).png" alt="" width="563"><figcaption></figcaption></figure>
+      <figure><img src="../../.gitbook/assets/image (289).png" alt="" width="563"><figcaption></figcaption></figure>
 *   Section "Rent" : \
     Vous voyez, sur la droite, le montant d'USDC disponible sur votre _RealToken Wallet_ (issu de vos loyers ou d'un transfert). Et en dessous, la fonction vous permettant de convertir et transférer ce montant vers votre compte en banque (pour un minimum de 60 USDC).\
     Dans le bas de l'écran, la fonction de [réinvestissement](../maison-de-reinvestissement.md) (pour le versement des loyers en RealTokens plutôt qu'en USDC),
@@ -21,7 +23,7 @@ Vous accédez à son contenu, à partir de la page Portfolio du site :&#x20;
     <figure><img src="../../.gitbook/assets/image (290).png" alt="" width="563"><figcaption></figcaption></figure>
 *   Section "Asset" : \
     Vous accéder aux fonctions : d'achat, de vente à RealT et de Whitelist (préalable nécessaire à toute réception de RealTokens, que vous n'auriez pas préalablement achetés).\
-    Les Realtokens et REG contenus par votre _RealToken Wallet_ apparaissent dans cette section
+    Les RealTokens et REG contenus par votre _RealToken Wallet_ apparaissent dans cette section
 
     <figure><img src="../../.gitbook/assets/image (296).png" alt=""><figcaption></figcaption></figure>
 
@@ -33,21 +35,21 @@ Prochainement, il sera possible de charger votre wallet (On-ramp) à partir de v
 <figure><img src="../../.gitbook/assets/image (293).png" alt="" width="563"><figcaption></figcaption></figure>
 
 A l'issue de cette commande, vous recevrez dans votre messagerie (celle identifiée sur le site Realt.co) un mail pour payer.\
-&#x20;          Dans l'onglet "Order" du site realt.co, votre commande est dans le [statut](../acheter-des-realtokens/statut-de-vos-commandes.md) "_Pending Invoice_".
+&#x20;          Dans l'onglet "Order" du site realt.co, votre commande est alors dans le [statut](../acheter-des-realtokens/statut-de-vos-commandes.md) "_Pending Invoice_".
 
 <figure><img src="../../.gitbook/assets/image (294).png" alt="" width="352"><figcaption></figcaption></figure>
 
 En cliquant sur rectangle bleu du mail (et après avoir ouvert l'accès à votre compte sur le site Realt.co), vous pourrez enchainer le process de paiement sur le site Realt.co.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
-Si vous êtes connecté au site Realt.co avec un appareil (ou navigateur) différent de celui qui a fait l'initialisation du _RealToken Wallet_ (et sa mémorisation) , il vous sera demandé de vous connecter à nouveau : &#x20;
+Pour autoriser la transaction, il vous sera demandé de vous connecter à votre _RealToken Wallet_ (avec à nouveau une proposition de sécurisation via 2FA, si ce n'a pas déjà été fait) ;  &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Si non, vous accédez directement à l'écran de paiement :&#x20;
+Une fois connecté à votre _RealToken Wallet_, vous pourrez ordonner le paiement :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A l'issue du paiement, vous recevez un mail vous confirmant/remerciant de votre commande.\
 &#x20;         Dans l'onglet "Order" du site, le statut de votre commande est passé à "_Contracts Sent_".
@@ -57,6 +59,18 @@ Vous n'avez plus qu'a [signer le contrat](../acheter-des-realtokens/signature-du
 
 Comme indiqué dans le mail, la livraison étant manuelle cela peut prendre quelques jours.
 
-## A partir de l'application de transfert
+## A partir de la DApp _RealToken Wallet_
 
-Voir [chapitre spécifique](application-de-transfert-a-partir-du-realtoken-wallet.md)
+Voir [chapitre spécifique](dapp-realtoken-wallet.md)
+
+## A partir d'autre DApp
+
+Les DApp (applications qui s'accèdent avec un wallet) peuvent généralement être accédées :&#x20;
+
+* en "mode écriture", pour signer des transactions associées à la DApp,
+* mais aussi en "mode lecture", juste pour accéder à la DApp sans pouvoir faire de transactions.
+
+Puisque vous disposez de l'adresse de votre _RealToken Wallet,_ vous pouvez donc accéder aux DApp en mode lecture. Pour YAM et RMM l'intérêt est limité, puisque vous ne pouvez faire de transactions, par contre vous pourriez voir vos RealTokens sur le [Dashboard Communautaire](https://dashboard.realt.community/) : \
+
+
+<figure><img src="../../.gitbook/assets/image.png" alt="" width="323"><figcaption></figcaption></figure>

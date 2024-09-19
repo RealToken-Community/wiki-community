@@ -16,7 +16,7 @@ Liste des liquidations sur le RMM  : \
 \
 [https://docs.google.com/spreadsheets/d/1K7UY-IYJ-Cs8-YF9oGgCUyBq84Cj7XEYc7mljOPXWK4/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1K7UY-IYJ-Cs8-YF9oGgCUyBq84Cj7XEYc7mljOPXWK4/edit?usp=sharing)
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Evaluation du moment de liquidation
 
