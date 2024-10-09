@@ -4,13 +4,13 @@ RealT a développé la première DApp, à laquelle vous pouvez vous connecter av
 
 <figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="476"><figcaption></figcaption></figure>
 
-Dans cette première version, deux fonctions sont disponibles : le transfert de tokens et la connexion via WalletConnect.
+Dans cette première version, deux fonctions sont disponibles : le transfert de tokens et la connexion via WalletConnect (uniquement en V3)
 
 <figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="527"><figcaption></figcaption></figure>
 
 ## Transfert de Token
 
-Vous pouvez transferer vos tokens uniquement sur Gnosis (dans une première version) d'un _RealToken Wallet_ vers un autre wallet (_Realtoken Wallet_ ou _Private Wallet -_ Wallet "classique" _-_).
+Vous pouvez transférer vos tokens uniquement sur Gnosis (dans une première version) d'un _RealToken Wallet_ vers un autre wallet (_Realtoken Wallet_ ou _Private Wallet /_ Wallet "classique" _-_).
 
 Les tokens transférables sont des Stablecoin (USDC, WXDAI), les REG, les tokens de dépôts sur RMM (armmv3USDC et armmv3WXDAI) et les RealTokens (pour lesquels l'adresse cible devra être whitelistée !..).
 
