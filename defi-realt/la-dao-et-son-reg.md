@@ -22,3 +22,12 @@ Si vous débutez en la matière, ce document est pour vous ..
 Comment y accéder:&#x20;
 
 {% file src="../.gitbook/assets/Discord DAO v3.pdf" %}
+
+## Applications pour la gouvernance V1
+
+En octobre 2024, cinq nouvelles applications sont mises en place, pour tester une première version de la gouvernance de la DAO.
+
+Le tuto ci-après vous explique comment vous en servir. \
+Vous aurez prochainement l'occasion de les tester, au travers des premières propositions soumises aux votes
+
+{% file src="../.gitbook/assets/Tuto Gouvernance DAO v2.1.pdf" %}
