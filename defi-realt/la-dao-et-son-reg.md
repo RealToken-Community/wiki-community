@@ -10,12 +10,12 @@
 * [Community Call correspondant](https://www.youtube.com/watch?v=F-n7PQNDRds\&ab\_channel=RealT)
 * [Annonce (sur Telegram) de la première distribution (Genesis Airdrop) de REG](https://t.me/Communication\_RealT\_FR/1165)
 
-## Tuto pour savoir que faire de vos premiers REG
+## REG et pool de liquidité
 
-Distribué en mai 2024, ils servent à établir le prix du REG, au travers de Pools de liquidité. \
-Si vous débutez en la matière, ce document est pour vous ..
+Pour comprendre ce que sont les pool de liquidité et comment s'en servir (pour acheter, vendre ou fournir de la liquidité avec vos REG).\
 
-{% file src="../.gitbook/assets/Genesis, que faire de vos REG v2 .pdf" %}
+
+{% file src="../.gitbook/assets/REG et Pool de liquidité v4.pdf" %}
 
 ## Ouverture d'un salon Discord dédié à la DAO
 
