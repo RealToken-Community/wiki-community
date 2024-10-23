@@ -27,7 +27,3 @@ Du 15 Février 2023 au 1er Octobre 2023, RealT a obtenu de son opérateur la gra
 {% endhint %}
 
 Pensez aux frais de change (selon votre banque) avant d'acheter avec une C.B.
-
-{% hint style="info" %}
-Les comptes RealT en [mode "WalletLess"](../walletless.md) ne peuvent utiliser que le mode de paiement par Carte Bancaire.
-{% endhint %}
