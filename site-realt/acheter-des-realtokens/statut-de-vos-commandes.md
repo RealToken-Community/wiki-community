@@ -18,7 +18,7 @@ Les différents statuts sont :
 * **Contracts sent** : contrat adressé à signer,
 * **Pending dispense** : quand RealT doit envoyer les RealTokens sur Gnosis, les livraisons se font en 24/48h (hors WE, sauf la première fois)
 * **Canceled** : commande annulée,
-* **Blockchain pending** : quand [Coinbase](broken-reference) fait les confirmations d'une transaction,
+* **Blockchain pending** : pendant la confirmation d'une transaction,
 * **Needs refund** : quand la commande va être annulée et remboursée.
 
 ## Commande de vente de RealTokens
