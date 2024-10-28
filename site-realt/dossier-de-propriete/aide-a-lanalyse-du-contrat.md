@@ -2,7 +2,9 @@
 
 Le contrat (PPM), que vous avez signé et qui se trouve dans [DropboxSign](https://app.hellosign.com/account/logIn) ou Tediji, est un document PDF de près de 80 pages, en anglais, qui peut nécessiter un peu d'aide pour mieux le comprendre...
 
-Plusieurs outils d'analyse de PDF, à l'aide d'Intelligence Artificielle, sont maintenant disponibles. A titre d'exemple, vous trouverez ci-après comment utiliser l'application (gratuite) [PDF.ai](https://pdf.ai/) .
+Plusieurs outils d'analyse de PDF, à l'aide d'Intelligence Artificielle, sont maintenant disponibles. \
+A titre d'exemple, vous trouverez ci-après comment utiliser l'application (gratuite) [PDF.ai](https://pdf.ai/) .\
+(maj : Une autre solution simple avec : [https://notebooklm.google.com/](https://notebooklm.google.com/) )
 
 Après avoir créé un compte et vous êtes connecté, aller dans "Get started", puis uploader un exemplaire d'un des [PPM](./) que vous avez signé :
 
