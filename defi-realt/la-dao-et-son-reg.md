@@ -32,4 +32,10 @@ En octobre 2024, cinq nouvelles applications sont mises en place, pour tester un
 Le tuto ci-après vous explique comment vous en servir. \
 Les premières propositions, soumises par RealT, couvrent une grande diversité de décision concernant la DAO et permettent de s'approprier l'ensemble de ces nouveaux outils. Les holders pourront, par la suite, engager leur propres propositions et décisions.
 
-{% file src="../.gitbook/assets/Tuto Gouvernance DAO v3.pdf" %}
+{% file src="../.gitbook/assets/Tuto Gouvernance DAO v3b.pdf" %}
+
+## Premier Vote&#x20;
+
+Complément au guide pratique ci-dessus , à l'occasion du premier vote :&#x20;
+
+{% file src="../.gitbook/assets/Premier vote DAO.pdf" %}
