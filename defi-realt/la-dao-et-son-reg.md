@@ -2,15 +2,13 @@
 
 <figure><img src="../.gitbook/assets/image (265).png" alt="" width="131"><figcaption></figcaption></figure>
 
-## Documents de présentation (version Fr) :&#x20;
+## Documents de présentation
 
-* Articles sur Medium (en avril 2024) :&#x20;
-  * [La naissance d’une DAO pour décentraliser l’écosystème](https://medium.com/realtfrench/la-naissance-dune-dao-pour-d%C3%A9centraliser-l-%C3%A9cosyst%C3%A8me-1759b1a02b27),
-  * [La Token Economie ](https://medium.com/realtfrench/token-economy-ce7a2455dead)
-* [Community Call correspondant](https://www.youtube.com/watch?v=F-n7PQNDRds\&ab\_channel=RealT)
-* [Annonce (sur Telegram) de la première distribution (Genesis Airdrop) de REG](https://t.me/Communication\_RealT\_FR/1165)
+* L'ensemble des 4 articles publiés sur [Medium](https://medium.com/@realtplatform), en Mars et Avril 2024 :  [Version FR](https://drive.google.com/file/d/15qJMlREYjhYeYQubP1sAE8HCOFhsh6K6) , [Version EN](https://drive.google.com/file/d/1YE\_pWhSCHaTPfDW55U4uBYjrErOtyHp6), [Version ES](https://drive.google.com/file/d/15ujjaXpvLIFPN9GQ0u2FzUWdh5an2o3S)
+* [Community Call correspondant](https://www.youtube.com/watch?v=F-n7PQNDRds\&ab\_channel=RealT) (Mai 2024)
+* [Annonce (sur Telegram) de la première distribution (Genesis Airdrop) de REG](https://t.me/Communication\_RealT\_FR/1165) (Mai 2024)
 
-## REG et pool de liquidité
+## REG et Pool de liquidité
 
 Pour comprendre ce que sont les pool de liquidité et comment s'en servir (pour acheter, vendre ou fournir de la liquidité avec vos REG).\
 
@@ -23,11 +21,15 @@ Comment y accéder:&#x20;
 
 {% file src="../.gitbook/assets/Discord DAO v3.pdf" %}
 
+## Telegram de la DAO
+
+En 4 langues : [https://t.me/realtokendao](https://t.me/realtokendao)
+
 ## Applications pour la gouvernance V1
 
 En octobre 2024, cinq nouvelles applications sont mises en place, pour tester une première version de la gouvernance de la DAO.
 
 Le tuto ci-après vous explique comment vous en servir. \
-Vous aurez prochainement l'occasion de les tester, au travers des premières propositions soumises aux votes
+Les premières propositions, soumises par RealT, couvrent une grande diversité de décision concernant la DAO et permettent de s'approprier l'ensemble de ces nouveaux outils. Les holders pourront, par la suite, engager leur propres propositions et décisions.
 
-{% file src="../.gitbook/assets/Tuto Gouvernance DAO v2.1.pdf" %}
+{% file src="../.gitbook/assets/Tuto Gouvernance DAO v3.pdf" %}
