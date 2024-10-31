@@ -9,7 +9,7 @@ LevinSwap est un échangeur décentralisé (DEX). Il permet l’échange de toke
 Sur YAM (ou Swapcat) : vous publiez une offre et devez attendre un acheteur...\
 Avec Levinswap, l’échange se fait instantanément, mais avec un prix qui peut varier suivant la liquidité de la pool (quantité de token disponible).
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 LewinSwap, est une copie (fork) de l’application Uniswap Version 2 sur la Gnosis Chain.\
 RealT utilise Levinswap depuis mars 2021. Malheureusement, le principal développeur de Levinswap a quitté le projet en 2022. \

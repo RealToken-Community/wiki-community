@@ -16,8 +16,8 @@ Pour étendre les possibilités offertes à ses clients, RealT a engagé une tra
 Cette transition sera aussi progressive, en terme de fonctionnalité :
 
 * Dans un premier temps, le _RealToken Wallet_ ne sera utilisable qu'à partir du site Web [Realt.co](https://realt.co/), les fonctions disponibles étant assez semblables à celles du _Walletless_,
-* Dans un second temps, le _RealToken Wallet_ sera utilisable à partir d'une application Web (DApp développée par RealT). De nouvelles fonctions deviendront alors disponibles pour ce wallet, comme les transfert et la connexion aux applications ne supportant pas le standard _Abstract Account_ via WalletConnect 2 (WC2),
-* Puis progressivement, au fur et à mesure que les applications supporteront le standard Abstract Account, il sera possible de s'y connecter directement (sans passer par WC2).
+* Dans un second temps (Sept. 2024), le _RealToken Wallet_ sera utilisable à partir d'une application Web (DApp développée par RealT). De nouvelles fonctions deviendront alors disponibles pour ce wallet, comme les transfert et la connexion aux applications ne supportant pas le standard _Abstract Account_ via WalletConnect (WC),
+* Puis progressivement, au fur et à mesure que les applications intégreront l'accès à partir d'un _RealToken wallet_, il ne sera même plus nécessaire de passer par WC.
 
 {% hint style="danger" %}
 Le _Realtoken Wallet_ n'est actuellement disponible que sur la blockchain Gnosis. \
@@ -31,4 +31,4 @@ Les prochains chapitres détaillent :
 * Un schéma de l'évolution des wallets supportant les comptes RealT ainsi qu'un tableur comparatif,
 * Une première mise à  jour  du _RealToken Wallet_ (alias v3),
 * La DApp  _RealToken Wallet_,
-*
+

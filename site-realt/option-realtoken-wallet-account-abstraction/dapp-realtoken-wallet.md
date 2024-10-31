@@ -2,11 +2,11 @@
 
 RealT a développé la première DApp, à laquelle vous pouvez vous connecter avec votre _RealToken Wallet :_ [_https://wallet.realtoken.network/_](https://wallet.realtoken.network/)
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="476"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Dans cette première version, deux fonctions sont disponibles : le transfert de tokens et la connexion via WalletConnect (uniquement en V3)
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="527"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="527"><figcaption></figcaption></figure>
 
 ## Transfert de Token
 
@@ -14,13 +14,13 @@ Vous pouvez transférer vos tokens uniquement sur Gnosis (dans une première ver
 
 Les tokens transférables sont des Stablecoin (USDC, WXDAI), les REG, les tokens de dépôts sur RMM (armmv3USDC et armmv3WXDAI) et les RealTokens (pour lesquels l'adresse cible devra être whitelistée !..).
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="303"><figcaption></figcaption></figure>
 
 RealT a fait la notice suivante, pour la migration des tokens sur les _RealToken Wallet_ anciennes versions vers la v3 _:_ [_https://drive.google.com/file/d/1z7mwO8t9x6FTz55wosxAanUjktte9nzk/view_](https://drive.google.com/file/d/1z7mwO8t9x6FTz55wosxAanUjktte9nzk/view)
 
 Nota : ça peut être parfois assez long ...Soyez patient !
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Pour vérifier le transfert sur un explorateur
 
@@ -67,4 +67,4 @@ A ceci près, que :&#x20;
   Attention : si vous tapez plusieurs fois sur une fonction RMM (pensant qu'elle n'a pas été prise en compte) ça fera plusieurs fois la transactions !...(certes, que vous pourrez ne pas la confirmer sur le wallet, et ainsi éviter les doublons..)
 
 La DApp _RealToken wallet_ est une application Web et pas une extension de navigateur comme MetaMask ou Rabby. Les actions sont donc moins fluides, mais cela devrait s'améliorer avec le temps .. \
-C'est la toute première version de cette DApp, pas encore complètement sèche :wink:...
+C'est la toute première version de cette DApp :wink:...

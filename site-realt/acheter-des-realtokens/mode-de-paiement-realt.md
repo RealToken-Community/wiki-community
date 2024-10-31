@@ -11,11 +11,11 @@ Deux modes de paiement sont disponibles, pour vos achats sur le site RealT :
 Ce mode de paiement utilise les services de Request Finance. \
 En Avril 2024, de nombreuses Crypto et chaines ont été ajoutées à ce service (et le paiement par Coinbase Commerce retiré) :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Par Carte Bancaire&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
 
 Depuis Juillet 2022, RealT applique des frais :
 
