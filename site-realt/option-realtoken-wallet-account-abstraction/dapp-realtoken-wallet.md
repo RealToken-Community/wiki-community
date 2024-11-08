@@ -4,9 +4,9 @@ RealT a développé la première DApp, à laquelle vous pouvez vous connecter av
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Dans cette première version, deux fonctions sont disponibles : le transfert de tokens et la connexion via WalletConnect (uniquement en V3)
+Dans cette première version, trois fonctions sont disponibles : le transfert de tokens, la connexion via WalletConnect (uniquement en V3) et le vote DAO.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="527"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (304).png" alt="" width="386"><figcaption></figcaption></figure>
 
 ## Transfert de Token
 
@@ -45,10 +45,10 @@ Pour réaliser cette connexion :&#x20;
 * vous avez besoin de deux instances de navigateur (soit deux onglets sur un même navigateur, soit deux navigateurs).
 *   Sur une des instances vous lancer la [DApp _RealToken Wallet_](https://wallet.realtoken.network/)_,_ vous vous connectez avec votre Social Login et vous cliqué en haut sur WalletConnect : une fenêtre va apparaitre où vous devez entrer une URL WalletConnect...
 
-    <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7).png" alt="" width="467"><figcaption></figcaption></figure>
 * Sur la deuxième instance de navigateur, vous lancer [RMM](https://rmm.realtoken.network/markets/) (par ex), vous connectez votre portefeuille en choisissant WalletConnect : apparait alors une fenêtre avec un QRcode, vous copier le lien associé (dans votre presse papier) en cliquant sur "Connect Your Wallet"
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="294"><figcaption></figcaption></figure>
 
 *   Vous retournez sur l'instance avec la DApp _RealToken Wallet_ et vous collez le lien (du presse papier) dans la fenêtre demandant l'URL&#x20;
 
@@ -68,3 +68,18 @@ A ceci près, que :&#x20;
 
 La DApp _RealToken wallet_ est une application Web et pas une extension de navigateur comme MetaMask ou Rabby. Les actions sont donc moins fluides, mais cela devrait s'améliorer avec le temps .. \
 C'est la toute première version de cette DApp :wink:...
+
+## Vote DAO
+
+Si l'application WalletConnect venait à ne pas fonctionner, une fonction de vote a été rajouté directement sur le _Realtoken wallet._
+
+Il vous suffira :&#x20;
+
+* sur l'application de [vote DAO](https://www.tally.xyz/gov/realtoken-ecosystem-governance), de copier le Proposal ID du vote :&#x20;
+
+<figure><img src="../../.gitbook/assets/image (305).png" alt="" width="443"><figcaption></figcaption></figure>
+
+*   puis, de le copier dans le _Realtoken Wallet_ :&#x20;
+
+    <figure><img src="../../.gitbook/assets/image (306).png" alt="" width="256"><figcaption></figcaption></figure>
+* et enfin de voter.
