@@ -8,14 +8,14 @@ Ainsi, d’autres applications développées par la Communauté, peuvent utilise
 
 ## L’application API
 
-L’application est constituée de son code ainsi que d’une application web de documentation, basée sur la solution _NelmioApiDocBundle._ Elle est disponible à l’adresse suivante : [https://api.realt.community/](https://api.realt.community/)\
+L’application est constituée de son code ainsi que d’une application web de documentation, basée sur la solution _NelmioApiDocBundle._ Elle est disponible à l’adresse suivante : [https://api.realtoken.community/](https://api.realtoken.community/)\
 
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Lorsque l’information recherchée est simple, par exemple la date de la dernière mise à jour, il suffit de cliquer sur le « GET » correspondant, puis « Try it out », puis « Execute » , le résultat s’affiche dans la partie « Response body »
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (310).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Par contre quand le résultat est une liste d’informations bien plus conséquente, comme la liste de tous les Realtokens émis, la présentation du résultat au format JSON, est bien moins lisible... sauf pour une application.
 
@@ -23,9 +23,9 @@ Par contre quand le résultat est une liste d’informations bien plus conséque
 
 L’API fournie de base, un nombre d’informations limité :
 
-Par exemple pour /v1/token (une dizaine d’info. par RealToken)
+Par exemple pour /v1/token (une dizaine d’info. par RealToken)&#x20;
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="461"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (312).png" alt="" width="525"><figcaption></figcaption></figure>
 
 Si vous souhaitez obtenir bien plus d’informations (> 150 par Realtoken), vous devez obtenir et utiliser une API-key :
 
@@ -56,12 +56,12 @@ Elles sont visible dans cette partie de l’application :
 
 *   Sans API-Key&#x20;
 
-    <figure><img src="../.gitbook/assets/image (4) (1) (1) (1).png" alt="" width="340"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (308).png" alt="" width="350"><figcaption></figcaption></figure>
 *   Avec API-Key\
     Après l’avoir saisie dans la partie Authorize de l’application (le cadenas apparaîtra alors en position fermée)
 
     <figure><img src="../.gitbook/assets/image (5) (1) (1).png" alt="" width="231"><figcaption></figcaption></figure>
 
-    Le format de la requête inclus votre APY-Key :
+    Le format de la requête inclus votre APY-Key :&#x20;
 
-    <figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt="" width="450"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (309).png" alt="" width="462"><figcaption></figcaption></figure>
