@@ -34,8 +34,8 @@ Les premières propositions, soumises par RealT, couvrent une grande diversité 
 
 {% file src="../.gitbook/assets/Tuto Gouvernance DAO v3b.pdf" %}
 
-## Premier Vote&#x20;
+## Premiers Votes&#x20;
 
-Complément au guide pratique ci-dessus , à l'occasion du premier vote :&#x20;
+Complément au guide pratique ci-dessus , à l'occasion des premiers votes :&#x20;
 
-{% file src="../.gitbook/assets/Premier vote DAO.pdf" %}
+{% file src="../.gitbook/assets/Premier vote DAO v2.pdf" %}
