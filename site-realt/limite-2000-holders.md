@@ -1,5 +1,13 @@
 # Limite 2000 holders
 
+
+
+{% hint style="info" %}
+Lors du CC du 14 Novembre 2024, il a été confirmé par RealT que cette limite n'était plus d'actualité.
+{% endhint %}
+
+
+
 Aux US, la SEC impose un [seuil de 2000 investisseurs](https://www.investopedia.com/terms/1/2000-investor-limit.asp) par société, au delà duquel des procédures bien plus contreignantes et couteuses seraient nécessaires.
 
 Le nombre de holder par propriété est donc limité actuellement. La limite étant sur le nombre de holder et pas le nombre de wallet, un holder pouvant détenir plusieurs wallets.
