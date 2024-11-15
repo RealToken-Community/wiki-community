@@ -31,8 +31,8 @@ description: Synthèse des principaux liens...
 
 {% tab title="Wallet" %}
 * Cold Wallet : [Ledger](https://www.ledger.com/fr), [Satoship](https://satochip.io/?lang=fr), [Trezor](https://trezor.io/),
-* Hot Wallet Mobile : Bridge Wallet ([Mt Pelerin](https://www.mtpelerin.com/bridge-wallet)) , RealT Wallet ([Andoid](https://play.google.com/store/apps/details?id=co.realt.bridge\&hl=fr\&gl=US\&pli=1), [IOS](https://apps.apple.com/fr/app/realt-wallet/id1545585469)),&#x20;
-* Hot Wallet "classique" : [MetaMask](https://metamask.io/),
+* Hot Wallet Mobile : Bridge Wallet ([Mt Pelerin](https://www.mtpelerin.com/bridge-wallet)) , RealT Wallet (RealT),&#x20;
+* Hot Wallet "classique" : [MetaMask](https://metamask.io/), [Rabby](https://rabby.io/)
 * Multi-Signature : [Safe](https://safe.global/wallet)
 {% endtab %}
 

@@ -4,6 +4,10 @@ description: le portefeuille mobile de RealT
 
 # RealT Wallet
 
+{% hint style="info" %}
+Ce Wallet, n'est plus mis à jour à cause de contraintes imposées par Apple sur sa version IOS.
+{% endhint %}
+
 Cette application, disponible sur [Android](https://play.google.com/store/apps/details?id=co.realt.bridge\&hl=fr\&gl=US\&pli=1) et [IOS](https://apps.apple.com/fr/app/realt-wallet/id1545585469), est issue du partenariat entre RealT et [Mt Pelerin](https://www.mtpelerin.com/fr).
 
 Vous pouvez créer un nouveau wallet ou importer un wallet existant.
