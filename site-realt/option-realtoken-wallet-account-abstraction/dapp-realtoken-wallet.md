@@ -69,10 +69,6 @@ A ceci près, que :&#x20;
 La DApp _RealToken wallet_ est une application Web et pas une extension de navigateur comme MetaMask ou Rabby. Les actions sont donc moins fluides, mais cela devrait s'améliorer avec le temps .. \
 C'est la toute première version de cette DApp :wink:...
 
-{% hint style="info" %}
-La solution WalletConnect est parfois un peu "capricieuse", vous pouvez dans ce cas tester avec un autre Wallet comme [Rabby](../../portefeuille/rabby.md).
-{% endhint %}
-
 ## Vote DAO
 
 Si l'application WalletConnect venait à ne pas fonctionner, une fonction de vote a été rajouté directement sur le _Realtoken wallet._
@@ -87,3 +83,10 @@ Il vous suffira :&#x20;
 
     <figure><img src="../../.gitbook/assets/image (306).png" alt="" width="256"><figcaption></figcaption></figure>
 * et enfin de voter.
+
+## Utilisation du canal WalletConnect de Rabby
+
+La solution WalletConnect est parfois un peu "capricieuse".  [Rabby](../../portefeuille/rabby.md) à mis en place une solution WalletConnect qui semble plus stable.\
+Tuto pour utiliser ce moyen :
+
+{% file src="../../.gitbook/assets/WC2 Rabby.pdf" %}
