@@ -87,6 +87,6 @@ Il vous suffira :&#x20;
 ## Utilisation du canal WalletConnect de Rabby
 
 La solution WalletConnect est parfois un peu "capricieuse".  [Rabby](../../portefeuille/rabby.md) à mis en place une solution WalletConnect qui semble plus stable.\
-Tuto pour utiliser ce moyen :
+Tuto pour utiliser ce moyen&#x20;
 
 {% file src="../../.gitbook/assets/WC2 Rabby.pdf" %}
