@@ -17,14 +17,16 @@ La démarche se fait sur le site de [RealT](https://realt.co/) (et est disponibl
 *   puis "Add Request" :
 
     <figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
-*   Indiquer les RealTokens que vous souhaitez whitelister (7 Max), puis Submit :
+*   Indiquer les RealTokens que vous souhaitez whitelister (le maximum est passé en nov. 2024 de 7 tout les 3 jours à 14 par jour), puis Submit&#x20;
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image.png" alt="" width="510"><figcaption></figcaption></figure>
 
-    N'apparaissent dans la liste, que les RealTokens que vous n'avez pas déjà whitelistés (et qui sont [whitelistables](limite-2000-holders.md) !).
-*   Vous êtes limité à une demande tous les 3 jours. \\
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="522"><figcaption></figcaption></figure>
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="318"><figcaption></figcaption></figure>
+* N'apparaissent dans la liste, que les RealTokens que vous n'avez pas déjà whitelistés (et qui sont [whitelistables](limite-2000-holders.md) !).
+
+
+
 *   Vous recevrez les contrats correspondants à signer.\
     Le statut de votre demande apparaîtra dans cette partie "whitelist" ainsi que dans la liste de vos commandes, onglet "Orders" :
 

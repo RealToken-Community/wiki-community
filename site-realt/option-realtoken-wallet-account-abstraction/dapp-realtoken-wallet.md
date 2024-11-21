@@ -14,7 +14,7 @@ Vous pouvez transférer vos tokens uniquement sur Gnosis (dans une première ver
 
 Les tokens transférables sont des Stablecoin (USDC, WXDAI), les REG, les tokens de dépôts sur RMM (armmv3USDC et armmv3WXDAI) et les RealTokens (pour lesquels l'adresse cible devra être whitelistée !..).
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="303"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt="" width="303"><figcaption></figcaption></figure>
 
 RealT a fait la notice suivante, pour la migration des tokens sur les _RealToken Wallet_ anciennes versions vers la v3 _:_ [_https://drive.google.com/file/d/1z7mwO8t9x6FTz55wosxAanUjktte9nzk/view_](https://drive.google.com/file/d/1z7mwO8t9x6FTz55wosxAanUjktte9nzk/view)
 
