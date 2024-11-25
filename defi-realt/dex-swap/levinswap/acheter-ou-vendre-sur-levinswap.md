@@ -15,8 +15,8 @@ Dans la vidéo, vous voyez comment faire un swap, mais aussi comment évolue le 
 
 * sa parité initiale dans le pool est de 48,67 USDC / RealToken (cf exemple de la page précédente),
 * La video test en premier, la vente d'1 RealToken : le prix est de 47,19 USDC, soit une décote « _Price Impact_ » de 2,73 % (affichée en bas de l'écran) par rapport à la parité initiale de la pool,
-* puis on teste la vente de 2 RealTokens, le prix continue à décroître à 45,93 USDC / RealToken, avec un P_rice Impact_ qui passe alors en rouge : au dessus de 5 % de décote,
-* puis enfin 4 Realtokens , le montant passe à 43,6 USDC / Realtoken et le P_rice Impac_t à 10 % !
+* puis on teste la vente de 2 RealTokens, le prix continue à décroître à 45,93 USDC / RealToken, avec un &#x50;_&#x72;ice Impact_ qui passe alors en rouge : au dessus de 5 % de décote,
+* puis enfin 4 Realtokens , le montant passe à 43,6 USDC / Realtoken et le &#x50;_&#x72;ice Impa&#x63;_&#x74; à 10 % !
 
 Ce comportement est lié au mécanisme utilisé par l’application pour préserver sa liquidité. Ainsi, on évite que la pool se vide complètement.\
 Le _Price Impact_ est d’autant plus pénalisant, que la proportion de la transaction est grande au regard de la liquidité disponible (par ex, quand on retire 2 tokens, alors qu’il n'y en a que 35 de disponible...)
@@ -33,7 +33,7 @@ D’où la recommandation initiale, de n’utiliser Levinswap que pour des achat
 
 ### Slippage
 
-La parité d’un échange se dégrade à cause du P_rice Impact_, mais cette dégradation peut être accrue par du « S_lippage_ ». Cela se produit si : juste avant l’approbation de votre échange, un autre échange venait à modifier la parité.\
+La parité d’un échange se dégrade à cause du &#x50;_&#x72;ice Impact_, mais cette dégradation peut être accrue par du « &#x53;_&#x6C;ippage_ ». Cela se produit si : juste avant l’approbation de votre échange, un autre échange venait à modifier la parité.\
 Le mécanisme de protection, pour limiter le _Slippage_ est présenté dans la vidéo suivante :
 
 {% embed url="https://youtu.be/uFFpYES4gWE" %}

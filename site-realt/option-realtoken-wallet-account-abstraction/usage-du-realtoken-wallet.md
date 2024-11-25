@@ -6,14 +6,14 @@ description: Ce qu'il contient et comment s'en servir..
 
 ## A partir du site Realt.co
 
-Dans sa première version, le _RealToken Wallet n'_est accessible qu'au travers du site Realt.co et **que sur la blockchain Gnosis** (tout envoi de fond à cette adresse sur une autre blockchain sera inaccessible, voir  perdu!) \
+Dans sa première version, le _RealToken Wallet n'_&#x65;st accessible qu'au travers du site Realt.co et **que sur la blockchain Gnosis** (tout envoi de fond à cette adresse sur une autre blockchain sera inaccessible, voir  perdu!) \
 \
 Vous accédez à son contenu, à partir de la page Portfolio du site :&#x20;
 
 * Section "Wallets", avec :
   * votre identifiant : gmail ou social login (choisi lors de l'initialisation),
   *   ainsi que l'adresse de votre _RealToken Wallet 0x..._ \
-      _(_information à laquelle vous n'accédiez pas avec un compte _Walletless)_
+      _(_&#x69;nformation à laquelle vous n'accédiez pas avec un compte _Walletless)_
 
       <figure><img src="../../.gitbook/assets/image (289).png" alt="" width="563"><figcaption></figcaption></figure>
 *   Section "Rent" : \
