@@ -3,7 +3,7 @@
 Avec la fonction "Envoyer" de Metamask, vous pouvez transférer un certaine quantité d'un token d'un wallet à un autre.\
 Mais lorsque vous avez plusieurs dizaines de tokens à transférer, cette méthode simple devient vite fastidieuse !..\
 \
-L'application communautaire suivante, va vous aider : [https://transfer.realt.community/transferTokens](https://transfer.realt.community/transferTokens).\
+L'application communautaire suivante, va vous aider : [https://transfer.realtoken.community/transferTokens](https://transfer.realtoken.community/transferTokens).\
 Le transfert se fait en 4 étapes :
 
 <figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
@@ -25,6 +25,6 @@ Le transfert se fait en 4 étapes :
     <figure><img src="../.gitbook/assets/image (4) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nota : Une autre application permet ce genre de transfert groupé : [ \
-&#x20;                                                                       https://pitswap.netlify.app/swap\_toke](https://pitswap.netlify.app/swap\_token)n
+&#x20;                                                                       https://pitswap.netlify.app/swap\_toke](https://pitswap.netlify.app/swap_token)n
 
 <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
