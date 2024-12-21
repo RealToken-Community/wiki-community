@@ -5,11 +5,13 @@ En préalable (comme sur Yam) : il vous faut être whitelisté, avant toute acqu
 {% endhint %}
 
 Pour échanger (swaper) un RealToken, vous devez connecter votre wallet sur l’application suivante (en étant sur la Gnosis Chain) : \
-&#x20;                                   [https://app.levinswap.realt.community/#/swap](https://app.levinswap.realt.community/#/swap)
+&#x20;                                   [https://app.levinswap.realtoken.community/#/swap](https://app.levinswap.realtoken.community/#/swap)
 
 ### Vente de Realtokens
 
 {% embed url="https://youtu.be/CUm4wQAPK_4" %}
+
+(maj : la fonction Manage ne semble plus proposer la liste des Realtokens, il faut alors ajouter manuellement l'adresse du Realtoken souhaité)
 
 Dans la vidéo, vous voyez comment faire un swap, mais aussi comment évolue le prix de vente de votre RealToken en fonction de la quantité que vous souhaitez vendre :
 
