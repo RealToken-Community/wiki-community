@@ -2,7 +2,7 @@
 
 La liste des paires est disponible à l’adresse suivante :\
 [https://info.levinswap.realtoken.community/pairs](https://info.levinswap.realtoken.community/pairs)\
-(maj : Cette page ne semble plus disponible depuis un changement sur TheGraph)
+(maj : Cette page n'est plus disponible depuis la mise à jour de TheGraph en juin 2024)
 
 Taper le nom du RealToken dans la zone de recherche et la paire correspondante vous est proposée.
 
