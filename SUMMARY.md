@@ -88,6 +88,7 @@
   * [Rabby](portefeuille/rabby.md)
   * [RealToken Wallet](portefeuille/realtoken-wallet.md)
   * [Ledger](portefeuille/ledger.md)
+  * [Safe{Wallet}](portefeuille/safe-wallet.md)
   * [RealT Wallet](portefeuille/realt-wallet.md)
 * [🍩 La Communauté RealT](la-communaute-realt/README.md)
   * [Sites d'échange (swap)](la-communaute-realt/swap.md)
@@ -102,5 +103,5 @@
 
 ## .
 
-* [Telegram RealT "Welcome"](https://t.me/Realtoken\_welcome)
+* [Telegram RealT "Welcome"](https://t.me/Realtoken_welcome)
 * [Discord](https://discord.gg/aPSWyGxMUk)
