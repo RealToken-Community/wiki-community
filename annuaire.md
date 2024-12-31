@@ -43,7 +43,7 @@ description: Synthèse des principaux liens...
 {% endtab %}
 
 {% tab title="Communauté" %}
-* [Dashboard](https://dashboard.realtoken.community/), [API](https://api.realtoken.community/), [GitHub](https://github.com/RealToken-Community), [Transfers groupés](https://transfer.realtoken.community/transferTokens), [Site web](https://www.realt.community/)
+* [Dashboard](https://dashboard.realtoken.community/), [API](https://api.realtoken.community/), [GitHub](https://github.com/RealToken-Community), [Transfers groupés](https://transfer.realtoken.community/transferTokens), [Site web](https://www.realtoken.community/)
 * DAO : [Wiki](https://wiki.realtoken.community/fr/home), [Forum](https://forum.realtoken.community/), [Vote](https://www.tally.xyz/gov/realtoken-ecosystem-governance), [Incentive](https://vote.realtoken.network/dao/incentive),
 * Site Web [crypT'Alloc](https://www.cryptalloc.com/realtlab/),
 * Site Web [E](https://ehpst.duckdns.org/realt_rent_tracker/)[hpst](https://ehpst.duckdns.org/realt_rent_tracker/)
