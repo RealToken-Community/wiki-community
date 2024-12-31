@@ -51,13 +51,12 @@ En complément du guide utilisateur, un document (un peu) plus technique sur com
 
 </details>
 
-
-
 ## Evolution du Wrapper
 
 Dans certains cas, des RealTokens doivent être détruits (détokenisation, perte d'accès au wallet, ..), ce qui peut engendrer des dysfonctionnement sur RMM (si ces Realtoken garantisent des emprunts). De nouvelles fonctions ont été ajoutés au contrat Wrapper, que la DAO sera en charge d'exécuter.\
 \
 [https://wiki.realtoken.community/fr/dapp-ecosystem/rmm](https://wiki.realtoken.community/fr/dapp-ecosystem/rmm)
 
+## Usage des frais du RMM v3
 
-
+{% file src="../../.gitbook/assets/Rev DAO RMM.pdf" %}
