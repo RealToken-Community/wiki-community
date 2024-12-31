@@ -9,7 +9,7 @@ description: Synthèse des principaux liens...
 * [Site Web](https://realt.co/), [RMM,](https://rmm.realtoken.network/markets) [YAM](https://yam.realtoken.network/), [Vote](https://vote.realtoken.network/), [Bridge](https://bridge.realtoken.network/), [Realtoken Wallet](https://wallet.realtoken.network/),
 * Community Call sur [Youtube](https://www.youtube.com/@RealTplatform/streams), sur [Twitch](https://www.twitch.tv/realtofficial),
 * [FAQ (En)](https://faq.realt.co/en/),
-* Telegram de [bienvenue](https://t.me/Realtoken\_welcome) et [d'annonces,](https://t.me/Communication\_RealT\_FR)
+* Telegram de [bienvenue](https://t.me/Realtoken_welcome) et [d'annonces,](https://t.me/Communication_RealT_FR)
 * [Twitter](https://twitter.com/RealTPlatform), [Linkedin](https://www.linkedin.com/company/realtplatform/), [Discord](https://discord.gg/aPSWyGxMUk), [Objets publicitaires](https://merch.realt.co/),
 * [Request Finance](https://app.request.finance/login), [HelloSign](https://app.hellosign.com/account/logIn)
 {% endtab %}
@@ -43,10 +43,10 @@ description: Synthèse des principaux liens...
 {% endtab %}
 
 {% tab title="Communauté" %}
-* [Dashboard](https://dashboard.realt.community/), [API](https://api.realtoken.community/), [GitHub](https://github.com/RealToken-Community), [Transfers groupés](https://transfer.realtoken.community/transferTokens), [Site web](https://www.realt.community/)
+* [Dashboard](https://dashboard.realtoken.community/), [API](https://api.realtoken.community/), [GitHub](https://github.com/RealToken-Community), [Transfers groupés](https://transfer.realtoken.community/transferTokens), [Site web](https://www.realt.community/)
 * DAO : [Wiki](https://wiki.realtoken.community/fr/home), [Forum](https://forum.realtoken.community/), [Vote](https://www.tally.xyz/gov/realtoken-ecosystem-governance), [Incentive](https://vote.realtoken.network/dao/incentive),
 * Site Web [crypT'Alloc](https://www.cryptalloc.com/realtlab/),
-* Site Web [E](https://ehpst.duckdns.org/realt\_rent\_tracker/)[hpst](https://ehpst.duckdns.org/realt\_rent\_tracker/)
+* Site Web [E](https://ehpst.duckdns.org/realt_rent_tracker/)[hpst](https://ehpst.duckdns.org/realt_rent_tracker/)
 * Site Web [Pit'Swap](https://realt.pitswap.site/), [Pit's BI](https://realt.pitsbi.io/stats)
 * Bot Telegram : [Realt OTC](https://t.me/RealTokenOTC)
 * Site Web [Jeremy](https://yam.jycssu.fr/#/),
