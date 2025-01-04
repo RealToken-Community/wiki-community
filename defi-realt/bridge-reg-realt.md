@@ -30,3 +30,10 @@ En cliquant sur "Voir le status ici", vous êtes transféré sur Chainlink et po
 
 Nota : l'adresse du REG est identique sur les trois blockchain : \
 &#x20;                                                         0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce
+
+
+
+Il existe aussi cette application qui Bridge les tokens compatibles CCIP : [https://app.transporter.io/?from=xdai\&tab=token\&to=polygon\&token=REG](https://app.transporter.io/?from=xdai\&tab=token\&to=polygon\&token=REG)
+
+<figure><img src="../.gitbook/assets/image (313).png" alt="" width="563"><figcaption></figcaption></figure>
+
