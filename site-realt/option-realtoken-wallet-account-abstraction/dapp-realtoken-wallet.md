@@ -2,9 +2,15 @@
 
 RealT a développé la première DApp, à laquelle vous pouvez vous connecter avec votre _RealToken Wallet :_ [_https://wallet.realtoken.network/_](https://wallet.realtoken.network/)
 
+Pour vous connecter à l'application avec votre _Realtoken wallet_ vous devez utiliser le social login (Compte : Google, Facebook, Twitch ou Discord) que vous avez indiqué lors de la création de votre _Realtoken wallet_.&#x20;
+
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Dans cette première version, trois fonctions sont disponibles : le transfert de tokens, la connexion via WalletConnect (uniquement en V3) et le vote DAO.
+Ne pas utiliser la fonction "Connecter un portefeuille externe", qui ne sert que dans des cas très particulier. Sinon vous aurez ce genre de message d'erreur :&#x20;
+
+<figure><img src="../../.gitbook/assets/image (314).png" alt="" width="269"><figcaption></figcaption></figure>
+
+Dans cette première version de l'application, trois fonctions sont disponibles : le transfert de tokens, la connexion via WalletConnect (uniquement en V3) et le vote DAO.
 
 <figure><img src="../../.gitbook/assets/image (304).png" alt="" width="386"><figcaption></figcaption></figure>
 
