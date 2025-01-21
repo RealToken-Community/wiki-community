@@ -12,13 +12,17 @@ Ne pas utiliser la fonction "Connecter un portefeuille externe", qui ne sert que
 
 <figure><img src="../../.gitbook/assets/image (315).png" alt="" width="330"><figcaption></figcaption></figure>
 
-Dans cette première version de l'application, trois fonctions sont disponibles : le transfert de tokens, la connexion via WalletConnect (uniquement en V3) et le vote DAO.
+Cette DApp est exclusivement réservée au _Realtoken Wallet_, vous ne pouvez vous y connecter avec un portefeuille "classique" (dont vous détenez la seed phrase).\
+\
+Si vous avez perdu le social login de votre Realtoken Wallet, vous devez passer par le support de RealT (la bulle orange sur le site realt.co), afin que vous puissiez le réinitialiser.
+
+Dans cette première version de l'application, dispose de trois fonctions : le transfert de tokens, la connexion via WalletConnect (uniquement en V3 du _Realtoken Wallet_) et le vote DAO.
 
 <figure><img src="../../.gitbook/assets/image (304).png" alt="" width="386"><figcaption></figcaption></figure>
 
 ## Transfert de Token
 
-Vous pouvez transférer vos tokens uniquement sur Gnosis (dans une première version) d'un _RealToken Wallet_ vers un autre wallet (_Realtoken Wallet_ ou _Private Wallet /_ Wallet "classique" _-_).
+Vous pouvez transférer vos tokens **uniquement sur Gnosis** (dans une première version) d'un _RealToken Wallet_ vers un autre wallet (_Realtoken Wallet_ ou _Private Wallet /_ Wallet "classique" _-_).
 
 Les tokens transférables sont des Stablecoin (USDC, WXDAI), les REG, les tokens de dépôts sur RMM (armmv3USDC et armmv3WXDAI) et les RealTokens (pour lesquels l'adresse cible devra être whitelistée !..).
 
