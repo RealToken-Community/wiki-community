@@ -6,9 +6,11 @@ Pour vous connecter à l'application avec votre _Realtoken wallet_ vous devez ut
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
-Ne pas utiliser la fonction "Connecter un portefeuille externe", qui ne sert que dans des cas très particulier. Sinon vous aurez ce genre de message d'erreur :&#x20;
+{% hint style="warning" %}
+Ne pas utiliser la fonction "Connecter un portefeuille externe", qui ne sert que dans des cas très particuliers. Sinon vous risquez d'avoir ce genre de message d'erreur :&#x20;
+{% endhint %}
 
-<figure><img src="../../.gitbook/assets/image (314).png" alt="" width="269"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (315).png" alt="" width="330"><figcaption></figcaption></figure>
 
 Dans cette première version de l'application, trois fonctions sont disponibles : le transfert de tokens, la connexion via WalletConnect (uniquement en V3) et le vote DAO.
 
