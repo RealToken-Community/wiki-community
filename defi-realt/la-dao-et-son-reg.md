@@ -42,9 +42,10 @@ Les membres de la DAO (qui possèdent des REG), peuvent maintenant soumettre leu
 
 {% file src="../.gitbook/assets/Tuto Gouvernance DAO v3b.pdf" %}
 
-## Premiers Votes&#x20;
+## Premiers Votes (fin 2024)&#x20;
 
 Complément au guide pratique ci-dessus , à l'occasion des premiers votes :&#x20;
 
 {% file src="../.gitbook/assets/Premiers votes DAO v3.pdf" %}
 
+A l'issue de ces premiers votes, le [wiki de la DAO](https://wiki.realtoken.community/fr/home) a été complété d'un chapitre "La vie de la DAO" pour résumer les dernières évolutions.
