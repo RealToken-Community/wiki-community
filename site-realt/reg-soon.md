@@ -42,11 +42,11 @@ Vous pouvez retrouver l'ensemble des Soons qui vous ont été versés sur un wal
 
 La conversion des SOON en REG va se faire en deux étapes :
 
-* La première sera réalisée par RealT, qui va convertir vos tokens SOON en $EquivREG (1 pour 1). \
-  Les $EquivREG sont un montant en $, qui vous est alloué et qui n'est convertible qu'en REG (qui seront créés à cette occasion).\
+* La première sera réalisée par RealT, qui va convertir vos tokens SOON en USDREG (1 pour 1). \
+  Les USDREG sont un montant en $, qui vous est alloué et qui n'est convertible qu'en REG (qui seront créés à cette occasion).\
   A l'issue de cette étape, les tokens SOON seront détruits.
-* La seconde étape sera réalisée par vous même, en choisissant le moment où vous souhaitez convertir vos $EquivREG en REG (opération de "claim").\
-  La parité du REG étant variable, vous pourrez ainsi choisir le moment (et donc la parité) de la conversion. (pour un montant $EquivREG donné, vous aurez d'autant plus de REG que la parité du REG sera faible...et inversement).\
-  Pour ce faire, une application de claim sera disponible (comme celle pour claimer les REG de l'[Airdrop Genesis](../defi-realt/la-dao-et-son-reg.md)). Un fois connecté à l'application, avec le wallet qui possédait les tokens SOON, vous verrez le montant de $EquivREG qui vous est alloué et vous pourrez les claimer (en totalité). Les REG correspondants seront alors transférés sur le wallet qui a claim (voir sur un autre, si besoin).
+* La seconde étape sera réalisée par vous même, en choisissant le moment où vous souhaitez convertir vos USDREG en REG (opération de "claim").\
+  La parité du REG étant variable, vous pourrez ainsi choisir le moment (et donc la parité) de la conversion. (pour un montant USDREG donné, vous aurez d'autant plus de REG que la parité du REG sera faible...et inversement).\
+  Pour ce faire, une application de claim sera disponible (comme celle pour claimer les REG de l'[Airdrop Genesis](../defi-realt/la-dao-et-son-reg.md)). Un fois connecté à l'application, avec le wallet qui possédait les tokens SOON : vous verrez le montant de USDREG qui vous est alloué et vous pourrez les claimer (en totalité uniquement). Les REG correspondants seront alors transférés sur le wallet qui a claim (voir sur un autre, si besoin).
 
-Par la suite, la conversion des frais RealT ne se fera plus en SOON mais directement en $EquivREG.&#x20;
+Par la suite, la conversion des frais RealT ne se fera plus en SOON mais directement en USDREG.&#x20;
