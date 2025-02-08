@@ -10,11 +10,6 @@ RealT entretient une relation très étroite avec cette Communauté, une [DAO](.
 
 Vous trouverez dans les chapitres suivants, les principales fonctions pour lesquelles la Communauté a contribué.
 
-Les développeurs de ces applications ont : soit gardé la propriété de leurs applications, soit cédée celle-ci à une Communauté qui s'est créée :&#x20;
+Les développeurs de ces applications ont : soit gardé la propriété de leurs applications, soit cédée celle-ci à une Communauté qui s'est créée :
 
-* Site Web de la Communauté : [https://www.realt.community/](https://www.realt.community/)
-
-
-
-
-
+* Site Web de la Communauté : [https://www.realtoken.community/](https://www.realtoken.community/)
