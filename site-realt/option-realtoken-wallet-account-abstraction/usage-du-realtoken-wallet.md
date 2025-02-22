@@ -6,7 +6,7 @@ description: Ce qu'il contient et comment s'en servir..
 
 ## A partir du site Realt.co
 
-Dans sa première version, le _RealToken Wallet n'_&#x65;st accessible qu'au travers du site Realt.co et **que sur la blockchain Gnosis** (tout envoi de fond à cette adresse sur une autre blockchain sera inaccessible, voir  perdu!) \
+Dans sa première version, le _RealToken Wallet n'_&#x65;st accessible qu'au travers du site Realt.co et **que sur la blockchain Gnosis** (tout envoi de fond à cette adresse sur une autre blockchain sera inaccessible, voir perdu!) \
 \
 Vous accédez à son contenu, à partir de la page Portfolio du site :&#x20;
 
@@ -74,3 +74,9 @@ Puisque vous disposez de l'adresse de votre _RealToken Wallet,_ vous pouvez donc
 
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure>
+
+## Comment acheter des USDC pour votre Realtoken Wallet
+
+Pour acheter des Realtokens, vous pouvez soit utiliser votre CB, soit des cryptos (USDC). Ci-après une solution, pour alimenter simplement et gratuitement votre Realtoken Wallet en USDC :
+
+{% file src="../../.gitbook/assets/Achat USDC pour Realtoken Wallet.pdf" %}
