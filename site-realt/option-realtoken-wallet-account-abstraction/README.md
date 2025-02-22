@@ -28,7 +28,10 @@ Les prochains chapitres détaillent :
 
 * La création du "_RealToken Wallet_" : soit lors de l'ouverture d'un compte RealT, soit lors de la migration d'un compte _Walletless_,&#x20;
 * Les usages possibles du _Realtoken Wallet dans sa première version,_
+* La DApp  _RealToken Wallet_,
 * Un schéma de l'évolution des wallets supportant les comptes RealT ainsi qu'un tableur comparatif,
 * Une première mise à  jour  du _RealToken Wallet_ (alias v3),
-* La DApp  _RealToken Wallet_,
+* Et pour les plus curieux (et technique) : comment ça marche.
+
+
 
