@@ -13,7 +13,7 @@ Un message semblable apparait, lorsque vous vous connecter avec la [DApp _RealTo
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>messages lors de la migration</p></figcaption></figure>
 
-Une fois le nouveau Realtoken wallet créé, vous devez vous y connecter, choisir si vous souhaiter une double authentification (2FA), puis l'initialiser (cf description détaillée dans le chapitre création).
+Une fois le nouveau Realtoken wallet créé, vous devez vous y connecter, choisir si vous souhaitez une double authentification (2FA), puis l'initialiser (cf description détaillée dans le chapitre création).
 
 A l'issue de la migration, vous avez une nouvelle adresse (uniquement sur Gnosis) de _RealToken Wallet_ (la façon de s'y connecter restant inchangée)&#x20;
 
