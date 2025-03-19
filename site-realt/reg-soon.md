@@ -42,7 +42,7 @@ Vous pouvez retrouver l'ensemble des Soons qui vous ont été versés sur un wal
 
 La conversion des SOON en REG, est réalisée en deux étapes :
 
-* La première, réalisée par RealT le 19 Mars 2025,  qui va convertir vos tokens SOON en USDREG (1 pour 1). \
+* La première, réalisée par RealT le 19 Mars 2025,  va convertir vos tokens SOON en USDREG (1 pour 1). \
   Les USDREG sont un montant en $, qui vous est alloué et qui n'est convertible qu'en REG (qui seront créés à cette occasion).\
   Après cette étape le SOON ne seront plus utilisés (les tokens seront détruits).
 * La seconde étape sera réalisée par vous même (à partir du 19 mars 2025), en choisissant le moment où vous souhaitez convertir vos USDREG en REG (opération de "claim").\
