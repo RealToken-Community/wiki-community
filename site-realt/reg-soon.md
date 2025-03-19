@@ -40,13 +40,15 @@ Vous pouvez retrouver l'ensemble des Soons qui vous ont été versés sur un wal
 
 ## Conversion en REG
 
-La conversion des SOON en REG va se faire en deux étapes :
+La conversion des SOON en REG, est réalisée en deux étapes :
 
-* La première sera réalisée par RealT, qui va convertir vos tokens SOON en USDREG (1 pour 1). \
+* La première, réalisée par RealT le 19 Mars 2025,  qui va convertir vos tokens SOON en USDREG (1 pour 1). \
   Les USDREG sont un montant en $, qui vous est alloué et qui n'est convertible qu'en REG (qui seront créés à cette occasion).\
-  A l'issue de cette étape, les tokens SOON seront détruits.
-* La seconde étape sera réalisée par vous même, en choisissant le moment où vous souhaitez convertir vos USDREG en REG (opération de "claim").\
+  Après cette étape le SOON ne seront plus utilisés (les tokens seront détruits).
+* La seconde étape sera réalisée par vous même (à partir du 19 mars 2025), en choisissant le moment où vous souhaitez convertir vos USDREG en REG (opération de "claim").\
   La parité du REG étant variable, vous pourrez ainsi choisir le moment (et donc la parité) de la conversion. (pour un montant USDREG donné, vous aurez d'autant plus de REG que la parité du REG sera faible...et inversement).\
-  Pour ce faire, une application de claim sera disponible (comme celle pour claimer les REG de l'[Airdrop Genesis](../defi-realt/la-dao-et-son-reg.md)). Un fois connecté à l'application, avec le wallet qui possédait les tokens SOON : vous verrez le montant de USDREG qui vous est alloué et vous pourrez les claimer (en totalité uniquement). Les REG correspondants seront alors transférés sur le wallet qui a claim (voir sur un autre, si besoin).
+  Pour ce faire, une [application de claim](https://claim.realtoken.network/reg) est mis à disposition. \
+  Les premiers USDREG venant des SOON, sont attribués au le wallet qui est  déclaré ( le jour du lancement) pour la livraison des propriétés sur le site RealT.co.\
+  Une fois connecté à l'application avec ce wallet, vous verrez le montant d'USDREG qui vous est alloué et vous pourrez les claimer (en totalité uniquement). Les REG correspondants seront alors transférés sur le wallet qui a claim (voir sur un autre, si besoin).
 
-Par la suite, la conversion des frais RealT ne se fera plus en SOON mais directement en USDREG.&#x20;
+Après le lancement, la conversion des frais RealT ne se fera plus en SOON mais directement en USDREG, qui apparaitront sur l'application pour être claimés.
