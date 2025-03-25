@@ -14,7 +14,7 @@ Une procédure pour annuler totalement le bridge et vous faire restituer vos Rea
 
 Une fois réalisée, le statut de l'opération de Bridge sera "Recovered"
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 La restitution est un peu plus complexe dans le cas d'un brige de Gnosis vers Ethereum, qui nécessite un Claim :
 
