@@ -12,7 +12,7 @@
     * [Application "Realtoken Wallet"](site-realt/option-realtoken-wallet-account-abstraction/application-realtoken-wallet.md)
     * [Evolution des wallets pour les comptes RealT](site-realt/option-realtoken-wallet-account-abstraction/evolution-des-wallets-pour-les-comptes-realt.md)
     * [Comparatif entre les types de wallet](site-realt/option-realtoken-wallet-account-abstraction/comparatif-entre-les-types-de-wallet.md)
-    * [V3 du "RealToken Wallet"](site-realt/option-realtoken-wallet-account-abstraction/v3-du-realtoken-wallet.md)
+    * [V3 du smart contract](site-realt/option-realtoken-wallet-account-abstraction/v3-du-smart-contract.md)
     * [Le RealToken wallet, comment ça marche](site-realt/option-realtoken-wallet-account-abstraction/le-realtoken-wallet-comment-ca-marche.md)
   * [Accès en 2FA à votre compte](site-realt/acces-en-2fa-a-votre-compte.md)
   * [Acheter des RealTokens](site-realt/acheter-des-realtokens/README.md)

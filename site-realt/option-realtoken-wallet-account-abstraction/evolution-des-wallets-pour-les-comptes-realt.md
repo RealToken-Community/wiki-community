@@ -28,5 +28,5 @@ Le _RealToken Wallet_ présente l'avantage par rapport au _Private Wallet_ (wall
 
 [Un tableau synthétise et compare](comparatif-entre-les-types-de-wallet.md), les fonctions disponibles pour chacun des wallets. \
 \
-Pour construire plus rapidement et facilement le _RealToken Wallet,_ RealT utilise des composants d'autres sociétés (Web3Auth, Etherspot cf partie "[Comment ça marche](le-realtoken-wallet-comment-ca-marche.md)"). Ces composants évoluent, d'où l'évolution du _RealToken Wallet_ : [V3 du _RealToken Wallet_ ](v3-du-realtoken-wallet.md)
+Pour construire plus rapidement et facilement le _RealToken Wallet,_ RealT utilise des composants d'autres sociétés (Web3Auth, Etherspot cf partie "[Comment ça marche](le-realtoken-wallet-comment-ca-marche.md)"). Ces composants évoluent, d'où l'évolution du _RealToken Wallet_ : [V3 du _RealToken Wallet_ ](v3-du-smart-contract.md)
 
