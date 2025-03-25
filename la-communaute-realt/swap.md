@@ -35,7 +35,7 @@ Les sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne s
 
 ## Site de Ehpst (RealT rent tracker)
 
-[https://ehpst.duckdns.org/realt\_rent\_tracker/top\_market\_by\_yield](https://ehpst.duckdns.org/realt\_rent\_tracker/top\_market\_by\_yield)
+[https://ehpst.duckdns.org/realt\_rent\_tracker/top\_market\_by\_yield](https://ehpst.duckdns.org/realt_rent_tracker/top_market_by_yield)
 
 <figure><img src="../.gitbook/assets/image (129).png" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +43,7 @@ Les sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne s
 
 [https://yambyofferid.netlify.app/](https://yambyofferid.netlify.app/)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="317"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="317"><figcaption></figcaption></figure>
 
 ## L'ancien Dashboard Swapcat
 

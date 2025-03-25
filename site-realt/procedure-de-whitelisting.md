@@ -19,9 +19,9 @@ La démarche se fait sur le site de [RealT](https://realt.co/) (et est disponibl
     <figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 *   Indiquer les RealTokens que vous souhaitez whitelister (le maximum est passé en nov. 2024 de 7 tout les 3 jours à 14 par jour), puis Submit&#x20;
 
-    <figure><img src="../.gitbook/assets/image.png" alt="" width="510"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (7).png" alt="" width="510"><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt="" width="522"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="522"><figcaption></figcaption></figure>
 
 * N'apparaissent dans la liste, que les RealTokens que vous n'avez pas déjà whitelistés (et qui sont [whitelistables](limite-2000-holders.md) !).
 
@@ -34,4 +34,4 @@ La démarche se fait sur le site de [RealT](https://realt.co/) (et est disponibl
 
 Compter 1 à 2 jours, pour que votre demande soit executée.
 
-Le site communautaire suivant, vous permet de lister l'ensemble des RealTokens que vous avez whitelistés (en indiquant l'adresse de votre wallet) : [https://ehpst.duckdns.org/realt\_rent\_tracker/my\_whitelist\_status](https://ehpst.duckdns.org/realt\_rent\_tracker/my\_whitelist\_status)
+Le site communautaire suivant, vous permet de lister l'ensemble des RealTokens que vous avez whitelistés (en indiquant l'adresse de votre wallet) : [https://ehpst.duckdns.org/realt\_rent\_tracker/my\_whitelist\_status](https://ehpst.duckdns.org/realt_rent_tracker/my_whitelist_status)

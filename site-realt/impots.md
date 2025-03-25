@@ -9,16 +9,16 @@ En avril 2024 (et complété depuis), RealT a publié la communication suivante 
 
 Comme mentionné dasn l'article, fin mai 2024 une nouvelle version de l'état annuel 2023 a été mis à disposition avec la répartition : Dividende et Retour sur Capital
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Groupes de discussion entre investisseurs&#x20;
 
 * Un groupe avec des fiscalistes etc.. à vous de vous faire un avis sur leurs conseils : [https://t.me/fiscalitecryptofr](https://t.me/fiscalitecryptofr),
 * Groupes créés pour RealT, selon votre lieu de résidence
-  * [https://t.me/RealT\_FiscaliteFR](https://t.me/RealT\_FiscaliteFR),
-  * [https://t.me/RealT\_FiscaliteBE](https://t.me/RealT\_FiscaliteBE),
-  * [https://t.me/RealT\_FiscaliteCH](https://t.me/RealT\_FiscaliteCH),
-  * [https://t.me/RealT\_FiscaliteCA](https://t.me/RealT\_FiscaliteCA)
+  * [https://t.me/RealT\_FiscaliteFR](https://t.me/RealT_FiscaliteFR),
+  * [https://t.me/RealT\_FiscaliteBE](https://t.me/RealT_FiscaliteBE),
+  * [https://t.me/RealT\_FiscaliteCH](https://t.me/RealT_FiscaliteCH),
+  * [https://t.me/RealT\_FiscaliteCA](https://t.me/RealT_FiscaliteCA)
 
 {% hint style="warning" %}
 Ce ne sont pas des groupes RealT officiels, et le sérieux et la véracité des discussions ne peuvent pas remplacer les conseils d'un VRAI fiscaliste.

@@ -28,12 +28,12 @@ La révision annuelle des loyers, peut conduire le locataire à partir. Ce "turn
 Pendant les premières années (a cause du covid et par volonté) RealT a préféré une stabilité des locataires avec une augmentation modérée des loyers.\
 A l'été 2023 (période des renouvellement des baux), RealT à engagé un "rattrapage" avec des augmentations plus conséquentes. Le "turn-over" est alors bien plus significatif (15% des propriétés) avec une réduction voire abscence de loyers durant 2 à 4 mois.
 
-[Community Call du 11 juillet 2023](https://www.youtube.com/watch?v=huHRKAuqhkc\&ab\_channel=RealT) détaillant ce sujet.
+[Community Call du 11 juillet 2023](https://www.youtube.com/watch?v=huHRKAuqhkc\&ab_channel=RealT) détaillant ce sujet.
 
 Pour limiter les reventes des propriétés non louées, des "[frais de vacance](vendre-ses-realtokens.md)" ont été ajoutés par RealT sur ses rachats de Realtokens (conduisant à une baisse de la valeur de rachat sur le marché primaire et secondaire)
 
 **Exemple d'impact financier**, de l'absence de loyers : \
-&#x20;    Cas de [Troy](https://realt.co/product/1115-s-troy-st-chicago-il-60612#tab-title-financials\_tab), pour lequel pour lequel 3 appartements sur 7 sont vides.\
+&#x20;    Cas de [Troy](https://realt.co/product/1115-s-troy-st-chicago-il-60612#tab-title-financials_tab), pour lequel pour lequel 3 appartements sur 7 sont vides.\
 &#x20;    Les frais du Gestionnaire et de RealT sont réduits, puisque proportionnels au\
 &#x20;    loyer brut. Les autres frais restent inchangés.
 
@@ -42,4 +42,4 @@ Pour limiter les reventes des propriétés non louées, des "[frais de vacance](
 **Etat de vos locations :** \
 Sur le [Dashboard communautaire](https://dashboard.realt.community/), en indiquant votre wallet, vous pourrez voir le statut des locations de vos propriétés :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

@@ -14,4 +14,4 @@ Il existe même un agrégateur d'agrégateurs !, avec le [Meta-Aggregator](https
 
 Nota : Sur 1inch, le mode fusion est proposé par defaut (plus économique, mais plus lent). Sur la Gnosis chain, les frais étant minimes, il est préférable de le désactiver :
 
-<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1).png" alt="" width="551"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="551"><figcaption></figcaption></figure>
