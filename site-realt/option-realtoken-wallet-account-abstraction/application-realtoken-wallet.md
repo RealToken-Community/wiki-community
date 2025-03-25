@@ -95,9 +95,11 @@ A ceci près, que :&#x20;
 * que c'est lent ...\
   Attention : si vous tapez plusieurs fois sur une fonction RMM (pensant qu'elle n'a pas été prise en compte) ça fera plusieurs fois la transactions !...(certes, que vous pourrez ne pas la confirmer sur le wallet, et ainsi éviter les doublons..)
 
-La DApp _RealToken wallet_ est une application Web et pas une extension de navigateur comme MetaMask ou Rabby. Les actions sont donc moins fluides, mais cela devrait s'améliorer avec le temps .. \
-L'apport important de la **nouvelle version**, sur ce sujet, est le niveau de détail des fenêtre d'approbation lors d'une transaction. \
-Exemple d'un dépôt sur RMM&#x20;
+La DApp _RealToken wallet_ est une application Web et pas une extension de navigateur comme MetaMask ou Rabby. Les actions sont donc moins fluides, mais cela devrait s'améliorer avec le temps ..&#x20;
+
+\
+L'apport important de la **nouvelle version**, sur ce sujet, est le niveau de détail des fenêtres d'approbation lors d'une transaction. \
+Exemple lors d'un dépôt sur RMM :
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
