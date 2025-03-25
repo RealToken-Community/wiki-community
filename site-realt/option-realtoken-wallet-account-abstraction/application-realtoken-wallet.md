@@ -1,11 +1,11 @@
-# Application "RealToken Wallet"
+# Application "Realtoken Wallet"
 
 Avec votre _Realtoken Wallet,_ les actions possibles sur le site Realt.co sont limités (achat de nouveaux Realtoken, vente à RealT et transfert de vos fonds vers votre banque). \
 Pour utiliser toutes les applications du Web3 (qui s'accèdent avec un wallet), comme YAM RMM, .. , l'adresse de votre compte ne suffit pas (car votre _Realtoken wallet_ est un peu particulier, c'est un Abstract Account). \
 Un application Web a été créé par RealT pour cela  : [_https://wallet.realtoken.network/_](https://wallet.realtoken.network/)\
 _(_&#x63;ette application est un peu l'équivalent de Metamask ou Rabby, pour un wallet classique).
 
-## Connexion avec un social login
+## Connexion avec un "social login"
 
 Pour vous connecter, à l'application _Realtoken wallet,_ vous devez utiliser le social login (Compte : Google, Facebook, Twitch ou Discord) que vous avez indiqué lors de la création de votre _Realtoken wallet_.&#x20;
 
@@ -103,6 +103,13 @@ Exemple lors d'un dépôt sur RMM :
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
+#### Utilisation du canal WalletConnect de Rabby
+
+La solution WalletConnect est parfois un peu "capricieuse".  [Rabby](../../portefeuille/rabby.md) à mis en place une solution WalletConnect qui semble plus stable.\
+Tuto pour utiliser ce moyen&#x20;
+
+{% file src="../../.gitbook/assets/WC2 Rabby.pdf" %}
+
 ## Vote DAO
 
 Comme toute DApp l'application de vote (Tally) est accessible par WalletConnect.\
@@ -119,9 +126,16 @@ Il vous suffira :&#x20;
     <figure><img src="../../.gitbook/assets/image (306).png" alt="" width="256"><figcaption></figcaption></figure>
 * et enfin de voter.
 
-## Utilisation du canal WalletConnect de Rabby
+## Paramètres
 
-La solution WalletConnect est parfois un peu "capricieuse".  [Rabby](../../portefeuille/rabby.md) à mis en place une solution WalletConnect qui semble plus stable.\
-Tuto pour utiliser ce moyen&#x20;
+Le troisième onglet (en haut à gauche), permet l'activations de certaines options.
 
-{% file src="../../.gitbook/assets/WC2 Rabby.pdf" %}
+#### Tokens personnalisés
+
+Lorsqu'un token ne s'affiche pas dans votre liste, vous pouvez l'ajouter manuellement
+
+<figure><img src="../../.gitbook/assets/image (318).png" alt="" width="563"><figcaption></figcaption></figure>
+
+#### Carnet d'adresses
+
+...
