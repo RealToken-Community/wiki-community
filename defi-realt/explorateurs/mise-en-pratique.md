@@ -30,7 +30,7 @@ Pour l'exemple, nous allons prendre un des[ gros wallet RealT](../../la-communau
 
 ## Analyse d'une transaction
 
-En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour une transaction (qui est ici un achat de RealToken sur  [YAM](../dex-swap/yam.md)) :&#x20;
+En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour une transaction (qui est ici un achat de RealToken sur [YAM](../dex-swap/yam.md)) :
 
 <figure><img src="../../.gitbook/assets/image (143).png" alt=""><figcaption></figcaption></figure>
 
@@ -38,16 +38,16 @@ En cliquant sur le Transaction Hash, apparait le niveau de détail suivant pour 
 2. Statut de la transaction,
 3. Adresse du portefeuille émetteur de la transaction,
 4. Adresse du smart-contract qui a traité la transaction (YAM),
-5. Détail des transferts, ici deux :&#x20;
+5. Détail des transferts, ici deux :
    * retrait de 51,5 USDC du portefeuille,
    * ajout d'un RealToken vers le portefeuille.
 6. Frais de la transaction.
 
 <details>
 
-<summary>Détails complémentaires </summary>
+<summary>Détails complémentaires</summary>
 
-![](<../../.gitbook/assets/image (206).png>)
+<img src="../../.gitbook/assets/image (206).png" alt="" data-size="original">
 
 1. Accessible en ouvrant la flèche en bas de la page,
 2. Fonction (Méthode) invoquée, lors de la transaction, sur le smart-contrat (YAM : BuywithPermit)
@@ -71,13 +71,13 @@ Prenons comme exemple le smart-contrat de la propriété, évoquée dans le chap
 3. Sélection pour lire les informations du contrat,
 4. Informations du contrat interrogeable (en lecture),\
    Par exemple, la quantité de ce token dans un\
-   &#x20;wallet (celui du chapitre précédent) : \
+   wallet (celui du chapitre précédent) :\
    ![](<../../.gitbook/assets/image (149).png>)
 5. Sélection pour modifier le contrat,\
    Il faudra alors vous connecter avec un wallet, pour approuver les modifications.
 6. Adresse des RealTokens correspondants à cette propriété
 
-Concernant le smart-contract du Realtoken :&#x20;
+Concernant le smart-contract du Realtoken :
 
 <figure><img src="../../.gitbook/assets/image (162).png" alt=""><figcaption></figcaption></figure>
 
@@ -85,7 +85,3 @@ Concernant le smart-contract du Realtoken :&#x20;
 2. Onglet pour accéder aux informations sur les wallets qui possèdent ce RealToken,
 3. Nombre de wallet qui détiennent ce RealToken,
 4. Adresse des wallets qui détiennent ce RealToken avec la quantité.
-
-## Analyse d'un Token
-
-Par exemple, pour le token SOON : pour voir [l'historique de vos versements](broken-reference).

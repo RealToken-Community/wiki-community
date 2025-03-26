@@ -49,3 +49,8 @@ Complément au guide pratique ci-dessus , à l'occasion des premiers votes :&#x2
 {% file src="../.gitbook/assets/Premiers votes DAO v3.pdf" %}
 
 A l'issue de ces premiers votes, le [wiki de la DAO](https://wiki.realtoken.community/fr/home) a été complété d'un chapitre "La vie de la DAO" pour résumer les dernières évolutions.
+
+## Réclamation des REG distribués
+
+Chaque Realtoken permet d'obtenir des REG, dans certaines conditions : [Chapitre correspondant](../site-realt/reg-soon.md).
+
