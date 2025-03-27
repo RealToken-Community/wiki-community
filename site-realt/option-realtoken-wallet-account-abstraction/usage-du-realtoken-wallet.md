@@ -40,7 +40,8 @@ A l'issue de cette commande, vous recevrez dans votre messagerie (celle identifi
 
 <figure><img src="../../.gitbook/assets/image (294).png" alt="" width="352"><figcaption></figcaption></figure>
 
-En cliquant sur rectangle bleu du mail (et après avoir ouvert l'accès à votre compte sur le site Realt.co), vous pourrez enchainer le process de paiement sur le site Realt.co.
+Avant de cliquer sur le bouton bleu ci-dessus, il est préférable au préalable : d'ouvrir un autre onglet sur votre navigateur et de vous connecter à votre compte Realt.co (sinon, vous devrez recliquer sur le bouton bleu après vous être connecté au site).\
+La fenêtre ci-dessous apparaitra et vous pourrez enchainer le process de paiement, sur le site Realt.co.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
