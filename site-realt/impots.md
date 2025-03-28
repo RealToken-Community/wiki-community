@@ -1,15 +1,27 @@
 # Impots et Taxes
 
-Il faut savoir que RealT n'a pas vocation à donner des conseils fiscaux (ils n'ont pas le droit !). Rien ne remplacera le conseil d'un expert fiscaliste,&#x20;
+En préambule :  RealT ne peut donner des conseils fiscaux (ils n'ont pas le droit !). Rien ne remplacera donc, le conseil d'un expert fiscaliste.
 
 ## Taxes sur les investissements RealT
 
 En avril 2024 (et complété depuis), RealT a publié la communication suivante :\
 [https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/](https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/)
 
-Comme mentionné dasn l'article, fin mai 2024 une nouvelle version de l'état annuel 2023 a été mis à disposition avec la répartition : Dividende et Retour sur Capital
+## Etat annuel
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+Le _Rent Distribution Report_ annuel est disponible dans la section document du site realt.co :
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="513"><figcaption></figcaption></figure>
+
+Le document s'enrichi d'année en année. La version disponible en mars 2025 pour les revenus 2024, détaille propriété par propriété : les Dividendes, les Retours sur capital et les Intérêts d'emprunt.
+
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="476"><figcaption></figcaption></figure>
+
+L'ensemble des informations, collectées par RealT sur les blockchains, sont sommés pour donner :&#x20;
+
+* Le montant total de vos actifs (Total Asset Value) en $ en fin d'année,
+* Le nombre de tokens détenus (Total Tokens Held) en fin d'année,
+* Les revenus générés dans l'année (Income Generated through Investment) en USDC
 
 ## Groupes de discussion entre investisseurs&#x20;
 
@@ -23,18 +35,3 @@ Comme mentionné dasn l'article, fin mai 2024 une nouvelle version de l'état an
 {% hint style="warning" %}
 Ce ne sont pas des groupes RealT officiels, et le sérieux et la véracité des discussions ne peuvent pas remplacer les conseils d'un VRAI fiscaliste.
 {% endhint %}
-
-## Etat annuel
-
-Un état récapitulatif est disponible dans la partie document du site RealT.
-
-<figure><img src="../.gitbook/assets/image (145).png" alt=""><figcaption></figcaption></figure>
-
-RealT collecte sur les blockchains, les informations suivantes :&#x20;
-
-* Le montant total de vos actifs (Total Asset Value) en $ en fin d'année,
-* Le nombre de tokens détenus (Total Tokens Held) en fin d'année,
-* Les revenus générés dans l'année (Income Generated through Investment) en USDC
-*   ainsi que le détail pour chacun des Realtoken detenus :&#x20;
-
-    <figure><img src="../.gitbook/assets/image (266).png" alt="" width="563"><figcaption></figcaption></figure>
