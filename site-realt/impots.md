@@ -17,7 +17,7 @@ Le document s'enrichi d'année en année. La version disponible en mars 2025 pou
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="476"><figcaption></figcaption></figure>
 
-L'ensemble des informations, collectées par RealT sur les blockchains, sont sommés pour donner :&#x20;
+L'ensemble des informations, collectées par RealT sur les blockchains, sont sommées pour donner :&#x20;
 
 * Le montant total de vos actifs (Total Asset Value) en $ en fin d'année,
 * Le nombre de tokens détenus (Total Tokens Held) en fin d'année,
