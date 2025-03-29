@@ -38,13 +38,14 @@ description: Synthèse des principaux liens...
 
 {% tab title="Sécurité" %}
 * Cold Wallet : [Ledger](https://www.ledger.com/fr), [Satoship](https://satochip.io/?lang=fr), [Trezor](https://trezor.io/),
+* Multi-Signatures Wallet : [Safe{wallet}](https://app.safe.global/welcome)
 * Contrôle des Allowance (autorisation de dépense) : [Revoke](https://revoke.cash/)
 * Alerte [faux RealToken](https://realt.co/warning-malicious-activity-on-swap-cat-involving-fake-realtokens/),
 {% endtab %}
 
 {% tab title="Communauté" %}
-* [Dashboard](https://dashboard.realtoken.community/), [API](https://api.realtoken.community/), [GitHub](https://github.com/RealToken-Community), [Transfers groupés](https://transfer.realtoken.community/transferTokens), [Map](https://map.preprod.realtoken.community/?latlng=%5B32%2C-83%5D\&zoom=4), [Levinswap](https://app.levinswap.realtoken.community/#/swap), [Site web](https://www.realtoken.community/)
-* DAO : [Wiki](https://wiki.realtoken.community/fr/home), [Forum](https://forum.realtoken.community/), [Vote](https://www.tally.xyz/gov/realtoken-ecosystem-governance), [Incentive](https://vote.realtoken.network/dao/incentive),
+* [Dashboard](https://dashboard.realtoken.community/), [API](https://api.realtoken.community/), [GitHub](https://github.com/RealToken-Community), [Transfers groupés](https://transfer.realtoken.community/transferTokens), [Map](https://rpm.mighte.app/?ll=32x-83\&z=4), [Levinswap](https://app.levinswap.realtoken.community/#/swap), [Site web](https://www.realtoken.community/)
+* DAO : [Wiki](https://wiki.realtoken.community/fr/home), [Forum](https://forum.realtoken.community/), [Vote](https://www.tally.xyz/gov/realtoken-ecosystem-governance), [Incentive](https://vote.realtoken.network/dao/incentive), [Claim](https://claim.realtoken.network/reg)
 * Site Web [crypT'Alloc](https://www.cryptalloc.com/realtlab/),
 * Site Web [E](https://ehpst.duckdns.org/realt_rent_tracker/)[hpst](https://ehpst.duckdns.org/realt_rent_tracker/)
 * Site Web [Pit'Swap](https://realt.pitswap.site/), [Pit's BI](https://realt.pitsbi.io/stats)
