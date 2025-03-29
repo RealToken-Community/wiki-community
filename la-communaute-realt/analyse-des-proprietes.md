@@ -4,11 +4,8 @@
 
 A l'aide du site communautaire suivant :&#x20;
 
-* https://dashboard.realt.community/map (plus disponible),
-* [https://realt1234.chickenkiller.com/](https://realt1234.chickenkiller.com/) : fonctionne juste avec le display de tous les RealTokens,&#x20;
-* [https://rpm.mighte.app/?latlng=%5B32%2C-83%5D\&zoom=4](https://rpm.mighte.app/?latlng=%5B32%2C-83%5D\&zoom=4) fonctionne pour des wallets spécifiques&#x20;
-
-<figure><img src="../.gitbook/assets/image (319).png" alt=""><figcaption></figcaption></figure>
+* [https://rpm.mighte.app/?ll=32x-83\&z=4](https://rpm.mighte.app/?ll=32x-83\&z=4)&#x20;
+* [https://realt.pitsbi.io/map](https://realt.pitsbi.io/map)
 
 <figure><img src="../.gitbook/assets/image (316).png" alt="" width="563"><figcaption></figcaption></figure>
 
