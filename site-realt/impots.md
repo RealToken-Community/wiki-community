@@ -13,7 +13,7 @@ Le _Rent Distribution Report_ annuel est disponible dans la section document du 
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="513"><figcaption></figcaption></figure>
 
-Le document s'enrichi d'année en année. La version disponible en mars 2025 pour les revenus 2024, détaille propriété par propriété : les Dividendes, les Retours sur capital et les Intérêts d'emprunt.
+Le document s'enrichi d'année en année. La version disponible en mars 2025 pour les revenus 2024, détaille propriété par propriété : les Dividendes, les Retours sur capital, les Intérêts d'emprunt ainsi que les Achats 2024 sur le site RealT (et uniquement là).
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="476"><figcaption></figcaption></figure>
 
