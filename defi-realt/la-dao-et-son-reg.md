@@ -24,6 +24,11 @@ Pour comprendre ce que sont les Pools de liquidité et comment s'en servir (pour
 
 {% file src="../.gitbook/assets/REG et Pool de liquidité v6.pdf" %}
 
+Vidéos de la communauté sur ce sujet :&#x20;
+
+* [https://www.youtube.com/watch?v=WXHNrvBEhZ8\&list=PLYX0HgO4U4-pmqFryk8Ad2jyeTO90FuUq\&ab\_channel=EzSwim](https://www.youtube.com/watch?v=WXHNrvBEhZ8\&list=PLYX0HgO4U4-pmqFryk8Ad2jyeTO90FuUq\&ab_channel=EzSwim)
+* [https://www.youtube.com/watch?v=TqWsw05L6-Q\&ab\_channel=UnPeuMoinsPauvre](https://www.youtube.com/watch?v=TqWsw05L6-Q\&ab_channel=UnPeuMoinsPauvre)
+
 ## Réseaux sociaux associés&#x20;
 
 * Telegram (le plus actif) : [pour les échanges](https://t.me/realtokendao_official) , [pour les annonces](https://t.me/realtokendao)
