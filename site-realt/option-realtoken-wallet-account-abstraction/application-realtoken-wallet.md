@@ -9,7 +9,7 @@ _(_&#x63;ette application est un peu l'équivalent de Metamask ou Rabby, pour un
 
 Pour vous connecter, à l'application _Realtoken wallet,_ vous devez utiliser le social login (Compte : Google, Facebook, Twitch ou Discord) que vous avez indiqué lors de la création de votre _Realtoken wallet_.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Ne pas utiliser la fonction "Connexions avancées", qui ne sert que dans des cas très particuliers. Sinon vous risquez d'avoir ce genre de message d'erreur :&#x20;
@@ -21,7 +21,7 @@ Cette application est réservée au _Realtoken Wallet_, vous ne pouvez pas (simp
 
 Exemple de connexion, avec un compte Google :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Si vous avez perdu le social login de votre _Realtoken Wallet_, vous devez passer par le support de RealT (la bulle orange sur le site realt.co), afin que vous puissiez le réinitialiser.
 
@@ -140,7 +140,7 @@ Lorsqu'un token ne s'affiche pas dans votre liste, vous pouvez l'ajouter manuell
 
 Si vous souhaitez mémoriser une adresse de wallet destinataire, qui sera sélectable lors d'un envoi :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Les tokens et adresses personnalisés sont stockés sur votre appareil/navigateur. Vous ne les retrouverez donc pas, si vous changer d'appareil/navigateur.
