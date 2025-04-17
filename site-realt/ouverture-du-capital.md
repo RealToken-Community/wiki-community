@@ -12,10 +12,12 @@ A cette occasion, RealT a publié plusieurs articles :
 
 Un Community Call spécifique a été organisé en 3 langues :
 
-* [Version FR](https://www.youtube.com/watch?v=SZMORPCS0rY\&ab\_channel=RealT),
+* [Version FR](https://www.youtube.com/watch?v=SZMORPCS0rY\&ab_channel=RealT),
 * [Résumé communautaire](https://t.me/RtCCR/182).
 
 Fiche de l’Equity Token correspondant : [RWA Holdings](https://realt.co/product/the-realt-raise-token/)&#x20;
+
+Adresse du token : [https://gnosisscan.io/token/0x0675e8f4a52ea6c845cb6427af03616a2af42170](https://gnosisscan.io/token/0x0675e8f4a52ea6c845cb6427af03616a2af42170)
 
 Il n'est (actuellement) pas prévu de nouvelles ventes de ce token. Il n'est donc maintenant disponible à l'achat que sur le second marché (YAM, DEX).
 
