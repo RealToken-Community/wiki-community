@@ -1,4 +1,4 @@
-# V3 du "RealToken Wallet"
+# V3 du smart contract
 
 Realt utilise des bibliothèques de tiers, pour mettre en place le _RealToken Wallet_. Ces bibliothèques sont sujettes à évolutions, ce qui conduit RealT à mettre à jour le _RealToken Wallet._\
 Début Septembre 2024, la version 3 a été mis à disposition, ainsi qu'une [application pour transférer](application-realtoken-wallet.md) les tokens de l'ancien _RealToken Wallet_ vers le nouveau.
@@ -7,11 +7,11 @@ Début Septembre 2024, la version 3 a été mis à disposition, ainsi qu'une [ap
 
 Un message semblable apparait, lorsque vous vous connecter avec la [DApp _RealToken wallet_](application-realtoken-wallet.md)_._
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="223"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="223"><figcaption></figcaption></figure>
 
 ## Evolution  de l'ancien _RealToken Wallet_ (V1, v2) vers la V3
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>messages lors de la migration</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>messages lors de la migration</p></figcaption></figure>
 
 Une fois le nouveau Realtoken wallet créé, vous devez vous y connecter, choisir si vous souhaitez une double authentification (2FA), puis l'initialiser (cf description détaillée dans le chapitre création).
 
