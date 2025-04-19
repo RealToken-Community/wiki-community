@@ -8,7 +8,7 @@ Le 16 Avril 2025, RealT a annoncé la création d'un nouveau token le REUSD qui 
 Les différents cas d'usage du REUSD sont :&#x20;
 
 * Achat, sur Realt.co, de nouveaux Realtokens (Request Finance acceptera ce token), chaque REUSD valant 1$ d'achat.
-* Echanger, sur YAM pour des Pool de liquidité, à la valeur de marché (variable),
+* Echanger, sur YAM ou Pool de liquidité, à la valeur de marché (variable),
 * Revente, sur Realt.co, dans les conditions habituelles de rachat (< 2K$ par semaine, délais 10 jours) sans frais.
 
 &#x20;Documents publiés par RealT lors de l'annonce :
