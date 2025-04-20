@@ -14,7 +14,7 @@ Des frais de 3 % sont prélevés sur la vente.
 
 Article de la base de support RealT [sur le sujet](https://faq.realt.co/en/articles/5703186-sending-your-realtokens-back-to-realt-using-the-realt-wallet)
 
-**Frais de vacance**&#x20;
+**Frais de vacance (non occupation)**&#x20;
 
 Depuis le 11 juillet 2023, dans le cas particulier de propriétés sans locataire : des frais complémentaires sont appliqués par RealT sur leurs rachats (5%, au prorata de la proportion non louée)
 
