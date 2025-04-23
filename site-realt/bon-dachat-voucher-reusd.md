@@ -2,7 +2,7 @@
 
 Suite à la vente de nouveaux Realtokens, RealT peut rencontrer des problèmes pour conclure l'achat définitif de la propriété correspondante, au point de devoir annuler la vente !.
 
-Jusqu'en avril 2025, lorsque cela se produisait RealT proposait un échange avec une propriété semblable. Cet échange pouvait mettre plusieurs mois a être mis en place, privant les investisseurs des fonds correspondants durant la période (et engendrait des frais continue chez RealT).
+Jusqu'en avril 2025, lorsque cela se produisait RealT proposait un échange avec une propriété semblable. Cet échange pouvait mettre plusieurs mois a être mis en place, privant les investisseurs des fonds correspondants durant la période (et engendrait des frais récurrents chez RealT).
 
 Le 10 Avril 2025, RealT a annoncé la création d'un nouveau token le REUSD qui est un bon d'achat (voucher) que  l'investisseur recevra rapidement en cas de vente annulée. \
 Les différents cas d'usage du REUSD sont :&#x20;
