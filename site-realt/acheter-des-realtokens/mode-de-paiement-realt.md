@@ -26,4 +26,8 @@ Depuis Juillet 2022, RealT applique des frais :
 Du 15 Février 2023 au 1er Octobre 2023, RealT a obtenu de son opérateur la gratuité des frais (prévue initialement pour 3 mois). Depuis RealT prend la moitié des frais à sa charge : 1,5% restant à la charge de l'acheteur.
 {% endhint %}
 
+{% hint style="success" %}
+d' Aout 2024 à Avril 2025 , l'usage des cartes Visa n'a pas été possible, suite à de nouvelles contraintes administratives appliquées par Visa.
+{% endhint %}
+
 Pensez aux frais de change (selon votre banque) avant d'acheter avec une C.B.
