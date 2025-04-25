@@ -7,7 +7,10 @@ Jusqu'en avril 2025, lorsque cela se produisait RealT proposait un échange avec
 Le 10 Avril 2025, RealT a annoncé la création d'un nouveau token le REUSD qui est un bon d'achat (voucher) que  l'investisseur recevra rapidement en cas de vente annulée. \
 Les différents cas d'usage du REUSD sont :&#x20;
 
-* Achat, sur [Realt.co](https://realt.co/), de nouveaux Realtokens ([Request Finance](acheter-des-realtokens/paiement-avec-request-finance.md) acceptera ce token), chaque REUSD valant 1$ d'achat.
+*   Achat, sur [Realt.co](https://realt.co/), de nouveaux Realtokens ([Request Finance](acheter-des-realtokens/paiement-avec-request-finance.md) acceptera ce token), chaque REUSD valant 1$ d'achat.\
+
+
+    <figure><img src="../.gitbook/assets/image (320).png" alt="" width="241"><figcaption></figcaption></figure>
 * Echanger, sur [YAM](../defi-realt/dex-swap/yam.md) ou Pool de liquidité, à la valeur de marché (variable),
 * [Revente](vendre-ses-realtokens.md), sur [Realt.co](https://realt.co/), dans les conditions habituelles de rachat (< 2K$ par semaine, délais 10 jours) sans frais.\
 
