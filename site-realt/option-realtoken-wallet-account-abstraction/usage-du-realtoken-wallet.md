@@ -49,6 +49,8 @@ Pour autoriser la transaction, il vous sera demandé de vous connecter à votre 
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
+Si vous avez activé le MFA/2FA et que vous rencontrez des soucis : [page spécifique](des-soucis-avec-le-mfa-ou-2fa-...md)
+
 Une fois connecté à votre _Realtoken Wallet_, vous pourrez ordonner le paiement :&#x20;
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>

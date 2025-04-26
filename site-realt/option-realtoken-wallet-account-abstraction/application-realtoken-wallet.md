@@ -25,12 +25,16 @@ Exemple de connexion, avec un compte Google :&#x20;
 
 Si vous avez perdu le social login de votre _Realtoken Wallet_, vous devez passer par le support de RealT (la bulle orange sur le site realt.co), afin que vous puissiez le réinitialiser.
 
+Si vous avez activé le MFA/2FA et que vous rencontrez des soucis : [page spécifique](des-soucis-avec-le-mfa-ou-2fa-...md)
+
+## Principales fonctions de l'application
+
 Dans sa première version (Sept 2024), l'application ne disposait que de trois fonctions : le transfert de tokens, la connexion via WalletConnect et le vote DAO.\
 En mars 2025, une nouvelle version de l'application a été  déployée, que nous allons détailler dans les chapitres suivants. &#x20;
 
 <figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
 
-## Portefeuille
+### Portefeuille
 
 Le premier onglet (en haut à droite) donne une vue globale de votre wallet (image ci-dessus)\
 Le second onglet, apporte une vue plus détaillée du contenu de votre _Realtoken Wallet (image ci-dessous)_&#x20;
@@ -61,7 +65,7 @@ Nota : ça peut être parfois un peu long ...Soyez patient !
     <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 * Dans la fenêtre qui s'est ouverte, rechercher la partie "ERC20 Tokens transferred". Vous voyez alors l'adresse source (From) et cible (To) du transfert, ainsi que le token et sa quantité (For).
 
-## Connexion WalletConnect
+### Connexion WalletConnect
 
 WalletConnect est un service qui permet de relier de façon sécurisée (cryptée)  un wallet à une DApp (Application Décentralisée, sur une blockchain) pour signer des transactions.\
 Vous avez peut être déjà utilisé ce service pour connecter un wallet mobile à une DApp sur votre navigateur PC ou votre mobile.\
