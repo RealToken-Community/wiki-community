@@ -107,6 +107,20 @@ Exemple lors d'un dépôt sur RMM :
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
 
+#### Premier dépôt d'USDC sur RMM
+
+Lorsque vous déposer pour la première fois des USDC sur RMM, veiller a être en mode Transaction et non Message signé :&#x20;
+
+<figure><img src="../../.gitbook/assets/image (327).png" alt="" width="563"><figcaption></figcaption></figure>
+
+La version actuelle de WalletConnect du Realtoken Wallet ne supporte pas les transactions en [mode permit](../../securite/controle-des-autorisations.md) (avec signature). \
+\
+Le problème ne se produit pas : \
+
+
+* avec un dépot en XDAI, car le XDAI ne supporte pas le mode Permit (l'option "Signed message" ne sera alors pas proposée)
+* lors des dépôts d'USDC suivants, car lors du premier dépôt vous donnez un accès "illimited" du RMM à vos USDC.
+
 #### Utilisation du canal WalletConnect de Rabby
 
 La solution WalletConnect est parfois un peu "capricieuse".  [Rabby](../../portefeuille/rabby.md) à mis en place une solution WalletConnect qui semble plus stable.\

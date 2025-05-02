@@ -37,9 +37,9 @@ Référence sur le site [MetaMask](https://support.metamask.io/hc/en-us/articles
 
 ## Approbation par signature (Permit)
 
-Un nouveau mode d'approbation (EIP-2612 ou Permit) se déploie progressivement : il est déjà utilisé sur le YAM et le sera sur RMM v3.&#x20;
+Un nouveau mode d'approbation (EIP-2612 ou Permit) se déploie progressivement :
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="291"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (325).png" alt="" width="563"><figcaption></figcaption></figure>
 
 L'approbation est remplacée par une signature qui ne nécessite pas de transaction (donc pas de frais !)
 
@@ -53,5 +53,5 @@ Cette solution est par ailleurs plus sécurisée, car :
 
 Ce mode d'approbation :
 
-* n'est possible que pour les tokens (et les protefeuilles) qui le supporte : soit l'USDC, mais pas encore de WXDAI.
+* n'est possible que pour les tokens (et les portefeuilles) qui le supporte : soit l'USDC, mais pas encore de WXDAI.
 * ne sera pas proposé (/accessible), si vous avez déjà fait une approbation "illimitée" (cf option 1, du chapitre ci-dessus) pour cette dAPP et ce token.
