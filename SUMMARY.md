@@ -24,7 +24,7 @@
     * [Signature du contrat RealT](site-realt/acheter-des-realtokens/signature-du-contrat-realt.md)
     * [Statut de vos commandes](site-realt/acheter-des-realtokens/statut-de-vos-commandes.md)
     * [Propriétés vendues en Reg.D et Reg.S ?](site-realt/acheter-des-realtokens/proprietes-vendues-en-reg.d-et-reg.s.md)
-  * [Type de RealTokens](site-realt/type-de-realtokens.md)
+  * [Types de RealTokens](site-realt/types-de-realtokens.md)
   * [Email hebdo de vos loyers](site-realt/rapport-hebdo-des-loyers/README.md)
     * [Procédure de Claim sur Ethereum](site-realt/rapport-hebdo-des-loyers/sur-ethereum.md)
   * [Dossier de propriété](site-realt/dossier-de-propriete/README.md)
