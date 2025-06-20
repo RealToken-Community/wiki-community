@@ -9,9 +9,10 @@ Deux modes de paiement sont disponibles, pour vos achats sur le site RealT :
 ## Avec des Crypto
 
 Ce mode de paiement utilise les services de Request Finance. \
-En Avril 2024, de nombreuses Crypto et chaines ont été ajoutées à ce service (et le paiement par Coinbase Commerce retiré) :&#x20;
+En Avril 2024, de nombreuses Crypto et chaines ont été ajoutées à ce service (et le paiement par Coinbase Commerce retiré).\
+En juin 2025 : le paiement avec des ["bons d'achat" REUSD](../bon-dachat-voucher-reusd.md) a été ajouté  :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (329).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Par Carte Bancaire&#x20;
 
