@@ -19,15 +19,9 @@ RealT met à disposition de nombreuses informations sur chaque RealToken, via un
 
 A partir de cette API, un membre de la communauté met à disposition dans un google sheet l'ensemble des informations disponibles (soit plus de 150 par RealToken !) ainsi qu'un nouvel onglet pour les informations de réévaluation :\
 \
-[https://docs.google.com/spreadsheets/d/1B\_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY](https://docs.google.com/spreadsheets/d/1B\_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY/edit?usp=sharing)\
+[https://docs.google.com/spreadsheets/d/1B\_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY](https://docs.google.com/spreadsheets/d/1B_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY/edit?usp=sharing)\
 \
 (la date de la dernière mise à jour de l'API figure en colonne FC "lastUpdate" de l'onglet RealToken ou BF pour l'onglet avec maj Automatique)
-
-## Version en ligne,
-
-Avec le site suivant : [https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/#/token) , qui donne en plus accès aux dernières transactions YAM sur chaque RealToken
-
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
 ## via l'API :
 
