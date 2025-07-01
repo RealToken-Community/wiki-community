@@ -14,10 +14,10 @@ Le transfert se fait en 4 étapes :
     <figure><img src="../.gitbook/assets/image (7) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 2.  Entrer l’adresse destinataire, puis faite Suivant..
 
-    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="420"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="420"><figcaption></figcaption></figure>
 3.  Sélectionner les Tokens que vous souhaitez transférer  (Nota : sur la droite apparaît la quantité déjà présente sur le wallet cible), puis faite Suivant..
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 
 4.  Confirmer le transfert, pour chacun des Tokens. (Nota : Si vous ne souhaitez pas transférer la totalité de ce qui est sur le wallet source, aller dans « Modifier » en haut à gauche de chaque confirmation MetaMask
