@@ -50,10 +50,10 @@ description: Synthèse des principaux liens...
 * Site Web [E](https://ehpst.duckdns.org/realt_rent_tracker/)[hpst](https://ehpst.duckdns.org/realt_rent_tracker/)
 * Site Web [Pit'Swap](https://realt.pitswap.site/), [Pit's BI](https://realt.pitsbi.io/stats)
 * Bot Telegram : [Realt OTC](https://t.me/RealTokenOTC)
-* Site Web [Jeremy](https://yam.jycssu.fr/#/),
 * Site Web [Seb](https://realt1234.chickenkiller.com/),
 * Site d'Alexis : [RealT Yam Offers](https://t.me/realtyamoffers), [YamByOfferID](https://yambyofferid.netlify.app/)
-* [Dune](https://dune.com/k06a/RealToken),
+
+
 {% endtab %}
 {% endtabs %}
 
