@@ -16,13 +16,13 @@ Onglet My Account, puis Portfolio, partie Properties :
 
 particulièrement adaptés aux spécificités des RealToken
 
-*   Site Web : (version depuis Juillet 2023) [https://dashboard.realt.community/](https://dashboard.realt.community/)
+*   Site Web : (version depuis Juillet 2023) : [https://dashboard.realtoken.community/](https://dashboard.realtoken.community/)
 
     <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
     Nota : Le dashboard ne tient pas compte de la date de début de paiement des loyers.\
 
-* Feuille Google Sheet : [https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K\_CR-dcuTQQaWub2x7BC5rAYwY/](https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K\_CR-dcuTQQaWub2x7BC5rAYwY/)\
+* Feuille Google Sheet : [https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K\_CR-dcuTQQaWub2x7BC5rAYwY/](https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K_CR-dcuTQQaWub2x7BC5rAYwY/)\
   Vous pouvez l'adapter à votre propre portefeuille, pour cela il suffit :\
   \- d'en faire une copie (onglet Fichiers, puis créer une copie),\
   \- remplacer chacune des lignes préexistantes, par :\
@@ -32,7 +32,7 @@ particulièrement adaptés aux spécificités des RealToken
   \- vous effacer ou copier des lignes, pour ajuster au nombre de propriété possédé.\
   Ce tableur se mettra à jour automatiquement et restera privé (puisque sur votre google drive).\
 
-*   Site [Ehpst](https://ehpst.duckdns.org/realt\_rent\_tracker/whitelist\_status) : avec possibilité de lister les propriétés sur lesquelles vous êtes Whitelisté.
+*   Site [Ehpst](https://ehpst.duckdns.org/realt_rent_tracker/whitelist_status) : avec possibilité de lister les propriétés sur lesquelles vous êtes Whitelisté.
 
     <figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>
 *   Site [CrypT'Alloc](https://www.cryptalloc.com/realtlab/) avec l'onglet "My Collection"\
