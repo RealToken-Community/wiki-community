@@ -18,12 +18,6 @@ A partir du site communautaire : [https://www.cryptalloc.com/realtlab/](https://
 
 <figure><img src="../.gitbook/assets/image (97).png" alt=""><figcaption></figcaption></figure>
 
-## Site de Jeremy
-
-[https://yam.jycssu.fr/#/token](https://yam.jycssu.fr/#/token)
-
-<figure><img src="../.gitbook/assets/image (191).png" alt=""><figcaption></figcaption></figure>
-
 ## RealT rent tracker (Site de Ehpst)
 
 [https://ehpst.duckdns.org/realt\_rent\_tracker/](https://ehpst.duckdns.org/realt_rent_tracker/)
