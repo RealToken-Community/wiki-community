@@ -2,7 +2,7 @@
 
 ##
 
-Avec le site de Jeremy (hélas plus accessible) qui donne de multiples angles d'analyse :
+Avec le site de Jeremy (hélas plus disponible) qui donne de multiples angles d'analyse :
 
 ## Sur YAM
 

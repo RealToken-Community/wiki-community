@@ -15,7 +15,7 @@ Le _Rent Distribution Report_ annuel est disponible dans la section document du 
 
 Le document s'enrichi d'année en année. La version disponible en mars 2025 pour les revenus 2024, détaille propriété par propriété : les Dividendes, les Retours sur capital, les Intérêts d'emprunt ainsi que les Achats 2024 sur le site RealT (et uniquement là).
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="476"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="476"><figcaption></figcaption></figure>
 
 L'ensemble des informations, collectées par RealT sur les blockchains, sont sommées pour donner :&#x20;
 

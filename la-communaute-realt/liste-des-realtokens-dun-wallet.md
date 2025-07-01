@@ -40,11 +40,18 @@ particulièrement adaptés aux spécificités des RealToken
 
     <figure><img src="../.gitbook/assets/image (252).png" alt=""><figcaption></figcaption></figure>
 
-## Application mobile
 
-RealT Explorer : sur[ IOS](https://apps.apple.com/fr/app/realt-explorer/id1532670717) ou [Android](https://play.google.com/store/apps/details?id=com.rubengaviles.realtexplorer\&hl=fr\&gl=US)
 
-Aucun risque dans l'utilisation de ces applications, elles fonctionnent comme un explorateur classique.
+* Application mobile
+
+RealToken Asset tracker :&#x20;
+
+* version [IOS sur le Store](https://apps.apple.com/fr/app/realtoken-asset-tracker/id6736371188?platform=iphone)
+* version Android : en Beta (précédure Google) nécessite de communiquer un email [https://t.me/c/1561110632/5797/7313](https://t.me/c/1561110632/5797/7313)
+* sur le Gihub de la communauté : [https://github.com/RealToken-Community/realtoken\_apps/releases](https://github.com/RealToken-Community/realtoken_apps/releases)
+* la version Web, n'etant plus mise à jour : [https://mobile.realtoken.community/](https://mobile.realtoken.community/)
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="362"><figcaption></figcaption></figure>
 
 ## Avec l'explorateur
 

@@ -2,7 +2,7 @@
 
 Soit en donnant une(des) adresse(s) de wallet, soit à l'inverse en ayant un classement des wallets. A l'aide des sites communautaire suivants :&#x20;
 
-*   [https://ehpst.duckdns.org/realt\_rent\_tracker/](https://ehpst.duckdns.org/realt\_rent\_tracker/top\_holders)
+*   [https://ehpst.duckdns.org/realt\_rent\_tracker/](https://ehpst.duckdns.org/realt_rent_tracker/top_holders)
 
     <figure><img src="../.gitbook/assets/image (48).png" alt=""><figcaption></figcaption></figure>
 
@@ -12,7 +12,7 @@ Soit en donnant une(des) adresse(s) de wallet, soit à l'inverse en ayant un cla
 *   https://dashboard.realt.community/rank (plus disponible)
 
     <figure><img src="../.gitbook/assets/image (130).png" alt=""><figcaption></figcaption></figure>
-* [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/#/)
+* [https://yam.jycssu.fr/#/](https://yam.jycssu.fr/#/) (Site plus disponible)
   *   Top 5 des vendeurs et acheteurs du mois en cours ou passé sur YAM :&#x20;
 
       <figure><img src="../.gitbook/assets/image (181).png" alt=""><figcaption></figcaption></figure>

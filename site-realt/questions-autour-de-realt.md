@@ -56,4 +56,4 @@ Quelques adresses, plus spécifiques :&#x20;
 Ecrivez à help@realt.co ou contacter le support du [site](https://realt.co/), via la petite bulle orange en bas à droite.\
 Si la bulle orange n'apparait pas, vérifier que vous avez bien activé les cookies (icone en bas à gauche)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
