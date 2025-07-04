@@ -35,8 +35,4 @@ Si le Realtoken détokenisé a été déposé sur [RMM](../defi-realt/rmm/), pou
 
 ### Divers&#x20;
 
-[Bilan financier](https://docs.google.com/spreadsheets/d/1wYKRv7hjgq9Tahyw4QSLGlKnTvWQqtIgF14yqDhmb2U/edit?usp=sharing), fait par un membre de la communauté sur le cas Alcoy.
-
-Nouvelles détokenisations, qui ont conduit à des votes :&#x20;
-
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+[Bilan financier](https://docs.google.com/spreadsheets/d/1wYKRv7hjgq9Tahyw4QSLGlKnTvWQqtIgF14yqDhmb2U/edit?usp=sharing), fait par un membre de la communauté sur le cas Alcoy et les autres.
