@@ -4,9 +4,9 @@ description: des holders d'une propriété
 
 # Vote (RealT)
 
-Afin d'obtenir la position des actionnaires, concernant une décision impactant une propriété, RealT a développé une [application de vote](https://vote.realtoken.network/) on-chain (sur Gnosis).
+Afin d'obtenir la position des actionnaires, concernant une décision impactant une propriété, RealT a développé une [application de vote](https://vote.realtoken.network/assets) on-chain (sur Gnosis).
 
-La première utilisation en production a eu lieu fin 2022 pour la [détokenisation d'Alcoy](../site-realt/detokenisation-dune-propriete.md).
+La première utilisation en production a eu lieu fin 2022 pour la [détokenisation](../site-realt/detokenisation-dune-propriete.md) du Realtoken Alcoy.
 
 <figure><img src="../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
@@ -14,6 +14,6 @@ Un snapshot des token holders est réalisé avant l'annonce du vote (afin d'évi
 
 Les personnes concernés sont prévenus par RealT et peuvent voter en se connectant avec leur wallet.
 
-Le poids de chaque actionnaire ainsi que sa participation, est visible sur l'application :
+Le poids de chaque actionnaire ainsi que sa participation, est visible sur l'application :&#x20;
 
-<figure><img src="../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>

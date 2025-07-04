@@ -35,7 +35,7 @@
   * [Limite 2000 holders](site-realt/limite-2000-holders.md)
   * [Réévaluation](site-realt/reevaluation.md)
   * [REG / SOON / USDREG](site-realt/reg-soon.md)
-  * [Détokenisation d'une propriété](site-realt/detokenisation-dune-propriete.md)
+  * [Détokenisation d'un Realtoken](site-realt/detokenisation-dune-propriete.md)
   * [Protection des loyers](site-realt/assurance-des-loyers.md)
   * [Vendre ses RealTokens](site-realt/vendre-ses-realtokens.md)
   * [Impots et Taxes](site-realt/impots.md)

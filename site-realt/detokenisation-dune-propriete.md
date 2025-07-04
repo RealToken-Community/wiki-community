@@ -2,18 +2,41 @@
 description: à l'occasion d'une offre sur un bien RealT
 ---
 
-# Détokenisation d'une propriété
+# Détokenisation d'un Realtoken
 
-Fin 2022, RealT a reçu une [proposition](https://drive.google.com/file/d/1UhJBCzkcf92pseQpsaS-ayab5Vjs3eEA/view?\_hsmi=237160089&\_hsenc=p2ANqtz-9DKdHNQmKMnROK24vGVfHdirf1fadf8Ap4VnPKZPtNr82KNP07-TVDf-fZd82fGFoijV6l4RKoZpe6T7loPImmg3mVnA) à prix très avantageux pour la propriété [18983 Alcoy Ave, Detroit, MI 48205](https://realt.co/product/18983-alcoy-ave-detroit-mi-48205#tab-title-detokenization\_tab) : 88 K$ vs un achat à 53,5 K$ en avril 2021 (et une réévaluation à 65 K$ en août 2022).
+Il y a "détokenisation" lorsque le bien sous-jacent du Realtoken est revendu.&#x20;
 
-<figure><img src="../.gitbook/assets/image (179).png" alt=""><figcaption><p>Onglet spécifique, de la fiche de la propriété</p></figcaption></figure>
+### Bilan financier
 
-Un [vote on-chain](../defi-realt/vote-realt.md) a donc été organisé pour les propriétaires de ce RealToken, afin de statuer sur cette proposition :
+La première détokenisation à eu lieu fin 2022 et concernait  [18983 Alcoy Ave, Detroit, MI 48205](https://realt.co/product/18983-alcoy-ave-detroit-mi-48205#tab-title-detokenization_tab). \
+Un nouvel onglet apparait alors dans la fiche du bien sur le site realt.co, pour faire le bilan financier de la proposition de revente (88 K$ dans ce cas).\
+Ce bilan intègre les différentes évolutions (réévaluation et loyers),  et conclue au % de gain depuis le lancement (en bas à droite, ici 35,5 % ). Les SOON/USDREG distribués ne sont pas intégrés dans ce calcul.
+
+<figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+
+### Décision
+
+Un [vote on-chain](../defi-realt/vote-realt.md) est organisé pour les propriétaires de ce RealToken, afin de statuer sur cette proposition :
 
 <figure><img src="../.gitbook/assets/image (44).png" alt=""><figcaption><p>Application pour le vote on-chain</p></figcaption></figure>
 
-A l'issue du vote favorable, la vente a été réalisée et les propriétaires ont touché leur quotepart (frais déduits).
+A l'issue du vote favorable, la vente a été réalisée et les propriétaires ont touché leur quotepart (frais déduits, conformément au bilan financier) et les Realtoken on été détruit (burn).\
 
-[Community Call sur ce sujet](https://www.youtube.com/watch?v=WqHcXJAXTyc\&t=1100s\&ab\_channel=RealT).
 
-[Bilan financier](https://docs.google.com/spreadsheets/d/1wYKRv7hjgq9Tahyw4QSLGlKnTvWQqtIgF14yqDhmb2U/edit?usp=sharing), fait par un membre de la communauté.
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="350"><figcaption></figcaption></figure>
+
+### Cas de Realtoken sur RMM
+
+Si le Realtoken détokenisé a été déposé sur [RMM](../defi-realt/rmm/), pour garantir un prêt :&#x20;
+
+* soit le propriétaire retire préalablement le Realtoken du RMM en remboursant tout ou partie de son prêt si nécessaire (solution préférable, car à l'initiative du propriétaire),
+* soit c'est RealT qui exécute un genre de "liquidation forcée" : avec le montant de la vente du Realtoken du propriétaire, il rembourse tout ou partie du prêt du propriétaire et verse la différence au propriétaire. RealT reçoit ainsi le Realtoken, qu'il peut détruire.\
+  Depuis la création de la DAO et le vote de la [\[RIP00008\]](https://www.tally.xyz/gov/realtoken-ecosystem-governance/proposal/4412019256781079844728885554420538992900805587725535743224739658055634526928?govId=eip155:100:0x4A5327347f077E72d2AaB19F68Ba8A7F12ec5d63), cette opération est réalisée avec la validation de la DAO.
+
+### Divers&#x20;
+
+[Bilan financier](https://docs.google.com/spreadsheets/d/1wYKRv7hjgq9Tahyw4QSLGlKnTvWQqtIgF14yqDhmb2U/edit?usp=sharing), fait par un membre de la communauté sur le cas Alcoy.
+
+Nouvelles détokenisations, qui ont conduit à des votes :&#x20;
+
+<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>

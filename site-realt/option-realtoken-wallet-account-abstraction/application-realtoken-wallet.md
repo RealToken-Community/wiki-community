@@ -32,7 +32,7 @@ Si vous avez activé le MFA/2FA et que vous rencontrez des soucis : [page spéci
 Dans sa première version (Sept 2024), l'application ne disposait que de trois fonctions : le transfert de tokens, la connexion via WalletConnect et le vote DAO.\
 En mars 2025, une nouvelle version de l'application a été  déployée, que nous allons détailler dans les chapitres suivants. &#x20;
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Portefeuille
 
