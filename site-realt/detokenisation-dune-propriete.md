@@ -10,7 +10,7 @@ Il y a "détokenisation" lorsque le bien sous-jacent du Realtoken est revendu.&#
 
 La première détokenisation à eu lieu fin 2022 et concernait  [18983 Alcoy Ave, Detroit, MI 48205](https://realt.co/product/18983-alcoy-ave-detroit-mi-48205#tab-title-detokenization_tab). \
 Un nouvel onglet apparait alors dans la fiche du bien sur le site realt.co, pour faire le bilan financier de la proposition de revente (88 K$ dans ce cas).\
-Ce bilan intègre les différentes évolutions (réévaluation et loyers),  et conclue au % de gain depuis le lancement (en bas à droite, ici 35,5 % ).&#x20;
+Ce bilan intègre les différentes évolutions (réévaluation et loyers) et conclue au % de gain depuis le lancement (en bas à droite, ici 35,5 % ).&#x20;
 
 <figure><img src="../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
 
