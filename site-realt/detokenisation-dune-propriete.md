@@ -4,7 +4,9 @@ description: à l'occasion d'une offre sur un bien RealT
 
 # Détokenisation d'un Realtoken
 
-Il y a "détokenisation" lorsque le bien sous-jacent du Realtoken est revendu.&#x20;
+
+
+Il y a "détokenisation" lorsque le bien sous-jacent d'un Realtoken est revendu.&#x20;
 
 ### Bilan financier
 
@@ -24,6 +26,8 @@ A l'issue du vote favorable, la vente a été réalisée et les propriétaires o
 
 
 <figure><img src="../.gitbook/assets/image (1).png" alt="" width="350"><figcaption></figcaption></figure>
+
+A la suite du vote, la vente peut ne pas avoir lieu comme ce fut le cas en 2024 pour la propriété Appoline (l'acheteur ayant fait une contre-offre trop éloignée du prix souhaité).
 
 ### Cas de Realtoken sur RMM
 
