@@ -34,7 +34,7 @@ A la suite du vote, la vente peut ne pas avoir lieu comme ce fut le cas en 2024 
 Si le Realtoken détokenisé a été déposé sur [RMM](../defi-realt/rmm/), pour garantir un prêt :&#x20;
 
 * soit le propriétaire retire préalablement le Realtoken du RMM en remboursant tout ou partie de son prêt si nécessaire (solution préférable, car à l'initiative du propriétaire),
-* soit c'est RealT qui exécute un genre de "liquidation forcée" : avec le montant de la vente du Realtoken du propriétaire, il rembourse tout ou partie du prêt du propriétaire et verse la différence au propriétaire. RealT reçoit ainsi le Realtoken, qu'il peut détruire.\
+* soit c'est RealT qui exécute un genre de "liquidation forcée" (sans pénalité) : avec le montant de la vente du Realtoken du propriétaire, il rembourse tout ou partie du prêt du propriétaire et verse la différence au propriétaire. RealT reçoit ainsi le Realtoken, qu'il peut détruire.\
   Depuis la création de la DAO et le vote de la [\[RIP00008\]](https://www.tally.xyz/gov/realtoken-ecosystem-governance/proposal/4412019256781079844728885554420538992900805587725535743224739658055634526928?govId=eip155:100:0x4A5327347f077E72d2AaB19F68Ba8A7F12ec5d63), cette opération est réalisée avec la validation de la DAO.
 
 ### Divers&#x20;
