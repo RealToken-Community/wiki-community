@@ -23,7 +23,7 @@ La démarche se fait sur le site de [RealT](https://realt.co/) (et est disponibl
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="522"><figcaption></figcaption></figure>
 
-* N'apparaissent dans la liste, que les RealTokens que vous n'avez pas déjà whitelistés (et qui sont [whitelistables](limite-2000-holders.md) !).
+* N'apparaissent dans la liste, que les RealTokens que vous n'avez pas déjà whitelistés et qui sont whitelistables (vs procédure interne RealT).
 
 
 
