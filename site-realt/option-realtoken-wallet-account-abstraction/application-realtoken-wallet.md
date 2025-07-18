@@ -39,7 +39,7 @@ En mars 2025, une nouvelle version de l'application a été  déployée, que nou
 Le premier onglet (en haut à droite) donne une vue globale de votre wallet (image ci-dessus)\
 Le second onglet, apporte une vue plus détaillée du contenu de votre _Realtoken Wallet (image ci-dessous)_&#x20;
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 La liste de vos tokens sur Gnosis est répartie en plusieurs catégories, qui se suivent : Actif, Realtoken, RMM et YAM.
 
@@ -53,7 +53,7 @@ En bout de ligne à droite, vous disposez d'une flèche sélectable pour agir su
 
 Nota : ça peut être parfois un peu long ...Soyez patient !
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Si vous souhaitez vérifier le transfert sur un explorateur
 
@@ -105,7 +105,7 @@ La DApp _RealToken wallet_ est une application Web et pas une extension de navig
 L'apport important de la **nouvelle version**, sur ce sujet, est le niveau de détail des fenêtres d'approbation lors d'une transaction. \
 Exemple lors d'un dépôt sur RMM :
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt="" width="563"><figcaption></figcaption></figure>
 
 #### Premier dépôt d'USDC sur RMM
 

@@ -51,7 +51,7 @@ RealToken Asset tracker :&#x20;
 * sur le Gihub de la communauté : [https://github.com/RealToken-Community/realtoken\_apps/releases](https://github.com/RealToken-Community/realtoken_apps/releases)
 * la version Web, n'etant plus mise à jour : [https://mobile.realtoken.community/](https://mobile.realtoken.community/)
 
-<figure><img src="../.gitbook/assets/image (4).png" alt="" width="362"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (1).png" alt="" width="362"><figcaption></figcaption></figure>
 
 ## Avec l'explorateur
 

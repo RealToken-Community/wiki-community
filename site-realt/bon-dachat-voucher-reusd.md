@@ -15,6 +15,33 @@ Les différents **cas d'usage** du REUSD sont :&#x20;
     <figure><img src="../.gitbook/assets/image (320).png" alt="" width="241"><figcaption></figcaption></figure>
 * **Echange** sur [YAM](../defi-realt/dex-swap/yam.md) ou Pool de liquidité, à la valeur de marché (variable),\
   Attention : Les quantités disponibles sur les pools de liquidité sont très faibles, la parité de votre échange peut donc varier fortement suivant la quantité échangée.
+
+<details>
+
+<summary>Comment échanger simplement avec 1Inch</summary>
+
+*   Se connecter à [https://app.1inch.io/fr/swap?src=100:USDC](https://app.1inch.io/fr/swap?src=100:USDC)
+
+    <figure><img src="../.gitbook/assets/image (2).png" alt="" width="293"><figcaption></figcaption></figure>
+
+-   cliquez sur « Sélectionner un token », et copier coller l’adresse du token REUSD
+
+    ![](file:///C:/Users/Phil/AppData/Local/Temp/lu5000chkcwj.tmp/lu5000chkcwq_tmp_efd36195.gif) 0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9
+
+    <figure><img src="../.gitbook/assets/image (4).png" alt="" width="346"><figcaption></figcaption></figure>
+
+*   Cliquer sur le flèche centrale pour choisir le sens de votre échange (achat ou vente de REUSD), puis indiquer la valeur que vous souhaiter changer (ici 20).
+
+    <figure><img src="../.gitbook/assets/image (5).png" alt="" width="556"><figcaption></figcaption></figure>
+*   Ici, avec un cours à 1 REUSD = 0,836 USDC et par rapport à la parité 1:1 :
+
+    * en cas de ventre de RESUD vous perdez 3,3 USDC (20 - 16,726)
+    * en cas d’achat de REUSD vous gagnez 2,2 REUSD 22,235 - 20)
+
+    Cette différence augmente avec le montant échangé. L'opération est donc à réserver pour de petits montants, compte tenu de la liquidité actuelle.
+
+</details>
+
 * [**Revente**](vendre-ses-realtokens.md)**,** sur [Realt.co](https://realt.co/), dans les conditions habituelles de rachat (< 2K$ par semaine, délais 10 jours) sans frais (fonction à venir).\
 
 

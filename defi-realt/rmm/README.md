@@ -12,7 +12,7 @@ En Avril 2023, le mode de présentation de l'application a été modifé, en coh
 
 Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="189"><figcaption></figcaption></figure>
 
 ## Guide utilisateur
 
@@ -21,13 +21,15 @@ Tuto, réalisé par un membre de la communauté : \
 
 {% file src="../../.gitbook/assets/Tuto RMM v5.pdf" %}
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Comment ça marche
 
 En complément du guide utilisateur, un document (un peu) plus technique sur comment fonctionne la solution et comment agir directement sur les smart contrats.
 
-{% file src="../../.gitbook/assets/RMM CCM v3 - 31 Juillet.pdf" %}
+{% file src="../../.gitbook/assets/RMM CCM v4.pdf" %}
+
+
 
 ## Transition v2 > v3
 
