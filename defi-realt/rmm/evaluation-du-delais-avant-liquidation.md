@@ -4,7 +4,7 @@ Le mécanisme de Liquidation garantie le bon fonctionnement du RMM. \
 Lorsque le collatéral d'un wallet n'est plus suffisant pour garantir ses emprunts, il passe automatiquement en mode liquidation (cf détail dans le [tuto](./)).\
 Un liquidateur peut alors acheter, avec une décote, tout ou partie du collatéral du wallet en liquidation, le paiement servant à rembourser l'emprunt.
 
-La liquidation est ouverte à tout les wallets whitelistés. Ce peut être une autre façon d'acquérir des RealTokens avec réduction.
+La liquidation est ouverte à tous les wallets whitelistés. Ce peut être une autre façon d'acquérir des RealTokens avec réduction.
 
 La liste des Wallets proches de la liquidation, est accessible dans un des onglet du RMM.&#x20;
 
