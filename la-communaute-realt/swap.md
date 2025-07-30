@@ -43,7 +43,7 @@ Les sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne s
 
 [https://yambyofferid.netlify.app/](https://yambyofferid.netlify.app/)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="317"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="317"><figcaption></figcaption></figure>
 
 ## L'ancien Dashboard Swapcat
 
