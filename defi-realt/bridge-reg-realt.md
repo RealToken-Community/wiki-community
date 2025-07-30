@@ -26,7 +26,7 @@ Après signature avec le wallet, un message apparait en haut à gauche vous indi
 
 En cliquant sur "Voir le status ici", vous êtes transféré sur Chainlink et pouvez voir l'avancement du statut (jusqu'à "Success") :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Nota : l'adresse du REG est identique sur les trois blockchain : \
 &#x20;                                                         0x0AA1e96D2a46Ec6beB2923dE1E61Addf5F5f1dce

@@ -22,7 +22,7 @@ Les différents **cas d'usage** du REUSD sont :&#x20;
 
 *   Se connecter à [https://app.1inch.io/fr/swap?src=100:USDC](https://app.1inch.io/fr/swap?src=100:USDC)
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt="" width="293"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 -   cliquez sur « Sélectionner un token », et copier coller l’adresse du token REUSD
 
