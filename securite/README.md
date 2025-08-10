@@ -17,7 +17,7 @@ description: Comment mieux protéger vos cryptos
   \- Ne remplissez jamais de formulaire et autre Google doc, partagés en MP,\
   \- Ne donner jamais d'informations personnelles.\
   Une seule chose à faire lorsque de telles personnes vous contactent, cliquer sur "BLOCK USER" et "REPORT SPAM".
-* Vérifier que vous télécharger les **extensions officielles** (MetaMask, Rabby,..), de fausses versions sont proposées qui vident les wallet dès qu'on les configure.
+* Vérifier que vous télécharger les **extensions officielles** (MetaMask, Rabby,..), de fausses versions sont proposées qui vident les wallet dès qu'on les configure ([https://korben.info/firefox-sous-assaut-150-extensions-piegent.html](https://korben.info/firefox-sous-assaut-150-extensions-piegent.html))
 
 Si vous soupçonner que quelque chose se passe mal sur vos RealTokens, joignez rapidement le **support RealT.**\
 
