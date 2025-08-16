@@ -1,6 +1,11 @@
-# Swap avec 1inch
+# Swap avec 1Inch
 
-Présentation, étape par étape, d'un échange en P2P de RealToken (ici une vente, mais transposable à un achat ou un échange) avec l'application [1Inch](https://bafybeifcwfgicynjyvssshi7vpv2333lsthd6o5rcialsnm7b7totz3uja.ipfs.dweb.link/#/100/p2p/WXDAI/USDT) :&#x20;
+{% hint style="info" %}
+Cette fonctionnalité n'est plus disponible sur 1Inch.
+{% endhint %}
+
+\
+Présentation, étape par étape, d'un échange en P2P de RealToken (ici une vente, mais transposable à un achat ou un échange) avec l'application [1Inch](https://app.1inch.io/swap) :
 
 <figure><img src="../../.gitbook/assets/image (167).png" alt=""><figcaption></figcaption></figure>
 
@@ -16,13 +21,13 @@ Présentation, étape par étape, d'un échange en P2P de RealToken (ici une ven
 
 Vous allez ensuite : signer l'autorisation d'accès du contrat 1inch à votre RealToken, puis autoriser la création de l'ordre d'échange.
 
-L'application vous donnera alors la référence de l'offre d'échange à transmettre :&#x20;
+L'application vous donnera alors la référence de l'offre d'échange à transmettre :
 
 <figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
 
-Avec cette référence, le wallet destinataire de l'échange, va pouvoir accéder à l'offre, signer l'autorisation d'accès au token d'échange (ici USDC), puis autoriser l'échange :&#x20;
+Avec cette référence, le wallet destinataire de l'échange, va pouvoir accéder à l'offre, signer l'autorisation d'accès au token d'échange (ici USDC), puis autoriser l'échange :
 
 <figure><img src="../../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>
 
-Nota : Ne pas modifier le plafond d'autorisation proposé (en "unlimited"), sinon ça bug ! \
+Nota : Ne pas modifier le plafond d'autorisation proposé (en "unlimited"), sinon ça bug !\
 ([revoker](../../securite/controle-des-autorisations.md) l'accès par la suite)

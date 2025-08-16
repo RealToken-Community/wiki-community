@@ -60,7 +60,7 @@
       * [Arbitrage, Impermanent Loss](defi-realt/dex-swap/levinswap/arbitrage-impermanent-loss.md)
       * [Pour en savoir plus...](defi-realt/dex-swap/levinswap/pour-en-savoir-plus....md)
     * [Swapcat](defi-realt/dex-swap/swapcat.md)
-    * [Swap avec 1inch](defi-realt/dex-swap/swap-avec-1inch.md)
+    * [Swap avec 1Inch](defi-realt/dex-swap/swap-avec-1inch.md)
     * [Swap de cryptos](defi-realt/dex-swap/swap-de-cryptos.md)
   * [La DAO et son REG](defi-realt/la-dao-et-son-reg.md)
   * [Bridge Crypto](defi-realt/bridge.md)
