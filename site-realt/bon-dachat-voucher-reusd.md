@@ -42,6 +42,11 @@ Les différents **cas d'usage** du REUSD sont :&#x20;
 
 </details>
 
+&#x20;         Si la solution 1Inch ne fonctionne pas (pas de liquidité par exemple), vous pouvez essayer sur un \
+&#x20;          autre agrégateur comme [LlamaSwap](https://swap.defillama.com/?chain=gnosis\&from=0xddafbb505ad214d7b80b1f830fccc89b60fb7a83\&tab=swap\&to=0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9)&#x20;
+
+
+
 * [**Revente**](vendre-ses-realtokens.md)**,** sur [Realt.co](https://realt.co/), dans les conditions habituelles de rachat (< 2K$ par semaine, délais 10 jours) sans frais (fonction à venir).\
 
 
