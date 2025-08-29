@@ -42,8 +42,11 @@ Les différents **cas d'usage** du REUSD sont :&#x20;
 
 </details>
 
-&#x20;         Si la solution 1Inch ne fonctionne pas (pas de liquidité par exemple), \
-&#x20;          vous pouvez essayer sur un autre agrégateur comme [LlamaSwap](https://swap.defillama.com/?chain=gnosis\&from=0xddafbb505ad214d7b80b1f830fccc89b60fb7a83\&tab=swap\&to=0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9)&#x20;
+&#x20;         \- Si la solution 1Inch ne fonctionne pas (pas de liquidité par exemple), \
+&#x20;          vous pouvez essayer sur un autre agrégateur comme [LlamaSwap](https://swap.defillama.com/?chain=gnosis\&from=0xddafbb505ad214d7b80b1f830fccc89b60fb7a83\&tab=swap\&to=0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9) \
+&#x20;          \- Ou aller sur [Sushiswap](https://www.sushi.com/gnosis/swap?token0=0x3390742ac0dce14ea6fcbd5ae02e2303c5d62ad9\&token1=0xddafbb505ad214d7b80b1f830fccc89b60fb7a83), la DAO y ayant mis de la liquidité.\
+&#x20;          Nota : le token REUSD n'étant pas très connu, vous aurez un message vous informant \
+&#x20;          qu'il peut y avoir un risque avec ce token.
 
 
 
