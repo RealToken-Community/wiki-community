@@ -14,7 +14,7 @@ La première détokenisation à eu lieu fin 2022 et concernait  [18983 Alcoy Ave
 Un nouvel onglet apparait alors dans la fiche du bien sur le site realt.co, pour faire le bilan financier de la proposition de revente (88 K$ dans ce cas).\
 Ce bilan intègre les différentes évolutions (réévaluation et loyers) et conclue au % de gain depuis le lancement (en bas à droite, ici 35,5 % ).&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ### Décision
 
@@ -25,7 +25,7 @@ Un [vote on-chain](../defi-realt/vote-realt.md) est organisé pour les propriét
 A l'issue du vote favorable, la vente a été réalisée et les propriétaires ont touché leur quotepart (frais déduits, conformément au bilan financier) et les Realtoken on été détruit (burn).\
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 A la suite du vote, la vente peut ne pas avoir lieu comme ce fut le cas en 2024 pour la propriété Appoline (l'acheteur ayant fait une contre-offre trop éloignée du prix souhaité).
 

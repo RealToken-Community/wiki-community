@@ -16,7 +16,7 @@ En juin 2025 : le paiement avec des ["bons d'achat" REUSD](../bon-dachat-voucher
 
 ## Par Carte Bancaire&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Frais depuis le 1er Octobre 2023</p></figcaption></figure>
 
 Depuis Juillet 2022, RealT applique des frais :
 

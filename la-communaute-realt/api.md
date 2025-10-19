@@ -11,7 +11,7 @@ Ainsi, d’autres applications développées par la Communauté, peuvent utilise
 L’application est constituée de son code ainsi que d’une application web de documentation, basée sur la solution _NelmioApiDocBundle._ Elle est disponible à l’adresse suivante : [https://api.realtoken.community/](https://api.realtoken.community/)\
 
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Lorsque l’information recherchée est simple, par exemple la date de la dernière mise à jour, il suffit de cliquer sur le « GET » correspondant, puis « Try it out », puis « Execute » , le résultat s’affiche dans la partie « Response body »
 
@@ -29,7 +29,7 @@ Par exemple pour /v1/token (une dizaine d’info. par RealToken)&#x20;
 
 Si vous souhaitez obtenir bien plus d’informations (> 150 par Realtoken), vous devez obtenir et utiliser une API-key :
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Le google sheet suivant, vous donne un exemple de l’ensemble des informations disponibles pour un RealToken si vous utilisez l’API-Key : [https://docs.google.com/spreadsheets/d/1B\_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY](https://docs.google.com/spreadsheets/d/1B_5sPNW6sVDnYDQmAaTfaakN3aG6e1WZa5-VAx3LDsY/edit?usp=sharing)
 
@@ -60,7 +60,7 @@ Elles sont visible dans cette partie de l’application :
 *   Avec API-Key\
     Après l’avoir saisie dans la partie Authorize de l’application (le cadenas apparaîtra alors en position fermée)
 
-    <figure><img src="../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="231"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (5) (1) (1) (1) (1).png" alt="" width="231"><figcaption></figcaption></figure>
 
     Le format de la requête inclus votre APY-Key :&#x20;
 

@@ -53,16 +53,16 @@ En bout de ligne à droite, vous disposez d'une flèche sélectable pour agir su
 
 Nota : ça peut être parfois un peu long ...Soyez patient !
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Si vous souhaitez vérifier le transfert sur un explorateur
 
 *   Sur[ l'explorateur](https://gnosisscan.io/)[ Gnosis](https://gnosisscan.io/), entrer votre adresse de _Realtoken wallet,_
 
-    <figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 *   Sélectionnez "Internal Transactions" , puis cliquer sur la dernière transaction&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 * Dans la fenêtre qui s'est ouverte, rechercher la partie "ERC20 Tokens transferred". Vous voyez alors l'adresse source (From) et cible (To) du transfert, ainsi que le token et sa quantité (For).
 
 ### Connexion WalletConnect
@@ -78,10 +78,10 @@ Pour réaliser cette connexion :&#x20;
 * vous avez besoin de deux instances de navigateur (soit deux onglets sur un même navigateur, soit deux navigateurs).
 *   Sur une des instances vous lancer la [DApp _RealToken Wallet_](https://wallet.realtoken.network/)_,_ vous vous connectez avec votre Social Login et vous cliqué en haut sur WalletConnect : une fenêtre va apparaitre où vous devez entrer une URL WalletConnect...
 
-    <figure><img src="../../.gitbook/assets/image (7) (1).png" alt="" width="467"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt="" width="467"><figcaption></figcaption></figure>
 * Sur la deuxième instance de navigateur, vous lancer [RMM](https://rmm.realtoken.network/markets/) (par ex), vous connectez votre portefeuille en choisissant WalletConnect : apparait alors une fenêtre avec un QRcode, vous copier le lien associé (dans votre presse papier) en cliquant sur "Connect Your Wallet"
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt="" width="294"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt="" width="294"><figcaption></figcaption></figure>
 
 *   Vous retournez sur l'instance avec la DApp _RealToken Wallet_ et vous collez le lien (du presse papier) dans la fenêtre demandant l'URL&#x20;
 

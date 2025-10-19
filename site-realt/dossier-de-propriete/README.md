@@ -39,6 +39,6 @@ A l'issue d'une [réévaluation](../reevaluation.md), le justificatif correspond
 En Avril 2024, RealT a ajouté pour certaines propriétés, des informations sur les taxes foncières\
 
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Article dans la FAQ correspondant : [https://faq.realt.co/en/article/what-you-need-to-know-about-us-property-taxes-4nd8i1/](https://faq.realt.co/en/article/what-you-need-to-know-about-us-property-taxes-4nd8i1/)

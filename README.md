@@ -16,7 +16,7 @@ En dernier ressort, vous pouvez solliciter le support [RealT](https://realt.co/)
 \
 [Schéma de synthèse de l'écosystème](https://drive.google.com/file/d/1O-3yg7KeCL2FC6aRFgkMBJES-30vuAKX/view?usp=sharing) :
 
-<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Si vous souhaitez contribuer à ce Wiki communautaire, mettez juste un petit mot sur [Telegram](https://t.me/RealT_France) ou passez par GitHub :
