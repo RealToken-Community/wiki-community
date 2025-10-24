@@ -39,7 +39,7 @@ Les loyers des RealTokens, déposés sur des pool Levinswap, apparaitront sur de
 
 Sur le site [Pit's BI](https://realt.pitsbi.io/stats), réalisé par un membre de la communauté, vous trouverez les valeurs des pools ainsi qu'un outils de simulation d'un apport :
 
-<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 dans l'exemple ci-dessus, il y a (au moment où cet article est écrit) : 1,98 RealTokens déposés par RealT, 1,09 Realtokens déposés par des Holders. \
 Alors que le Yield du RealToken est de 9,59%, le mécanisme de récompense décrit dans le chapitre précédent conduit à un "Pool Yield" de 13,43% (qui correspond taux d'intéret sur le montant total du dépôt d'un holder : RealTokens + USDC).\

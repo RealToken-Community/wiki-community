@@ -35,7 +35,7 @@ Pour limiter les pertes, induites par la faible liquidité lors des échanges, l
     ( 0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9 ).\
     Nota : le REUSD étant un token pas très connu, un message d'alerte vous sera très certainement affiché.
 
-    <figure><img src="../.gitbook/assets/image (1).png" alt="" width="533"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="533"><figcaption></figcaption></figure>
 
 *   Cliquer sur la flèche centrale pour choisir le sens de votre échange (achat ou vente de REUSD), puis indiquer la valeur que vous souhaitez changer :
 
