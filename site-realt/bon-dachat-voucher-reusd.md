@@ -24,7 +24,7 @@ Pour limiter les pertes, induites par la faible liquidité lors des échanges, l
 
 <details>
 
-<summary>Comment échanger vos REUSD, sur les pool de liquidité :  <br><br>1 - La solution la plus simple (mais pas obligatoirement la plus performante financièrement) est d'utiliser un agrégateur :  1Inch ou <a href="https://swap.defillama.com/?chain=gnosis&#x26;from=0xddafbb505ad214d7b80b1f830fccc89b60fb7a83&#x26;tab=swap&#x26;to=0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9">LlamaSwap</a> </summary>
+<summary>Comment échanger vos REUSD (Gnosis), sur les pools de liquidité :  <br><br>1 - La solution la plus simple (mais pas obligatoirement la plus performante financièrement) est d'utiliser un agrégateur :  1Inch ou <a href="https://swap.defillama.com/?chain=gnosis&#x26;from=0xddafbb505ad214d7b80b1f830fccc89b60fb7a83&#x26;tab=swap&#x26;to=0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9">LlamaSwap</a> </summary>
 
 *   Pour 1inch, se connecter à [https://app.1inch.io/fr/swap?src=100:USDC](https://app.1inch.io/fr/swap?src=100:USDC)
 
@@ -70,7 +70,7 @@ L'échange se fera alors avec toutes les pools qui sont Sushiswap (sans avoir be
 
 
 
-* [**Revente**](vendre-ses-realtokens.md)**,** sur [Realt.co](https://realt.co/) : Cette option évoquée à l'origine ne sera pas mise en place. ([https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39](https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39))\
+* [**Revente**](vendre-ses-realtokens.md)**,** sur [Realt.co](https://realt.co/) : Cette option évoquée à l'origine ne devrait pas être mise en place. ([https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39](https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39))\
 
 
 &#x20;Documents publiés par RealT lors de l'annonce :
@@ -79,5 +79,8 @@ L'échange se fera alors avec toutes les pools qui sont Sushiswap (sans avoir be
 * FAQ : [https://faq.realt.co/en/article/what-is-the-reusd-1qotto0/](https://faq.realt.co/en/article/what-is-the-reusd-1qotto0/)\
 
 
-Adresse du token : [https://gnosisscan.io/address/0x3390742ac0dce14ea6fcbd5ae02e2303c5d62ad9](https://gnosisscan.io/address/0x3390742ac0dce14ea6fcbd5ae02e2303c5d62ad9)
+Adresses du token :
+
+* Sur Gnosis : [https://gnosisscan.io/address/0x3390742ac0dce14ea6fcbd5ae02e2303c5d62ad9](https://gnosisscan.io/address/0x3390742ac0dce14ea6fcbd5ae02e2303c5d62ad9)
+* Sur Ethereum : [https://etherscan.io/token/0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9](https://etherscan.io/token/0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9)
 
