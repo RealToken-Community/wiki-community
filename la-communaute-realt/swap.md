@@ -24,6 +24,6 @@ Les 2 sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne
 
 ## L'ancien Dashboard Swapcat
 
-https://dashboard.realt.community/swapcat (**plus disponible**)
+https://dashboard.realtoken.community/swapcat (**plus disponible**)
 
 <figure><img src="../.gitbook/assets/image (204).png" alt=""><figcaption></figcaption></figure>
