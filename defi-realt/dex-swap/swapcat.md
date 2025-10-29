@@ -17,7 +17,7 @@ Il n'y a pas de frais de protocole, seulement des frais de réseau.
 
 ## Front End
 
-L'interface du DEX étant très rudimentaire, des membres de la communauté ont créer des  Front-End (qui évitent les faux RealToken) : [Dashboard](https://dashboard.realt.community/swapcat), [Pit'Swap](https://marclanders.duckdns.org/),..
+L'interface du DEX étant très rudimentaire, des membres de la communauté ont créer des  Front-End (qui évitent les faux RealToken) : [Dashboard](https://dashboard.realtoken.community/swapcat), [Pit'Swap](https://marclanders.duckdns.org/),..
 
 ## Video
 
