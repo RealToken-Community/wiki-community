@@ -27,7 +27,7 @@ Tuto, réalisé par un membre de la communauté : \
 
 En complément du guide utilisateur, un document (un peu) plus technique sur comment fonctionne la solution et comment agir directement sur les smart contrats.
 
-{% file src="../../.gitbook/assets/RMM CCM v4.pdf" %}
+{% file src="../../.gitbook/assets/RMM CCM v5.pdf" %}
 
 
 
@@ -37,19 +37,22 @@ En complément du guide utilisateur, un document (un peu) plus technique sur com
 
 <summary>Etapes de transition : </summary>
 
-* La liste des Realtokens "collatéralisables" est, dans un premier temps, identique en v2 et v3 (pour ne pas augmenter la demande de liquidité). De nouveaux Realtokens collatéralisables seront ajoutés progressivement en v3 par la suite.
-* L'usage du RMM v2 a été limité : il n'est plus possible de déposer, ni d'emprunter. Les retraits et remboursements demeurent eux actifs (afin de pouvoir quitter cette version),Les loyers, payés en armmWXDAI, le seront sur le RMM v3 et plus sur la v2,
-* Les loyers déjà payables en armmXDAI, seront aussi payables en armmUSDC,
-* Augmentation de la LTV des RealTokens sur le RMM v2 et envoi d'un mail par RealT,
-* Le Facteur de Réserve, des WXDAI sur RMM v2, a été progressivement augmenté de 10% à 25, puis 50%, puis 75% !..afin de limiter le taux des dépôts de WXDAI sur RMM v2 (et favoriser la migration),
+* 16 Février 2024 :&#x20;
+  * La liste des Realtokens "collatéralisables" a été, dans un premier temps, identique en v2 et v3 (pour ne pas augmenter la demande de liquidité). De nouveaux Realtokens collatéralisables étant ajoutés progressivement en v3 par la suite.
+  * L'usage du RMM v2 a été limité : il n'est plus possible de déposer, ni d'emprunter. Les retraits et remboursements demeurent eux actifs (afin de pouvoir quitter cette version),Les loyers, payés en armmWXDAI, le seront sur le RMM v3 et plus sur la v2,
+  * Les loyers déjà payables en armmXDAI, seront aussi payables en armmUSDC,
+  * Augmentation de la LTV des RealTokens sur le RMM v2 et envoi d'un mail par RealT,
+  * Le Facteur de Réserve, des WXDAI sur RMM v2, a été progressivement augmenté de 10% à 25, puis 50%, puis 75% !..afin de limiter le taux des dépôts de WXDAI sur RMM v2 (et favoriser la migration),
 * 28 Février : Une première série de 16 nouvelles propriétés, a été ajoutée au RMM v3. La LTV des propriétés sur RMM v3 a été porté de 50 à 60%,&#x20;
 * 6 Avril : 158 Propriétés sont collatéralisables (vs 54 à l'origine),
 * 4 Mai : 290 Propriétés sont maintenant collatéralisables !\
   Le facteur de réserve de la v2 a été porté à 100% (donc plus aucun intérêt, n'est versé sur les dépôts de XDAI).\
   98 K ont été ajoutés par RealT sur la v2, afin de permettre à ceux qui ne pouvaient retirer leurs dépôts de XDAI par manque de liquidité, de pouvoir le faire.
 * Le 6 Juin : 142 nouvelles propriétés ont été ajoutées au RMM v3. Ce qui fait au total 432 sur plus de 520 propriétés, disponibles comme collatéral.&#x20;
-* 23 Juillet : 35 propriétés ont été ajoutées au RMM.
+* 23 Juillet 2024 : 35 propriétés ont été ajoutées au RMM.
 * ...
+* Novembre 2025 : 623 propriétés sont en collatéral (sur 736 disponibles), la clôture du RMM v2 est engagé, conjointement avec la DAO ([https://forum.realtoken.community/d/94](https://forum.realtoken.community/d/94))\
+
 
 </details>
 
