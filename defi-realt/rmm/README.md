@@ -16,10 +16,9 @@ Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 
 ## Guide utilisateur
 
-Tuto, réalisé par un membre de la communauté : \
+Tuto, réalisé par un membre de la communauté :&#x20;
 
-
-{% file src="../../.gitbook/assets/Tuto RMM v5.pdf" %}
+{% file src="../../.gitbook/assets/Tuto RMM v6.pdf" %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
