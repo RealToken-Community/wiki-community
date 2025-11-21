@@ -1,7 +1,6 @@
 # Ouverture du Capital
 
-En Mars 2024, RealT a ouvert une partie de son capital à ses clients.\
-
+En Mars 2024, RealT a ouvert une partie de son capital à ses clients.<br>
 
 A cette occasion, RealT a publié plusieurs articles :
 

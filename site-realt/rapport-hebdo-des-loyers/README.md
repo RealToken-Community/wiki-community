@@ -28,6 +28,6 @@ A la fin de la liste du wallet, sont présentés les informations suivantes : To
 
 <figure><img src="../../.gitbook/assets/image (208).png" alt=""><figcaption></figcaption></figure>
 
-L'ensemble des loyers payés est accessible sur [google drive RealT](https://drive.google.com/drive/folders/1hmlw04fNhj-1nN0S493fheLzcZOLai\_G).
+L'ensemble des loyers payés est accessible sur [google drive RealT](https://drive.google.com/drive/folders/1hmlw04fNhj-1nN0S493fheLzcZOLai_G).
 
-Il existe aussi un [site communautaire](https://ehpst.duckdns.org/realt\_rent\_tracker/holder), qui présente de façon visuelle vos loyers (en indiquant l'adresse de votre wallet).\
+Il existe aussi un [site communautaire](https://ehpst.duckdns.org/realt_rent_tracker/holder), qui présente de façon visuelle vos loyers (en indiquant l'adresse de votre wallet).<br>

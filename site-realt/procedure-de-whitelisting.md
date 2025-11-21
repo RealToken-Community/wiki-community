@@ -38,8 +38,7 @@ Compter 1 à 2 jours, pour que votre demande soit exécutée.
 
 Les sites communautaires suivants, vous permettent de lister l'ensemble des RealTokens que vous avez whitelistés (en indiquant l'adresse de votre wallet) : \
 \
-[https://dashboard.realtoken.community/](https://dashboard.realtoken.community/)\
-
+[https://dashboard.realtoken.community/](https://dashboard.realtoken.community/)<br>
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
 

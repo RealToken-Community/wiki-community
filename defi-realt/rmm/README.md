@@ -18,7 +18,7 @@ Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 
 Tuto, réalisé par un membre de la communauté :&#x20;
 
-{% file src="../../.gitbook/assets/Tuto RMM v6.pdf" %}
+{% file src="../../.gitbook/assets/Tuto RMM v7.pdf" %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -50,8 +50,7 @@ En complément du guide utilisateur, un document (un peu) plus technique sur com
 * Le 6 Juin : 142 nouvelles propriétés ont été ajoutées au RMM v3. Ce qui fait au total 432 sur plus de 520 propriétés, disponibles comme collatéral.&#x20;
 * 23 Juillet 2024 : 35 propriétés ont été ajoutées au RMM.
 * ...
-* Novembre 2025 : 623 propriétés sont en collatéral (sur 736 disponibles), la clôture du RMM v2 est engagé, conjointement avec la DAO ([https://forum.realtoken.community/d/94](https://forum.realtoken.community/d/94))\
-
+* Novembre 2025 : 623 propriétés sont en collatéral (sur 736 disponibles), la clôture du RMM v2 est engagé, conjointement avec la DAO ([https://forum.realtoken.community/d/94](https://forum.realtoken.community/d/94))<br>
 
 </details>
 

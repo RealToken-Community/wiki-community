@@ -9,8 +9,7 @@ Le 10 Avril 2025, RealT a annoncé la création d'un nouveau token le **REUSD qu
 Les différents **cas d'usage** du REUSD sont :&#x20;
 
 *   **Achat**, sur [Realt.co](https://realt.co/), de nouveaux Realtokens chaque REUSD valant 1$ d'achat\
-    &#x20;([Request Finance](acheter-des-realtokens/paiement-avec-request-finance.md) n'acceptant qu'un seul token de paiement, vous devez disposer de la quantité de REUSD nécessaire à votre achat ), .\
-
+    &#x20;([Request Finance](acheter-des-realtokens/paiement-avec-request-finance.md) n'acceptant qu'un seul token de paiement, vous devez disposer de la quantité de REUSD nécessaire à votre achat ), .<br>
 
     <figure><img src="../.gitbook/assets/image (320).png" alt="" width="241"><figcaption></figcaption></figure>
 
@@ -46,8 +45,7 @@ Pour limiter les pertes, induites par la faible liquidité lors des échanges, l
     * en cas d’achat de REUSD vous perdez 5,59 REUSD (81,84- 87,43)
 
     Cette différence est proportionnelle au montant échangé. L'opération est donc à réserver pour de petits montants, compte tenu de la liquidité actuelle.\
-    \
-
+    <br>
 
 **2 - La solution un peu moins simple, mais qui peut être financièrement plus efficace est de faire l'échange directement sur la pool.**
 
@@ -63,21 +61,18 @@ Pour limiter les pertes, induites par la faible liquidité lors des échanges, l
 
 <p align="center"><br> <img src="../.gitbook/assets/image (8).png" alt=""></p>
 
-L'échange se fera alors avec toutes les pools qui sont Sushiswap (sans avoir besoin de choisir l'une d'entre elles).\
-
+L'échange se fera alors avec toutes les pools qui sont Sushiswap (sans avoir besoin de choisir l'une d'entre elles).<br>
 
 </details>
 
 
 
-* [**Revente**](vendre-ses-realtokens.md)**,** sur [Realt.co](https://realt.co/) : Cette option évoquée à l'origine ne devrait pas être mise en place. ([https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39](https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39))\
-
+* [**Revente**](vendre-ses-realtokens.md)**,** sur [Realt.co](https://realt.co/) : Cette option évoquée à l'origine ne devrait pas être mise en place. ([https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39](https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39))<br>
 
 &#x20;Documents publiés par RealT lors de l'annonce :
 
 * Article Medium (EN) : [https://medium.com/realtplatform/introducing-reusd-realtokens-innovative-voucher-token-solution-1708b0fa1a82](https://medium.com/realtplatform/introducing-reusd-realtokens-innovative-voucher-token-solution-1708b0fa1a82)
-* FAQ : [https://faq.realt.co/en/article/what-is-the-reusd-1qotto0/](https://faq.realt.co/en/article/what-is-the-reusd-1qotto0/)\
-
+* FAQ : [https://faq.realt.co/en/article/what-is-the-reusd-1qotto0/](https://faq.realt.co/en/article/what-is-the-reusd-1qotto0/)<br>
 
 Adresses du token :
 

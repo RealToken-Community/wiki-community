@@ -74,8 +74,7 @@ Les DApp (applications qui s'accèdent avec un wallet) peuvent généralement ê
 * en "mode écriture", pour signer des transactions associées à la DApp,
 * mais aussi en "mode lecture", juste pour accéder à la DApp sans pouvoir faire de transactions.
 
-Puisque vous disposez de l'adresse de votre _Realtoken Wallet,_ vous pouvez donc accéder aux DApp en mode lecture. Pour YAM et RMM l'intérêt est limité, puisque vous ne pouvez faire de transactions, par contre vous pourriez voir vos RealTokens sur le [Dashboard Communautaire](https://dashboard.realt.community/) : \
-
+Puisque vous disposez de l'adresse de votre _Realtoken Wallet,_ vous pouvez donc accéder aux DApp en mode lecture. Pour YAM et RMM l'intérêt est limité, puisque vous ne pouvez faire de transactions, par contre vous pourriez voir vos RealTokens sur le [Dashboard Communautaire](https://dashboard.realt.community/) : <br>
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure>
 

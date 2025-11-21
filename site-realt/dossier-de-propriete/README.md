@@ -19,8 +19,7 @@ Les documents juridiques (non copiables) qui peuvent y figurer, sont :&#x20;
    \
    Pour mémoire : Les LLC Series n'étant pas reconnues au Michigan, l'achat est d'abord fait par une LLC (via Warranty Deed), qui transmet ensuite la propriété à la Series LLC correspondante (via Quit Claim Deed). \
    Le montage  a été rappelé lors du CC suivant : [https://youtu.be/nn7eKY2tJiQ?t=2480](https://youtu.be/nn7eKY2tJiQ?t=2480)\
-   Le fonctionnement les Series LLC a été détaillé lors du CC suivant : [https://youtu.be/VhrCzD5pLmo?t=780](https://youtu.be/VhrCzD5pLmo?t=780)\
-
+   Le fonctionnement les Series LLC a été détaillé lors du CC suivant : [https://youtu.be/VhrCzD5pLmo?t=780](https://youtu.be/VhrCzD5pLmo?t=780)<br>
 6. Document juridique lors de la création de la Société qui détiendra le bien,
 7. Règlement administratif qui régi le fonctionnement de la Société qui détient le bien.
 
@@ -36,8 +35,7 @@ A l'issue d'une [réévaluation](../reevaluation.md), le justificatif correspond
 
 <figure><img src="../../.gitbook/assets/image (246).png" alt="" width="563"><figcaption></figcaption></figure>
 
-En Avril 2024, RealT a ajouté pour certaines propriétés, des informations sur les taxes foncières\
-
+En Avril 2024, RealT a ajouté pour certaines propriétés, des informations sur les taxes foncières<br>
 
 <figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 

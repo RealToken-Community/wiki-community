@@ -20,8 +20,7 @@ particulièrement adaptés aux spécificités des RealToken
 
     <figure><img src="../.gitbook/assets/image (136).png" alt=""><figcaption></figcaption></figure>
 
-    Nota : Le dashboard ne tient pas compte de la date de début de paiement des loyers.\
-
+    Nota : Le dashboard ne tient pas compte de la date de début de paiement des loyers.<br>
 * Feuille Google Sheet : [https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K\_CR-dcuTQQaWub2x7BC5rAYwY/](https://docs.google.com/spreadsheets/d/1DBa8TZzxbQStjEg8-K_CR-dcuTQQaWub2x7BC5rAYwY/)\
   Vous pouvez l'adapter à votre propre portefeuille, pour cela il suffit :\
   \- d'en faire une copie (onglet Fichiers, puis créer une copie),\
@@ -30,8 +29,7 @@ particulièrement adaptés aux spécificités des RealToken
   \- le nombre que vous possédez de cette propriété (colonne D),\
   \- le prix d'achat de cette propriété (colonne F).\
   \- vous effacer ou copier des lignes, pour ajuster au nombre de propriété possédé.\
-  Ce tableur se mettra à jour automatiquement et restera privé (puisque sur votre google drive).\
-
+  Ce tableur se mettra à jour automatiquement et restera privé (puisque sur votre google drive).<br>
 *   Site [Ehpst](https://ehpst.duckdns.org/realt_rent_tracker/whitelist_status) : avec possibilité de lister les propriétés sur lesquelles vous êtes Whitelisté.
 
     <figure><img src="../.gitbook/assets/image (160).png" alt=""><figcaption></figcaption></figure>

@@ -8,8 +8,7 @@ Ainsi, d’autres applications développées par la Communauté, peuvent utilise
 
 ## L’application API
 
-L’application est constituée de son code ainsi que d’une application web de documentation, basée sur la solution _NelmioApiDocBundle._ Elle est disponible à l’adresse suivante : [https://api.realtoken.community/](https://api.realtoken.community/)\
-
+L’application est constituée de son code ainsi que d’une application web de documentation, basée sur la solution _NelmioApiDocBundle._ Elle est disponible à l’adresse suivante : [https://api.realtoken.community/](https://api.realtoken.community/)<br>
 
 <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
