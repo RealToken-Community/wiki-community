@@ -7,17 +7,16 @@ description: pour les échanges de RealTokens
 Les applications Web 3 (qui s'accèdent avec un wallet) sont généralement constituées de deux parties : les smart contrat (le coeur de l'application) et une interface (ou front-end, pour la présentation).\
 \
 Pour les échanges de RealTokens, il y a deux smart contrat :\
-&#x20;\- Swapcat (utilisé à l'origine de Realt), \
-&#x20;\- YAM (développé par la suite par RealT).
+\- Swapcat (utilisé à l'origine de Realt),\
+\- YAM (développé par la suite par RealT).
 
-Coté Front-End :  \
-&#x20; \- celui de Swapcat (très rudimentaire), avait été complété par la communauté d'un [dashboard](swap.md#lancien-dashboard-swapcat) (plus disponible).\
-&#x20;\- celui de YAM a été complété de par la communauté de plusieurs applications :
+Coté Front-End :\
+\- celui de Swapcat (très rudimentaire), avait été complété par la communauté d'un [dashboard](swap.md#lancien-dashboard-swapcat) (plus disponible).\
+\- celui de YAM a été complété de par la communauté de plusieurs applications :
 
-&#x20;  \- Les applications Web, qui affichent l'ensemble des offres avec des outils d'analyse (et basculent vers les deux smart contrat, pour l'exécution des transactions) : [Pit'Swap qui évolue vers Pit'BI](swap.md#pitswap-et-pitbi) et [rent tracker](swap.md#site-de-ehpst-realt-rent-tracker),\
-&#x20;  \- Les "robots" Telegram qui affichent de façon chronologique les offres créées ou modifiée : RealT OTC ([https://t.me/RealTokenOTC](https://t.me/RealTokenOTC) ) et RealT YAM Offers  ([https://t.me/realtyamoffers](https://t.me/realtyamoffers) ),\
-&#x20;  \- Une application qui permet de créer/ modifier une offre et d'agir à partir de son numéro d'offre : [YamByOfferID](swap.md#yambyofferid)\
-
+\- Les applications Web, qui affichent l'ensemble des offres avec des outils d'analyse (et basculent vers les deux smart contrat, pour l'exécution des transactions) : [Pit'Swap qui évolue vers Pit'BI](swap.md#pitswap-et-pitbi) et [rent tracker](swap.md#site-de-ehpst-realt-rent-tracker),\
+\- Les "robots" Telegram qui affichent de façon chronologique les offres créées ou modifiée : RealT OTC ([https://t.me/RealTokenOTC](https://t.me/RealTokenOTC) ) et RealT YAM Offers ([https://t.me/realtyamoffers](https://t.me/realtyamoffers) ),\
+\- Une application qui permet de créer/ modifier une offre et d'agir à partir de son numéro d'offre : [YamByOfferID](swap.md#yambyofferid)\\
 
 {% hint style="info" %}
 Les sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne sont pas de [faux token](https://realt.co/warning-malicious-activity-on-swap-cat-involving-fake-realtokens/)s.
@@ -25,7 +24,7 @@ Les sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne s
 
 ## Pit'Swap et Pit's BI
 
-[https://pitswap.netlify.app](https://pitswap.netlify.app)&#x20;
+[https://pitswap.netlify.app](https://pitswap.netlify.app)
 
 <figure><img src="../.gitbook/assets/image (207).png" alt=""><figcaption></figcaption></figure>
 
@@ -43,7 +42,7 @@ Les sites ci-après, vérifient (via l'API RealT) que les tokens échangés ne s
 
 [https://yambyofferid.netlify.app/](https://yambyofferid.netlify.app/)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="317"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="317"><figcaption></figcaption></figure>
 
 ## L'ancien Dashboard Swapcat
 

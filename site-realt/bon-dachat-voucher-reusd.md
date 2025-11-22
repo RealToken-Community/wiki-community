@@ -27,18 +27,18 @@ Pour limiter les pertes, induites par la faible liquidité lors des échanges, l
 
 *   Pour 1inch, se connecter à [https://app.1inch.io/fr/swap?src=100:USDC](https://app.1inch.io/fr/swap?src=100:USDC)
 
-    <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
 
 -   Cliquez sur « Sélectionner un token », et copier coller l’adresse du token REUSD
 
     ( 0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9 ).\
     Nota : le REUSD étant un token pas très connu, un message d'alerte vous sera très certainement affiché.
 
-    <figure><img src="../.gitbook/assets/image (1) (1).png" alt="" width="533"><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt="" width="533"><figcaption></figcaption></figure>
 
 *   Cliquer sur la flèche centrale pour choisir le sens de votre échange (achat ou vente de REUSD), puis indiquer la valeur que vous souhaitez changer :
 
-    <figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 *   Ici, avec un cours à 1 REUSD = 0,8743 USDC et par rapport à la parité 1:1 :
 
     * en cas de ventre de REUSD vous perdez 12,56 USDC (100-87,43)&#x20;
