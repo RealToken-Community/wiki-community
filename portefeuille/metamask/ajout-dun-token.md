@@ -13,26 +13,26 @@ Cet ajout n'est pas obligatoire pour recevoir tels ou tels tokens, c'est juste p
 
 ## Ajout de l'USDC sur le réseau Gnosis
 
-Il faut au préalable avoir [installé le réseau Gnosis](ajout-dun-reseau.md) sur MetaMask et l'avoir sélectionné (en haut à droite). Deux méthodes sont là aussi possible :&#x20;
+Il faut au préalable avoir [installé le réseau Gnosis](ajout-dun-reseau.md) sur MetaMask et l'avoir sélectionné (en haut à droite). Deux méthodes sont là aussi possible :
 
-*   La méthode automatique : avec le site [Coinmarketcap en recherchant l'USDC](https://coinmarketcap.com/fr/currencies/usd-coin/), en cliquant "more" , puis sur le renard du réseau souhaité (xDai/Gnosis) et l'ajout se fait..
+*   La méthode automatique : avec le site [Coinmarketcap en recherchant l'USDC](https://coinmarketcap.com/fr/currencies/usd-coin/), en cliquant la flèche de sélection des réseaux, puis avec l'ascenseur en choisisant Gnosis Chain et en cliquant sur l'icone de renard :<br>
 
-    <figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption></figcaption></figure>
-* La méthode manuelle (qui va vous servir aussi pour ajouter un RealToken) :&#x20;
-  1. Sur MetaMask : Sélectionnez l'onglet "Tokens",
-  2. Faites défiler vers le bas et cliquez sur "Importer des jetons",
-  3. Indiquer l'adresse du jeton (que vous trouvez par ex. en tapant "adresse USDC Gnosis" sur Google ou sur [l'explorateur](../../defi-realt/explorateurs/) : soit 0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83 )
+    <figure><img src="../../.gitbook/assets/image (331).png" alt="" width="473"><figcaption></figcaption></figure>
+*   La méthode manuelle (qui va vous servir aussi pour ajouter un RealToken) :
 
-<figure><img src="../../.gitbook/assets/image (212).png" alt=""><figcaption></figcaption></figure>
+    1. Sur MetaMask : Sélectionnez l'onglet "Ajouter des Jetons",
+    2. Sélectionner "Jeton personnalisé" , puis le réseau Gnosis, puis indiquer l'adresse du jeton (que vous trouvez par ex. en tapant "adresse USDC Gnosis" sur Google ou sur [l'explorateur](../../defi-realt/explorateurs/) : soit 0xDDAfbb505ad214D7b80b1f830fcCc89B60fb7A83 )
+    3. Importer, le token apparaitra dans votre liste (avec son montant)
+
+    <figure><img src="../../.gitbook/assets/image (333).png" alt="" width="523"><figcaption></figcaption></figure>
 
 ## Ajout d'un RealToken
 
-Pour ajouter le token correspondant à une propriété RealT, il faut  :&#x20;
+Pour ajouter le token correspondant à une propriété RealT, il faut :
 
-*   Chercher l'adresse du smart-contract, sur la fiche de la propriété sur le site RealT :&#x20;
+*   Chercher l'adresse du smart-contract, sur la fiche de la propriété sur le site RealT :
 
     <figure><img src="../../.gitbook/assets/image (79).png" alt=""><figcaption></figcaption></figure>
-*   Copier l'adresse du contrat, l'ajouter sur MetaMask, et réduire la taille du nom à 11 caractères
+*   Copier l'adresse du contrat, l'ajouter sur MetaMask, et réduire la taille du nom à 11 caractères&#x20;
 
-    <figure><img src="../../.gitbook/assets/image (61).png" alt=""><figcaption></figcaption></figure>
-
+    <figure><img src="../../.gitbook/assets/image (334).png" alt="" width="475"><figcaption></figcaption></figure>
