@@ -24,7 +24,7 @@ Un [vote on-chain](../defi-realt/vote-realt.md) est organisé pour les propriét
 
 A l'issue du vote favorable, la vente a été réalisée et les propriétaires ont touché leur quotepart (frais déduits, conformément au bilan financier) et les Realtoken on été détruit (burn).<br>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="350"><figcaption></figcaption></figure>
 
 A la suite du vote, la vente peut ne pas avoir lieu comme ce fut le cas en 2024 pour la propriété Appoline (l'acheteur ayant fait une contre-offre trop éloignée du prix souhaité).
 
