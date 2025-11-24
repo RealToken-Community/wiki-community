@@ -6,7 +6,7 @@ description: Authentification avec double facteurs à votre compte RealT
 
 L’activation du 2FA est obligatoire pour les nouveaux utilisateurs et sera progressivement imposée aux anciens (cf [CC 16/10/2025](https://t.me/RtCCR/380) et message suivant qui va apparaitre)
 
-<figure><img src="../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 ## Le 2FA et le TOTP : c'est quoi ?
 

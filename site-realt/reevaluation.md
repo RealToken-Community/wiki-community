@@ -19,7 +19,7 @@ Dans l'exemple ci-dessus, la propriété achetée à l'origine à 70,5 k$ vaut e
 
 Concernant le montant de l'investissement, qui détermine le prix du token, il évolue comme suit dans l'exemple ci-dessus :
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Après réévaluation, les montants des provisions à l'origine n'apparaissent plus dans l'onglet "Financials" de la propriété mais vous pouvez les retrouver sur les [outils communautaire](../la-communaute-realt/analyse-des-proprietes.md)s.
