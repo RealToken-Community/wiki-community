@@ -4,11 +4,11 @@ Suite à la vente de nouveaux Realtokens, RealT peut rencontrer des problèmes p
 
 Jusqu'en avril 2025, lorsque cela se produisait RealT proposait un échange avec une propriété semblable. Cet échange pouvait mettre plusieurs mois a être mis en place, privant les investisseurs des fonds correspondants durant la période (et engendrait des frais récurrents chez RealT).
 
-Le 10 Avril 2025, RealT a annoncé la création d'un nouveau token le **REUSD qui est un bon d'achat** (voucher) que  l'investisseur recevra rapidement en cas de vente annulée. \
-\
-Les différents **cas d'usage** du REUSD sont :&#x20;
+Le 10 Avril 2025, RealT a annoncé la création d'un nouveau token le **REUSD qui est un bon d'achat** (voucher) que  l'investisseur recevra rapidement en cas de vente annulée.&#x20;
 
-*   **Achat**, sur [Realt.co](https://realt.co/), de nouveaux Realtokens chaque REUSD valant 1$ d'achat\
+### **Différents cas d'usage du REUSD** :&#x20;
+
+*   **Achat**, sur [Realt.co](https://realt.co/), de nouveaux Realtokens : chaque REUSD permet 1$ d'achat sur Realt.co\
     &#x20;([Request Finance](acheter-des-realtokens/paiement-avec-request-finance.md) n'acceptant qu'un seul token de paiement, vous devez disposer de la quantité de REUSD nécessaire à votre achat ), .<br>
 
     <figure><img src="../.gitbook/assets/image (320).png" alt="" width="241"><figcaption></figcaption></figure>
@@ -28,14 +28,12 @@ Pour limiter les pertes, induites par la faible liquidité lors des échanges, l
 *   Pour 1inch, se connecter à [https://app.1inch.io/fr/swap?src=100:USDC](https://app.1inch.io/fr/swap?src=100:USDC)
 
     <figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="293"><figcaption></figcaption></figure>
-
--   Cliquez sur « Sélectionner un token », et copier coller l’adresse du token REUSD
+*   Cliquez sur « Sélectionner un token », et copier coller l’adresse du token REUSD
 
     ( 0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9 ).\
     Nota : le REUSD étant un token pas très connu, un message d'alerte vous sera très certainement affiché.
 
     <figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="533"><figcaption></figcaption></figure>
-
 *   Cliquer sur la flèche centrale pour choisir le sens de votre échange (achat ou vente de REUSD), puis indiquer la valeur que vous souhaitez changer :
 
     <figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
@@ -65,16 +63,24 @@ L'échange se fera alors avec toutes les pools qui sont Sushiswap (sans avoir be
 
 </details>
 
+* [**Revente**](vendre-ses-realtokens.md)**,** sur [Realt.co](https://realt.co/) : Cette option évoquée à l'origine, ne devrait pas être mise en place. ([https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39](https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39))
 
+En cas de perte d'accès à votre wallet (cas de perte, mais pas de vol), Realt sera capable de vous restituer vos REUSD (comme pour les Realtokens, et à la différence des Stablecoins).
 
-* [**Revente**](vendre-ses-realtokens.md)**,** sur [Realt.co](https://realt.co/) : Cette option évoquée à l'origine ne devrait pas être mise en place. ([https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39](https://forum.realtoken.community/d/87-rip00033-new-dao-liquidity-pool--reusd--usdc/39))<br>
+### **Ce que n'est pas le REUSD** (en l'état actuel) :
 
-&#x20;Documents publiés par RealT lors de l'annonce :
+* un stablecoin (ou RWA) : il n'est pas échangeable contre 1$ (une action ou obligation), mais contre 1$ d'achat sur Realt.co, c'est un BON d'achat.
+* un token d'investissement : son objectif premier et de permettre un rachat rapide de Realtokens (passer simplement d'un projet annulé à un autre projet), il ne rapporte aucun revenu récurrent ou aucune plus value. Il ne sera donc par sur RMM.\
+  [https://t.me/RealT\_France/1/525183](https://t.me/RealT_France/1/525183)
+
+Le fonctionnement actuel du REUSD (/ sa forme juridique) a permis de mettre en place une première solution, qui pourra évoluer à l'avenir (plusieurs pistes sont à l'étude).
+
+### &#x20;Documents publiés par RealT lors de l'annonce :
 
 * Article Medium (EN) : [https://medium.com/realtplatform/introducing-reusd-realtokens-innovative-voucher-token-solution-1708b0fa1a82](https://medium.com/realtplatform/introducing-reusd-realtokens-innovative-voucher-token-solution-1708b0fa1a82)
 * FAQ : [https://faq.realt.co/en/article/what-is-the-reusd-1qotto0/](https://faq.realt.co/en/article/what-is-the-reusd-1qotto0/)<br>
 
-Adresses du token :
+### Adresses du token :
 
 * Sur Gnosis : [https://gnosisscan.io/address/0x3390742ac0dce14ea6fcbd5ae02e2303c5d62ad9](https://gnosisscan.io/address/0x3390742ac0dce14ea6fcbd5ae02e2303c5d62ad9)
 * Sur Ethereum : [https://etherscan.io/token/0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9](https://etherscan.io/token/0x3390742Ac0DCe14EA6Fcbd5Ae02e2303C5D62Ad9)
