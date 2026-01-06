@@ -10,7 +10,7 @@ Avec le _Realtoken Wallet_, vous disposerez de fonctionnalités supplémentaires
 
 Ensuite, vous devrez choisir l'un de vos comptes existants, qui sera utilisé pour accéder à votre _Realtoken Wallet_. Ce peut être celui de : Google, Facebook, Discord ou Twitch.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="318"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="318"><figcaption></figcaption></figure>
 
 Vous avez la possibilité, d’ajouter une sécurité d'accès complémentaire au moyen d’un second facteur d’authentification (2FA). \
 Cette option peut ne pas être retenue dans un premier temps, en faisant "_Skip now_ » en bas de l’écran. \
@@ -20,7 +20,7 @@ Si vous continuez en initialisant le 2FA, un second social login sera demandé (
 
 Une fois le 2FA traité, vous devrez initialiser le nouveau _Realtoken Wallet_, qui sera doté à cette occasion de 0,1 XDAI pour payer les premiers frais de transactions.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 La démarche de création du _Realtoken Wallet_ n'est à exécuter qu'une seule fois.&#x20;
 

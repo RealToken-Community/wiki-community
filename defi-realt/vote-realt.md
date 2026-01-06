@@ -16,6 +16,6 @@ Les personnes concernés sont prévenus par RealT et peuvent voter en se connect
 
 Le poids de chaque actionnaire ainsi que sa participation, est visible sur l'application :&#x20;
 
-<figure><img src="../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Le vote peut concerner d'autres décisions que la detokenisation, tel est le cas dans le vote sur [Vervana ](https://vote.realtoken.network/assets/100609/vote/1)

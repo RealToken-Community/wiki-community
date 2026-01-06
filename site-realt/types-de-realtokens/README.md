@@ -1,6 +1,6 @@
 # Types de RealTokens
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt="" width="530"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="530"><figcaption></figcaption></figure>
 
 RealT, a commencé par la tokenisation de biens immobiliers, et ajoute progressivement la tokenisation d'autres actifs du monde réel (RWA) :
 

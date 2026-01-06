@@ -4,7 +4,7 @@ description: >-
   particulièrement pour échanger vos RealTokens sur Gnosis Chain)
 ---
 
-# Dex de Swap
+# Swap (YAM et autres..)
 
 ## **Le marché secondaire RealT**
 
@@ -19,7 +19,7 @@ L'achat et la vente de RealTokens peuvent être effectués sur les solutions sui
 * [Levinswap](levinswap/) (peu de liquidité : pour des fractions de RealToken),
 * [Swapcat](swapcat.md) (généralement utilisé derrière des Front-End communautaires)
 * [YAM ](yam.md)(développé par RealT et mis en Open Source),
-* [1inch](swap-avec-1inch.md)
+* [1inch](swap-avec-1inch.md) (plus disponible)
 
 Un [canal Telegram](https://t.me/RealTOTC) est dédié aux annonces d'offre en P2P
 

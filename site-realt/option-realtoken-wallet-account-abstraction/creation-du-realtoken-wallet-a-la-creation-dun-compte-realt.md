@@ -10,7 +10,7 @@ Depuis le 19 Juin 2024, l’option _WalletLess_ est remplacée « _Realtoken Wal
 * Soit la création d’un _Realtoken Wallet_ (Abstract Account), auquel vous pourrez accéder avec vos identifiants existants : compte gmail ou réseaux sociaux,
 *   Soit l’usage d’un Wallet existant, en cliquant sur « _No Thanks..._ » en bas de l’écran.
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="549"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="549"><figcaption></figcaption></figure>
 
 En continuant, avec « _Get a Realtoken Wallet_ », un message complémentaire vous informe
 
@@ -18,7 +18,7 @@ En continuant, avec « _Get a Realtoken Wallet_ », un message complémentaire v
 *   que le changement de _RealToken Wallet_ vers _Private Wallet_ n’est actuellement pas disponible et que vous devez donc être sur de votre choix.\
     (Nota : Avec la DApp _Realtoken wallet_ le changement est maintenant disponible)
 
-    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="482"><figcaption></figcaption></figure>
 
 Ensuite, vous devrez choisir l'un de vos comptes existants, qui sera utilisé pour accéder à votre _Realtoken Wallet_. Ce peut être celui de : Google, Facebook, Discord ou Twitch.
 
@@ -32,7 +32,7 @@ Si vous continuez en initialisant le 2FA, un second social login sera demandé (
 
 Une fois le 2FA traité, vous devrez initialiser le nouveau _Realtoken Wallet_, qui sera doté à cette occasion de 0,1 XDAI pour payer les premiers frais de transactions.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="360"><figcaption></figcaption></figure>
 
 La démarche de création du _Realtoken Wallet_ n'est à exécuter qu'une seule fois.&#x20;
 

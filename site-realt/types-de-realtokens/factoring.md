@@ -2,7 +2,7 @@
 
 Dans les échanges entre entreprises, le règlement des factures se fait généralement avec un délais de paiement (cf schéma : étape 1, 2, 3, 6bis).
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 L’entreprise fournisseur peut obtenir un règlement plus rapide de ses factures en utilisant les services de Factoring (Affacturage en français). Elle cède alors sa créance (droit à être payé) à l’affactureur (étape 4) et reçoit le paiement réduit d'une commission (étape 5)\
 L’entreprise cliente, règle à l’échéance la facture à l’affactureur (étape 6).\
@@ -18,7 +18,7 @@ L'affacturage peut être, avec ou sans recours :&#x20;
 Des informations détaillées (affactureur, factures traitées, commissions d'affacturage,..) sont disponibles pour le premier token (pour les suivants, les affactureurs seraient réticents à un tel niveau de communication)\
 [https://realt.co/product/realt-factoring-ps-sc-1#tab-title-factoring\_invoices\_tab](https://realt.co/product/realt-factoring-ps-sc-1#tab-title-factoring_invoices_tab)
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

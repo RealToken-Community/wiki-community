@@ -43,17 +43,17 @@ A l'issue de cette commande, vous recevrez dans votre messagerie (celle identifi
 Avant de cliquer sur le bouton bleu ci-dessus, il est préférable au préalable : d'ouvrir un autre onglet sur votre navigateur et de vous connecter à votre compte Realt.co (sinon, vous devrez recliquer sur le bouton bleu après vous être connecté au site).\
 La fenêtre ci-dessous apparaitra et vous pourrez enchainer le process de paiement, sur le site Realt.co.
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Pour autoriser la transaction, il vous sera demandé de vous connecter à votre _Realtoken Wallet_ (avec à nouveau une proposition de sécurisation via 2FA, si ce n'a pas déjà été fait) ;  &#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Si vous avez activé le MFA/2FA et que vous rencontrez des soucis : [page spécifique](des-soucis-avec-le-mfa-ou-2fa-...md)
 
 Une fois connecté à votre _Realtoken Wallet_, vous pourrez ordonner le paiement :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 A l'issue du paiement, vous recevez un mail vous confirmant/remerciant de votre commande.\
 &#x20;         Dans l'onglet "Order" du site, le statut de votre commande est passé à "_Contracts Sent_".
@@ -76,7 +76,7 @@ Les DApp (applications qui s'accèdent avec un wallet) peuvent généralement ê
 
 Puisque vous disposez de l'adresse de votre _Realtoken Wallet,_ vous pouvez donc accéder aux DApp en mode lecture. Pour YAM et RMM l'intérêt est limité, puisque vous ne pouvez faire de transactions, par contre vous pourriez voir vos RealTokens sur le [Dashboard Communautaire](https://dashboard.realt.community/) : <br>
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="323"><figcaption></figcaption></figure>
 
 ## Comment acheter des USDC pour votre Realtoken Wallet
 

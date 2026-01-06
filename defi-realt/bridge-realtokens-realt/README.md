@@ -20,6 +20,6 @@ Une application de Bridge, spécifique aux RealTokens, est disponible depuis le 
 \
 Elle utilise la technologie de base d'[OmniBridge](https://omnibridge.gnosischain.com/bridge) (bridge officiel entre Ethereum et GnosisChain), ainsi  que ses validateurs.
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="248"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="248"><figcaption></figcaption></figure>
 
 Comment l'utiliser ....
