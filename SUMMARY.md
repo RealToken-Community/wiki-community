@@ -66,7 +66,7 @@
   * [La DAO et son REG](defi-realt/la-dao-et-son-reg.md)
   * [Bridge Crypto](defi-realt/bridge.md)
   * [Bridge Realtokens (RealT)](defi-realt/bridge-realtokens-realt/README.md)
-    * [Brige, fonctions de base](defi-realt/bridge-realtokens-realt/brige-fonctions-de-base.md)
+    * [Bridge, fonctions de base](defi-realt/bridge-realtokens-realt/brige-fonctions-de-base.md)
     * [Bridge intégré au Claim](defi-realt/bridge-realtokens-realt/bridge-integre-au-claim.md)
     * [Bridge, en cas de Pb..](defi-realt/bridge-realtokens-realt/bridge-en-cas-de-pb...md)
   * [Bridge REG (RealT)](defi-realt/bridge-reg-realt.md)
