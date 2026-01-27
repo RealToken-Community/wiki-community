@@ -10,7 +10,7 @@ Des frais de 3 % sont prélevés sur la vente.
 
 <figure><img src="../.gitbook/assets/image (89).png" alt=""><figcaption></figcaption></figure>
 
-[Video d'explication](https://youtu.be/soGx6YLYO6k) sur l'ensemble de la démarche.
+[Video d'explication](https://youtu.be/UtJbjydrvy4?t=37) sur l'ensemble de la démarche.
 
 Article de la base de support RealT [sur le sujet](https://faq.realt.co/en/article/sending-your-realtokens-back-to-realt-using-metamask-69ir4n/)
 
