@@ -12,7 +12,7 @@ Des frais de 3 % sont prélevés sur la vente.
 
 [Video d'explication](https://youtu.be/soGx6YLYO6k) sur l'ensemble de la démarche.
 
-Article de la base de support RealT [sur le sujet](https://faq.realt.co/en/articles/5703186-sending-your-realtokens-back-to-realt-using-the-realt-wallet)
+Article de la base de support RealT [sur le sujet](https://faq.realt.co/en/article/sending-your-realtokens-back-to-realt-using-metamask-69ir4n/)
 
 **Frais de vacance (non occupation)**&#x20;
 
