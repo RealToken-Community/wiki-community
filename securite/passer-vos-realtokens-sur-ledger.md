@@ -11,4 +11,4 @@ Le tuto ci-après, détaille :&#x20;
 * Comment transférer vos RealTokens vers ce "coffre-fort",
 * Et comment organiser vos usages avec plusieurs wallets.
 
-{% file src="../.gitbook/assets/RealToken sur Ledger v4.pdf" %}
+{% file src="../.gitbook/assets/RealToken sur Ledger v8.pdf" %}

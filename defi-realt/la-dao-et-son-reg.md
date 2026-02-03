@@ -10,7 +10,10 @@ Pour comprendre de quoi il s'agit, en quelques lignes :  lire l'introduction du 
 
 Lors du lancement de la DAO (mai 2024)
 
-* WhitePaper :  [Version FR](https://drive.google.com/file/d/15qJMlREYjhYeYQubP1sAE8HCOFhsh6K6) , [Version EN](https://drive.google.com/file/d/1YE_pWhSCHaTPfDW55U4uBYjrErOtyHp6), [Version ES](https://drive.google.com/file/d/15ujjaXpvLIFPN9GQ0u2FzUWdh5an2o3S)
+* WhitePaper (version FR)
+
+{% file src="../.gitbook/assets/FR - Full Paper April 28 2024.pdf" %}
+
 * Community Call :   [Version FR](https://youtu.be/F-n7PQNDRds?t=117) , [Version EN](https://youtu.be/JsSrZn0_B7E?t=52)&#x20;
 * [Annonce (sur Telegram) de la première distribution (Genesis Airdrop) de REG](https://t.me/Communication_RealT_FR/1165)
 
