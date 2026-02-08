@@ -2,13 +2,13 @@
 
 Le mécanisme de Liquidation garantie le bon fonctionnement du RMM.\
 Lorsque le collatéral d'un wallet n'est plus suffisant pour garantir ses emprunts, il passe automatiquement en mode liquidation (cf détail dans le [tuto](./)).\
-Un liquidateur peut alors acheter, avec une décote, tout ou partie du collatéral du wallet en liquidation, le paiement servant à rembourser l'emprunt.
+Un liquidateur peut alors rembourser tout ou partie de l'emprunt du wallet en liquidation et recevoir en retour des tokens sélectionnés dans le collatéral du wallet en liquidation, avec une décote (Bonus).
 
 La liquidation est ouverte à tous les wallets whitelistés. Ce peut être une autre façon d'acquérir des RealTokens avec réduction.
 
-La liste des Wallets proches de la liquidation, est accessible dans un des onglet du RMM.
+La liste des Wallets en liquidation ou proche de celle-ci, est accessible dans un des onglet du RMM (nota : le RMM v2 étant clos, il n'y a plus de liquidation sur cette version)
 
-<figure><img src="../../.gitbook/assets/image (257).png" alt="" width="246"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (344).png" alt="" width="265"><figcaption></figcaption></figure>
 
 ## Liquidations effectuées
 
