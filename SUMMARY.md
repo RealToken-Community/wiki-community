@@ -10,7 +10,7 @@
     * [Migration Walletless vers "RealToken Wallet"](site-realt/option-realtoken-wallet-account-abstraction/migration-walletless-vers-realtoken-wallet.md)
     * [Usage du "RealToken Wallet"](site-realt/option-realtoken-wallet-account-abstraction/usage-du-realtoken-wallet.md)
     * [Application "Realtoken Wallet"](site-realt/option-realtoken-wallet-account-abstraction/application-realtoken-wallet.md)
-    * [Protection via MFA..](site-realt/option-realtoken-wallet-account-abstraction/des-soucis-avec-le-mfa-ou-2fa-...md)
+    * [Protection via MFA](site-realt/option-realtoken-wallet-account-abstraction/des-soucis-avec-le-mfa-ou-2fa-...md)
     * [Paramètres MFA](site-realt/option-realtoken-wallet-account-abstraction/parametres-mfa.md)
     * [Evolution des wallets pour les comptes RealT](site-realt/option-realtoken-wallet-account-abstraction/evolution-des-wallets-pour-les-comptes-realt.md)
     * [Comparatif entre les types de wallet](site-realt/option-realtoken-wallet-account-abstraction/comparatif-entre-les-types-de-wallet.md)
