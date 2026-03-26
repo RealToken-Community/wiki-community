@@ -6,7 +6,7 @@ description: (Documents juridiques)
 
 En bas de la page, détaillant les caractéristiques d'une propriété, vous trouverez une partie "Property Records" :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Les documents juridiques (non copiables) qui peuvent y figurer, sont :&#x20;
 
@@ -31,10 +31,10 @@ Pour les justificatifs de vente, vous aurez parfois le lien vers le registre d'a
 
 Si par contre, vous n'êtes pas propriétaire de ce bien, les informations disponibles seront moindres :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 En Avril 2024, RealT a ajouté pour certaines propriétés, des informations sur les taxes foncières
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Article dans la FAQ correspondant : [https://faq.realt.co/en/article/what-you-need-to-know-about-us-property-taxes-4nd8i1/](https://faq.realt.co/en/article/what-you-need-to-know-about-us-property-taxes-4nd8i1/)

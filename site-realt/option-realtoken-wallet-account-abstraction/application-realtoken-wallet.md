@@ -53,13 +53,13 @@ En bout de ligne à droite, vous disposez d'une flèche sélectable pour agir su
 
 Nota : ça peut être parfois un peu long ...Soyez patient !
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 #### Si vous souhaitez vérifier le transfert sur un explorateur
 
 *   Sur[ l'explorateur](https://gnosisscan.io/)[ Gnosis](https://gnosisscan.io/), entrer votre adresse de _Realtoken wallet,_
 
-    <figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (5) (1) (1) (1).png" alt="" width="375"><figcaption></figcaption></figure>
 *   Sélectionnez "Internal Transactions" , puis cliquer sur la dernière transaction&#x20;
 
     <figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
