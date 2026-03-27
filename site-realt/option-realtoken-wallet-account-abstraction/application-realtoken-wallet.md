@@ -120,13 +120,6 @@ Le problème ne se produit pas : <br>
 * avec un dépot en XDAI, car le XDAI ne supporte pas le mode Permit (l'option "Signed message" ne sera alors pas proposée)
 * lors des dépôts d'USDC suivants, car lors du premier dépôt vous donnez un accès "illimited" du RMM à vos USDC.
 
-#### Utilisation du canal WalletConnect de Rabby
-
-La solution WalletConnect est parfois un peu "capricieuse".  [Rabby](../../portefeuille/rabby.md) à mis en place une solution WalletConnect qui semble plus stable.\
-Tuto pour utiliser ce moyen&#x20;
-
-{% file src="../../.gitbook/assets/WC2 Rabby v2.pdf" %}
-
 ## Vote DAO
 
 Comme toute DApp l'application de vote (Tally) est accessible par WalletConnect.\
