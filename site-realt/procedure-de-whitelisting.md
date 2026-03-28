@@ -38,8 +38,8 @@ Les sites communautaires suivants, vous permettent de lister l'ensemble des Real
 \
 [https://dashboard.realtoken.community/](https://dashboard.realtoken.community/)<br>
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="261"><figcaption></figcaption></figure>
 
 [https://ehpst.duckdns.org/realt\_rent\_tracker/my\_whitelist\_status](https://ehpst.duckdns.org/realt_rent_tracker/my_whitelist_status)
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>

@@ -2,11 +2,11 @@
 
 En mars 2026, une nouvelle possibilité est apparue sur l'application Realtoken Wallet : celle de gérer les paramètres du MFA via l'accès au dashboard Web3Auth :
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Le tableau de bord n'apparait que si vous avez activé l'option MFA :
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Vous y trouverez les informations / possibilités suivantes :&#x20;
 

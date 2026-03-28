@@ -6,7 +6,7 @@ description: (Documents juridiques)
 
 En bas de la page, détaillant les caractéristiques d'une propriété, vous trouverez une partie "Property Records" :&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Les documents juridiques (non copiables) qui peuvent y figurer, sont :&#x20;
 
