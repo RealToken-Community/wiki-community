@@ -18,7 +18,7 @@ Fin 2025, la DAO a voté la [cloture de la version 2 du RMM](https://www.tally.x
 
 Tuto, réalisé par un membre de la communauté :&#x20;
 
-{% file src="../../.gitbook/assets/Tuto RMM v7.pdf" %}
+{% file src="../../.gitbook/assets/Tuto RMM v8.pdf" %}
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
