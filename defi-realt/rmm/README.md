@@ -12,6 +12,8 @@ En Avril 2023, le mode de présentation de l'application a été modifé, en coh
 
 Le 8 Février 2024, la version 3 du RMM a été déployée en production.
 
+Fin 2025, la DAO a voté la [cloture de la version 2 du RMM](https://www.tally.xyz/gov/realtoken-ecosystem-governance/proposal/97018566875849739057791829757781237329950408521603525975301422956278121248932?govId=eip155:100:0x4A5327347f077E72d2AaB19F68Ba8A7F12ec5d63), qui a été executée debut 2026.
+
 ## Guide utilisateur
 
 Tuto, réalisé par un membre de la communauté :&#x20;
