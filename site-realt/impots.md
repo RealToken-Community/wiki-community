@@ -23,6 +23,10 @@ L'ensemble des informations, collectées par RealT sur les blockchains, sont som
 * Le nombre de tokens détenus (Total Tokens Held) en fin d'année,
 * Les revenus générés dans l'année (Income Generated through Investment) en USDC
 
+Nota : Vous pouvez retrouver ces montants à partit de l'explorateur :
+
+{% file src="../.gitbook/assets/Revenu annuel.pdf" %}
+
 ## Groupes de discussion entre investisseurs&#x20;
 
 * Un groupe avec des fiscalistes etc.. à vous de vous faire un avis sur leurs conseils : [https://t.me/fiscalitecryptofr](https://t.me/fiscalitecryptofr),
