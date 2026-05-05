@@ -11,17 +11,21 @@ En avril 2024 (et complété depuis), RealT a publié la communication suivante 
 
 Le _Rent Distribution Report_ annuel est disponible dans la section document du site realt.co :
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="513"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt="" width="519"><figcaption></figcaption></figure>
 
-Le document s'enrichi d'année en année. La version disponible en mars 2025 pour les revenus 2024, détaille propriété par propriété : les Dividendes, les Retours sur capital, les Intérêts d'emprunt ainsi que les Achats 2024 sur le site RealT (et uniquement là).
+Le document s'enrichi d'année en année :&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="476"><figcaption></figcaption></figure>
+* La version disponible en mars 2025 pour les revenus 2024, détaille propriété par propriété : les Dividendes, les Retours sur capital, les Intérêts d'emprunt ainsi que les Achats 2024 sur le site RealT (et uniquement là).
+
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1) (1).png" alt="" width="476"><figcaption></figcaption></figure>
+
+* La version disponible en avril 2026 pour les revenus de 2025, est structurée par pays source des revenus  (USA, Panama, BVI et Suisse), ainsi que par nature de revenus (Dividendes, Intérêts et partage de profits). Les acquisitions n'y figurent plus.
 
 L'ensemble des informations, collectées par RealT sur les blockchains, sont sommées pour donner :&#x20;
 
 * Le montant total de vos actifs (Total Asset Value) en $ en fin d'année,
 * Le nombre de tokens détenus (Total Tokens Held) en fin d'année,
-* Les revenus générés dans l'année (Income Generated through Investment) en USDC
+* Les revenus générés dans l'année (Distributions Generated through Investment) en USDC
 
 Nota : Vous pouvez retrouver ces montants à partit de l'explorateur :
 
