@@ -12,6 +12,7 @@
     * [Application "Realtoken Wallet"](site-realt/option-realtoken-wallet-account-abstraction/application-realtoken-wallet.md)
     * [Protection via MFA](site-realt/option-realtoken-wallet-account-abstraction/des-soucis-avec-le-mfa-ou-2fa-...md)
     * [Paramètres MFA](site-realt/option-realtoken-wallet-account-abstraction/parametres-mfa.md)
+    * [Evolution SDK v9 vers v10](site-realt/option-realtoken-wallet-account-abstraction/evolution-sdk-v9-vers-v10.md)
     * [Evolution des wallets pour les comptes RealT](site-realt/option-realtoken-wallet-account-abstraction/evolution-des-wallets-pour-les-comptes-realt.md)
     * [Comparatif entre les types de wallet](site-realt/option-realtoken-wallet-account-abstraction/comparatif-entre-les-types-de-wallet.md)
     * [V3 du smart contract](site-realt/option-realtoken-wallet-account-abstraction/v3-du-smart-contract.md)
