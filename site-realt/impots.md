@@ -5,7 +5,9 @@ En préambule :  RealT ne peut donner des conseils fiscaux (ils n'ont pas le dro
 ## Taxes sur les investissements RealT
 
 En avril 2024 (et complété depuis), RealT a publié la communication suivante :\
-[https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/](https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/)
+[https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/](https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/) (plus disponible).
+
+Version WebArchive : [https://web.archive.org/web/20260316033432/https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/](https://web.archive.org/web/20260316033432/https://faq.realt.co/en/article/taxes-on-your-realt-investments-176us1n/)
 
 ## Etat annuel
 
