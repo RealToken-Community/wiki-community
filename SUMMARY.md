@@ -102,6 +102,7 @@
   * [Analyse par propriétés](la-communaute-realt/analyse-des-proprietes.md)
   * [Analyse par wallet](la-communaute-realt/analyse-des-investisseurs.md)
   * [Analyse par transaction](la-communaute-realt/analyse-des-transactions-passees.md)
+  * [Historique de vos achats sur le second marché](la-communaute-realt/analyse-des-transactions-passees-1.md)
   * [API](la-communaute-realt/api.md)
   * [Statistiques](la-communaute-realt/statistique-sur-realt.md)
 * [🍈 Liens utiles](annuaire.md)
