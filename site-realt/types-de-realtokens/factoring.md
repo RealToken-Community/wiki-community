@@ -15,11 +15,11 @@ L'affacturage peut être, avec ou sans recours :&#x20;
 * sans recours : l'affactureur et RealT sont les seuls à porter le risque d'impayé. La commission d'affacturage est alors plus élevé. C'est l'option retenue par RealT pour commencer, avec des risques modérés (classe B et C). RealT devra alors se retourner vers le débiteur pour obtenir le règlement.
 * avec recours : l'affactureur peut se retourner auprès de l'entreprise fournisseur pour être réglé. Les frais d'affacturage sont alors plus faible.
 
-Des informations détaillées (affactureur, factures traitées, commissions d'affacturage,..) sont disponibles pour le premier token (pour les suivants, les affactureurs seraient réticents à un tel niveau de communication)\
+Des informations détaillées (affactureur, factures traitées, commissions d'affacturage,..) sont disponibles pour le premier token (pour les suivants, les affactureurs seraient réticents à un tel niveau de communication) :\
 [https://realt.co/product/realt-factoring-ps-sc-1#tab-title-factoring\_invoices\_tab](https://realt.co/product/realt-factoring-ps-sc-1#tab-title-factoring_invoices_tab)
 
 <figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-
+(Nota : L'onglet n'est disponible que si vous avez acquis ce token)
 
 Présentation par RealT lors du CC du 1er Mai 2025 : [https://youtu.be/QCuzZm6CGJM?t=2640](https://youtu.be/QCuzZm6CGJM?t=2640)
